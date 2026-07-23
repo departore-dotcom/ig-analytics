@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "23.07.2026 14:35 МСК",
+  "generated_at": "23.07.2026 15:12 МСК",
   "followers": 9,
   "days": [
     {
@@ -32,7 +32,7 @@ window.IG_DATA = {
       "date_human": "23.07.2026",
       "title": "Пожар на складах WB — удар не по «коробкам», а по деньгам с…",
       "reach": 7,
-      "views": 24,
+      "views": 26,
       "likes": 3,
       "comments": 0,
       "saved": 1,
