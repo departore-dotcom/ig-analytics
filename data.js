@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "23.07.2026 15:12 МСК",
-  "followers": 9,
+  "generated_at": "24.07.2026 00:00 МСК",
+  "followers": 10,
   "days": [
     {
       "day": "2026-07-21",
@@ -24,6 +24,17 @@ window.IG_DATA = {
       "likes": 6,
       "comments": 0,
       "saved": 3
+    },
+    {
+      "day": "2026-07-23",
+      "followers": 10,
+      "media_count": 3,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 10,
+      "comments": 0,
+      "saved": 5
     }
   ],
   "posts": [
@@ -31,14 +42,14 @@ window.IG_DATA = {
       "date": "2026-07-23",
       "date_human": "23.07.2026",
       "title": "Пожар на складах WB — удар не по «коробкам», а по деньгам с…",
-      "reach": 7,
-      "views": 26,
-      "likes": 3,
+      "reach": 11,
+      "views": 34,
+      "likes": 4,
       "comments": 0,
-      "saved": 1,
+      "saved": 2,
       "shares": 0,
-      "interactions": 5,
-      "er": 0.7143,
+      "interactions": 7,
+      "er": 0.6364,
       "permalink": "https://www.instagram.com/p/DbIbOX4jkBM/"
     },
     {
@@ -46,7 +57,7 @@ window.IG_DATA = {
       "date_human": "22.07.2026",
       "title": "Если твой товар был на сгоревшем складе — у нас есть подроб…",
       "reach": 15,
-      "views": 35,
+      "views": 38,
       "likes": 3,
       "comments": 0,
       "saved": 1,
@@ -59,14 +70,14 @@ window.IG_DATA = {
       "date": "2026-07-21",
       "date_human": "21.07.2026",
       "title": "Убили 49 товаров из 50 — и клиент вырос в 4 раза.",
-      "reach": 310,
-      "views": 501,
+      "reach": 312,
+      "views": 503,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 9,
-      "er": 0.029,
+      "er": 0.0288,
       "permalink": "https://www.instagram.com/p/DbDuLm9jn2V/"
     }
   ]
