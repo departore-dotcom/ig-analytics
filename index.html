@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>TEFIN — Аналитика Instagram @teslenko_mv</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=Onest:wght@400;500;600&family=Inter:wght@700&display=swap" rel="stylesheet">
+<style>
+  /* ============ TEFIN tokens (paper / airy light mode) ============ */
+  :root {
+    --paper-100: #ECEEE9;
+    --paper-200: #E4E7E0;
+    --paper-300: #D6DAD2;
+    --ink-on-paper: #171D18;
+    --ink-on-paper-soft: #3A453D;
+    --ink-on-paper-mute: #566056;
+    --line-on-paper: rgba(20, 30, 28, 0.14);
+    --grid-on-paper: rgba(20, 30, 28, 0.08);
+    --accent: #9D241E;
+    --accent-hover: #BE3B31;
+    --delta-up: #2E5E43;   /* profit green, читаемый на paper */
+    --delta-down: #A34A40; /* loss red, читаемый на paper */
+    /* series slots — валидированы (CVD + контраст) на поверхности #ECEEE9 */
+    --series-1: #9D241E;   /* accent red   */
+    --series-2: #00658D;   /* petrol       */
+    --series-3: #3E8A5E;   /* deep green   */
+    --font-sans: "Onest", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --font-display: "Oswald", "Onest", ui-sans-serif, system-ui, sans-serif;
+    --font-logo: "Inter", "Onest", ui-sans-serif, system-ui, sans-serif;
+    --radius: 12px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    background: var(--paper-200);
+    color: var(--ink-on-paper);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.65;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-hover); text-decoration: underline; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+  /* ============ Header ============ */
+  header {
+    border-bottom: 1px solid var(--line-on-paper);
+    padding: 22px 0;
+  }
+  .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .brand { line-height: 1.2; }
+  .wordmark {
+    font-family: var(--font-logo);
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.04em;
+    color: var(--accent);
+    text-transform: uppercase;
+  }
+  .brand-sub { font-size: 13px; color: var(--ink-on-paper-mute); margin-top: 2px; }
+  .pills { display: flex; gap: 8px; flex-wrap: wrap; }
+  .pill {
+    border: 1px solid var(--line-on-paper);
+    border-radius: 999px;
+    padding: 5px 14px;
+    font-size: 13px;
+    color: var(--ink-on-paper-soft);
+    background: var(--paper-100);
+    white-space: nowrap;
+  }
+  .pill b { font-weight: 600; color: var(--ink-on-paper); }
+
+  /* ============ Hero ============ */
+  .hero { padding: 64px 0 40px; }
+  .kicker {
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 18px;
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(40px, 7vw, 76px);
+    line-height: 1.04;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    max-width: 15ch;
+  }
+  .hero p {
+    margin-top: 20px;
+    max-width: 56ch;
+    color: var(--ink-on-paper-soft);
+    font-size: 17px;
+  }
+
+  /* ============ KPI ============ */
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 8px 0 40px;
+  }
+  .kpi {
+    background: var(--paper-100);
+    border: 1px solid var(--line-on-paper);
+    border-radius: var(--radius);
+    padding: 18px 20px 16px;
+  }
+  .kpi-label {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-on-paper-mute);
+  }
+  .kpi-value {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 1.1;
+    letter-spacing: 0.005em;
+    margin-top: 6px;
+  }
+  .kpi-delta { font-size: 13px; font-weight: 500; margin-top: 2px; }
+  .kpi-delta.up { color: var(--delta-up); }
+  .kpi-delta.down { color: var(--delta-down); }
+  .kpi-delta.flat { color: var(--ink-on-paper-mute); }
+
+  /* ============ Sections / cards ============ */
+  section { margin-bottom: 48px; }
+  .section-title {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 26px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .section-title::before { content: "— "; color: var(--accent); }
+  .section-note { font-size: 14px; color: var(--ink-on-paper-mute); margin-bottom: 18px; }
+  .card {
+    background: var(--paper-100);
+    border: 1px solid var(--line-on-paper);
+    border-radius: var(--radius);
+    padding: 20px;
+  }
+  .charts-grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  .chart-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
+  .chart-title { font-weight: 600; font-size: 16px; }
+  .chart-sub { font-size: 13px; color: var(--ink-on-paper-mute); }
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; margin: 6px 0 2px; }
+  .legend-item { display: inline-flex; align-items: center; gap: 7px; font-size: 13px; color: var(--ink-on-paper-soft); }
+  .legend-swatch { width: 10px; height: 10px; border-radius: 999px; flex: none; }
+  .chart-box { position: relative; }
+  .chart-box svg { display: block; width: 100%; height: auto; }
+  .empty-state {
+    min-height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: var(--ink-on-paper-mute);
+    font-size: 14px;
+    padding: 16px;
+  }
+  .tip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--ink-on-paper);
+    color: var(--paper-100);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 13px;
+    line-height: 1.5;
+    white-space: nowrap;
+    transform: translate(-50%, -100%);
+    display: none;
+    z-index: 5;
+  }
+  .tip .t-date { font-weight: 600; margin-bottom: 2px; }
+  .tip .t-row { display: flex; align-items: center; gap: 6px; }
+  .tip .t-swatch { width: 8px; height: 8px; border-radius: 999px; flex: none; }
+  .tip .t-val { font-variant-numeric: tabular-nums; margin-left: auto; padding-left: 12px; }
+
+  /* ============ Day table (details) ============ */
+  details.day-table { margin-top: 16px; }
+  details.day-table summary {
+    cursor: pointer;
+    font-size: 14px;
+    color: var(--ink-on-paper-mute);
+    user-select: none;
+  }
+  details.day-table summary:hover { color: var(--ink-on-paper); }
+  details.day-table .table-scroll { margin-top: 12px; }
+
+  /* ============ Tables ============ */
+  .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  table { border-collapse: collapse; width: 100%; min-width: 760px; font-size: 14px; }
+  th, td { padding: 10px 12px; text-align: right; white-space: nowrap; }
+  th:first-child, td:first-child, th.col-title, td.col-title { text-align: left; }
+  td.col-title { white-space: normal; min-width: 260px; }
+  thead th {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-on-paper-mute);
+    border-bottom: 1px solid var(--line-on-paper);
+  }
+  tbody td { border-bottom: 1px solid var(--grid-on-paper); font-variant-numeric: tabular-nums; }
+  tbody tr:last-child td { border-bottom: none; }
+  td .muted { color: var(--ink-on-paper-mute); }
+
+  /* ============ Insights ============ */
+  .insights-list { list-style: none; counter-reset: insight; display: grid; gap: 0; }
+  .insights-list li {
+    counter-increment: insight;
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    gap: 16px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--grid-on-paper);
+    color: var(--ink-on-paper-soft);
+  }
+  .insights-list li:last-child { border-bottom: none; }
+  .insights-list li::before {
+    content: "0" counter(insight);
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.2;
+    color: var(--accent);
+  }
+
+  /* ============ Footer ============ */
+  footer {
+    border-top: 1px solid var(--line-on-paper);
+    padding: 28px 0 40px;
+    font-size: 14px;
+    color: var(--ink-on-paper-mute);
+  }
+  .footer-inner { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .footer-inner .wordmark { font-size: 15px; }
+  .dot::before { content: "·"; color: var(--ink-on-paper-mute); }
+
+  /* ============ Mobile ============ */
+  @media (max-width: 720px) {
+    .wrap { padding: 0 16px; }
+    .hero { padding: 44px 0 32px; }
+    .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+    .kpi { padding: 14px 16px 12px; }
+    .kpi-value { font-size: 34px; }
+    .card { padding: 16px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap header-inner">
+    <div class="brand">
+      <div class="wordmark">TEFIN</div>
+      <div class="brand-sub">Михаил Тесленко</div>
+    </div>
+    <div class="pills">
+      <span class="pill">Аналитика Instagram · <b>@teslenko_mv</b></span>
+      <span class="pill" id="pill-updated">Обновлено —</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <div class="hero">
+    <div class="kicker">— Аналитика контента</div>
+    <h1>Контент без цифр — это вера</h1>
+    <p>А вера не приводит клиентов. Здесь — факт: сколько людей реально видит посты
+    <a href="https://instagram.com/teslenko_mv" target="_blank" rel="noopener">@teslenko_mv</a>,
+    как растёт охват и что с вовлечённостью. Данные приходят из Graph API и обновляются автоматически.</p>
+  </div>
+
+  <div class="kpi-grid" id="kpi-grid"></div>
+
+  <section>
+    <h2 class="section-title">Динамика по дням</h2>
+    <p class="section-note">Ежедневный снимок аккаунта. Точек пока немного — ряд накапливается с 21.07.2026.</p>
+    <div class="charts-grid">
+      <div class="card">
+        <div class="chart-head">
+          <span class="chart-title">Подписчики</span>
+          <span class="chart-sub">на конец дня</span>
+        </div>
+        <div id="chart-followers"></div>
+      </div>
+      <div class="card">
+        <div class="chart-head">
+          <span class="chart-title">Охват в день</span>
+          <span class="chart-sub">подписчики / не подписчики — когда API начнёт отдавать разбивку</span>
+        </div>
+        <div id="chart-reach"></div>
+      </div>
+      <div class="card">
+        <div class="chart-head">
+          <span class="chart-title">Вовлечённость</span>
+          <span class="chart-sub">накопительно по всем постам аккаунта</span>
+        </div>
+        <div id="chart-engagement"></div>
+      </div>
+    </div>
+    <details class="day-table">
+      <summary>Данные по дням — таблицей</summary>
+      <div class="table-scroll"><table id="day-table"></table></div>
+    </details>
+  </section>
+
+  <section>
+    <h2 class="section-title">Посты</h2>
+    <p class="section-note">Свежие сверху. ER — взаимодействия к охвату поста.</p>
+    <div class="card">
+      <div class="table-scroll"><table id="posts-table"></table></div>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Выводы</h2>
+    <p class="section-note" id="insights-updated">Обновляются раз в неделю.</p>
+    <div class="card">
+      <ol class="insights-list" id="insights-list"></ol>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span class="wordmark">TEFIN</span>
+    <span class="dot"></span>
+    <span>финансовый директор для селлеров</span>
+    <span class="dot"></span>
+    <a href="https://instagram.com/teslenko_mv" target="_blank" rel="noopener">instagram.com/teslenko_mv</a>
+    <span class="dot"></span>
+    <span>обновляется автоматически</span>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="insights.js"></script>
+<script>
+(function () {
+  "use strict";
+  var D = window.IG_DATA || { days: [], posts: [] };
+  var INS = window.IG_INSIGHTS || null;
+  var NBSP = " ";
+
+  function fmt(n) {
+    if (n === null || n === undefined) return "—";
+    return Number(n).toLocaleString("ru-RU");
+  }
+  function fmtPct(x, digits) {
+    if (x === null || x === undefined) return "—";
+    return (x * 100).toLocaleString("ru-RU", {
+      minimumFractionDigits: digits, maximumFractionDigits: digits
+    }) + NBSP + "%";
+  }
+  function shortDay(iso) { // "2026-07-21" -> "21.07"
+    var p = (iso || "").split("-");
+    return p.length === 3 ? p[2] + "." + p[1] : iso;
+  }
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined) e.textContent = text;
+    return e;
+  }
+
+  /* ---------- header pill ---------- */
+  document.getElementById("pill-updated").textContent = "Обновлено " + (D.generated_at || "—");
+
+  /* ---------- KPI ---------- */
+  var days = D.days || [];
+  var posts = D.posts || [];
+  var sum = function (arr, key) {
+    var s = null;
+    arr.forEach(function (p) { if (p[key] != null) s = (s || 0) + p[key]; });
+    return s;
+  };
+  var followersDelta = null;
+  if (days.length >= 2 && days[0].followers != null && days[days.length - 1].followers != null) {
+    followersDelta = days[days.length - 1].followers - days[0].followers;
+  }
+  var kpis = [
+    { label: "Подписчики", value: D.followers, delta: followersDelta,
+      deltaNote: days.length ? "с " + shortDay(days[0].day) : "" },
+    { label: "Охват постов", value: sum(posts, "reach") },
+    { label: "Взаимодействия", value: sum(posts, "interactions") },
+    { label: "Постов", value: posts.length }
+  ];
+  var kpiGrid = document.getElementById("kpi-grid");
+  kpis.forEach(function (k) {
+    var card = el("div", "kpi");
+    card.appendChild(el("div", "kpi-label", k.label));
+    card.appendChild(el("div", "kpi-value", fmt(k.value)));
+    if (k.delta !== null && k.delta !== undefined) {
+      var cls = k.delta > 0 ? "up" : (k.delta < 0 ? "down" : "flat");
+      var arrow = k.delta > 0 ? "↑ " : (k.delta < 0 ? "↓ " : "");
+      var txt = arrow + (k.delta > 0 ? "+" : "") + fmt(k.delta) + (k.deltaNote ? " " + k.deltaNote : "");
+      card.appendChild(el("div", "kpi-delta " + cls, txt));
+    }
+    kpiGrid.appendChild(card);
+  });
+
+  /* ---------- SVG line chart engine ---------- */
+  var SVG_NS = "http://www.w3.org/2000/svg";
+  var SURFACE = "#ECEEE9";
+  var charts = [];
+
+  function svgEl(name, attrs) {
+    var e = document.createElementNS(SVG_NS, name);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    return e;
+  }
+  function niceStep(rawStep) {
+    if (rawStep <= 0) return 1;
+    var pow = Math.pow(10, Math.floor(Math.log10(rawStep)));
+    var candidates = [1, 2, 5, 10];
+    for (var i = 0; i < candidates.length; i++) {
+      if (candidates[i] * pow >= rawStep) return candidates[i] * pow;
+    }
+    return 10 * pow;
+  }
+
+  // config: { labels: ["21.07",...], series: [{name, color, values:[num|null]}] }
+  function lineChart(containerId, config) {
+    var container = document.getElementById(containerId);
+    if (!container) return;
+    var hasData = config.series.some(function (s) {
+      return s.values.some(function (v) { return v != null; });
+    });
+    if (!hasData || !config.labels.length) {
+      var empty = el("div", "empty-state", config.emptyText ||
+        "Данных пока нет — ряд накапливается, график появится автоматически.");
+      container.appendChild(empty);
+      return;
+    }
+    if (config.series.length > 1) {
+      var legend = el("div", "legend");
+      config.series.forEach(function (s) {
+        var item = el("span", "legend-item");
+        var sw = el("span", "legend-swatch");
+        sw.style.background = s.color;
+        item.appendChild(sw);
+        item.appendChild(document.createTextNode(s.name));
+        legend.appendChild(item);
+      });
+      container.appendChild(legend);
+    }
+    var box = el("div", "chart-box");
+    container.appendChild(box);
+    var tip = el("div", "tip");
+    box.appendChild(tip);
+    var state = { box: box, tip: tip, config: config };
+    charts.push(state);
+    drawChart(state);
+  }
+
+  function drawChart(state) {
+    var box = state.box, config = state.config;
+    var old = box.querySelector("svg");
+    if (old) old.remove();
+
+    var W = Math.max(box.clientWidth || 600, 280);
+    var H = 260;
+    var padL = 44, padR = 20, padT = 26, padB = 34;
+    var plotW = W - padL - padR, plotH = H - padT - padB;
+    var n = config.labels.length;
+
+    var maxV = 0;
+    config.series.forEach(function (s) {
+      s.values.forEach(function (v) { if (v != null && v > maxV) maxV = v; });
+    });
+    if (maxV <= 0) maxV = 1;
+    var step = niceStep(maxV / 4);
+    var yMax = Math.ceil(maxV / step) * step;
+    if (yMax === maxV) yMax += 0; // top gridline == max is fine, labels sit above
+
+    var x = function (i) { return n === 1 ? padL + plotW / 2 : padL + (plotW * i) / (n - 1); };
+    var y = function (v) { return padT + plotH - (plotH * v) / yMax; };
+
+    var svg = svgEl("svg", { width: W, height: H, viewBox: "0 0 " + W + " " + H, role: "img" });
+
+    // gridlines + y ticks (solid hairlines, recessive)
+    for (var g = 0; g <= yMax; g += step) {
+      var gy = y(g);
+      svg.appendChild(svgEl("line", { x1: padL, y1: gy, x2: W - padR, y2: gy,
+        stroke: g === 0 ? "rgba(20,30,28,0.20)" : "rgba(20,30,28,0.08)", "stroke-width": 1 }));
+      var tickText = svgEl("text", { x: padL - 8, y: gy + 4, "text-anchor": "end",
+        "font-family": "Onest, sans-serif", "font-size": 11, fill: "#566056",
+        style: "font-variant-numeric: tabular-nums" });
+      tickText.textContent = fmt(g);
+      svg.appendChild(tickText);
+    }
+
+    // x labels — прореживаем при большом числе точек
+    var everyN = Math.max(1, Math.ceil(n / Math.floor(plotW / 56)));
+    for (var i = 0; i < n; i++) {
+      if (i % everyN !== 0 && i !== n - 1) continue;
+      var lx = svgEl("text", { x: x(i), y: H - 10, "text-anchor": "middle",
+        "font-family": "Onest, sans-serif", "font-size": 11, fill: "#566056" });
+      lx.textContent = config.labels[i];
+      svg.appendChild(lx);
+    }
+
+    // crosshair (hidden until hover)
+    var cross = svgEl("line", { x1: 0, y1: padT, x2: 0, y2: padT + plotH,
+      stroke: "rgba(20,30,28,0.25)", "stroke-width": 1, visibility: "hidden" });
+    svg.appendChild(cross);
+
+    var labelPlan = []; // {x, y, text} — для разруливания коллизий
+    var fewPoints = n <= 7;
+
+    config.series.forEach(function (s) {
+      // сегменты линии между непустыми значениями
+      var d = "";
+      var run = [];
+      var flush = function () {
+        if (run.length >= 2) {
+          d += "M" + run.map(function (p) { return p[0] + " " + p[1]; }).join(" L ");
+        }
+        run = [];
+      };
+      s.values.forEach(function (v, i) {
+        if (v == null) { flush(); return; }
+        run.push([x(i), y(v)]);
+      });
+      flush();
+      if (d) {
+        svg.appendChild(svgEl("path", { d: d, fill: "none", stroke: s.color,
+          "stroke-width": 2, "stroke-linecap": "round", "stroke-linejoin": "round" }));
+      }
+      // маркеры с кольцом цвета поверхности
+      s.values.forEach(function (v, i) {
+        if (v == null) return;
+        var showMarker = fewPoints || n <= 30 || i === n - 1;
+        if (!showMarker) return;
+        svg.appendChild(svgEl("circle", { cx: x(i), cy: y(v), r: 4.5,
+          fill: s.color, stroke: SURFACE, "stroke-width": 2 }));
+        // значения: при малом числе точек — на каждой; дальше — только последняя
+        if (fewPoints || i === n - 1) {
+          labelPlan.push({ x: x(i), y: y(v) - 12, text: fmt(v) });
+        }
+      });
+    });
+
+    // подписи значений: убираем дубли и разводим близкие по вертикали
+    var seen = {};
+    labelPlan = labelPlan.filter(function (L) {
+      var key = Math.round(L.x) + ":" + Math.round(L.y) + ":" + L.text;
+      if (seen[key]) return false;
+      seen[key] = true;
+      return true;
+    });
+    labelPlan.sort(function (a, b) { return (a.x - b.x) || (a.y - b.y); });
+    for (var j = 1; j < labelPlan.length; j++) {
+      var prev = labelPlan[j - 1], cur = labelPlan[j];
+      if (Math.abs(cur.x - prev.x) < 30 && Math.abs(cur.y - prev.y) < 14) {
+        cur.y = prev.y + 14 > cur.y ? prev.y + 14 : cur.y;
+      }
+    }
+    labelPlan.forEach(function (L) {
+      var t = svgEl("text", { x: L.x, y: L.y, "text-anchor": "middle",
+        "font-family": "Onest, sans-serif", "font-size": 12, "font-weight": 600,
+        fill: "#171D18", style: "font-variant-numeric: tabular-nums" });
+      t.textContent = L.text;
+      svg.appendChild(t);
+    });
+
+    box.insertBefore(svg, state.tip);
+
+    // hover: ближайшая точка по X, тултип со всеми сериями
+    svg.addEventListener("mousemove", function (ev) {
+      var rect = svg.getBoundingClientRect();
+      var mx = ev.clientX - rect.left;
+      var best = 0, bestDist = Infinity;
+      for (var i = 0; i < n; i++) {
+        var dd = Math.abs(mx - x(i));
+        if (dd < bestDist) { bestDist = dd; best = i; }
+      }
+      cross.setAttribute("x1", x(best));
+      cross.setAttribute("x2", x(best));
+      cross.setAttribute("visibility", "visible");
+      var html = '<div class="t-date">' + config.labels[best] + "</div>";
+      config.series.forEach(function (s) {
+        var v = s.values[best];
+        html += '<div class="t-row"><span class="t-swatch" style="background:' + s.color + '"></span>'
+          + "<span>" + s.name + '</span><span class="t-val">' + fmt(v) + "</span></div>";
+      });
+      state.tip.innerHTML = html;
+      state.tip.style.display = "block";
+      var tipX = Math.max(70, Math.min(W - 70, x(best)));
+      state.tip.style.left = tipX + "px";
+      state.tip.style.top = (padT - 6) + "px";
+    });
+    svg.addEventListener("mouseleave", function () {
+      state.tip.style.display = "none";
+      cross.setAttribute("visibility", "hidden");
+    });
+  }
+
+  var resizeTimer = null;
+  window.addEventListener("resize", function () {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(function () { charts.forEach(drawChart); }, 150);
+  });
+
+  /* ---------- charts data ---------- */
+  var dayLabels = days.map(function (d) { return shortDay(d.day); });
+
+  lineChart("chart-followers", {
+    labels: dayLabels,
+    series: [{ name: "Подписчики", color: "#9D241E",
+      values: days.map(function (d) { return d.followers; }) }],
+    emptyText: "Ряд подписчиков накапливается — данные появятся автоматически."
+  });
+
+  var hasReach = days.some(function (d) { return d.reach_day != null; });
+  var hasBreakdown = days.some(function (d) { return d.reach_followers != null || d.reach_nonfollowers != null; });
+  var reachSeries;
+  if (hasBreakdown) {
+    reachSeries = [
+      { name: "Подписчики", color: "#9D241E", values: days.map(function (d) { return d.reach_followers; }) },
+      { name: "Не подписчики", color: "#00658D", values: days.map(function (d) { return d.reach_nonfollowers; }) }
+    ];
+  } else {
+    reachSeries = [{ name: "Охват дня", color: "#00658D",
+      values: days.map(function (d) { return d.reach_day; }) }];
+  }
+  lineChart("chart-reach", {
+    labels: hasReach ? dayLabels : [],
+    series: reachSeries,
+    emptyText: "Instagram пока не отдаёт охват по дням для этого аккаунта — метрика включится по мере накопления статистики. График появится здесь автоматически."
+  });
+
+  lineChart("chart-engagement", {
+    labels: dayLabels,
+    series: [
+      { name: "Лайки", color: "#9D241E", values: days.map(function (d) { return d.likes; }) },
+      { name: "Сохранения", color: "#00658D", values: days.map(function (d) { return d.saved; }) },
+      { name: "Комментарии", color: "#3E8A5E", values: days.map(function (d) { return d.comments; }) }
+    ],
+    emptyText: "Данные вовлечённости накапливаются."
+  });
+
+  /* ---------- day table (table-view twin) ---------- */
+  var dayTable = document.getElementById("day-table");
+  (function () {
+    var thead = el("thead");
+    var trh = el("tr");
+    ["Дата", "Подписчики", "Охват дня", "Лайки", "Сохранения", "Комментарии"].forEach(function (h) {
+      trh.appendChild(el("th", null, h));
+    });
+    thead.appendChild(trh);
+    dayTable.appendChild(thead);
+    var tbody = el("tbody");
+    days.slice().reverse().forEach(function (d) {
+      var tr = el("tr");
+      [shortDay(d.day) + "." + d.day.slice(0, 4), fmt(d.followers), fmt(d.reach_day),
+       fmt(d.likes), fmt(d.saved), fmt(d.comments)].forEach(function (v) {
+        tr.appendChild(el("td", null, v));
+      });
+      tbody.appendChild(tr);
+    });
+    dayTable.appendChild(tbody);
+  })();
+
+  /* ---------- posts table ---------- */
+  var postsTable = document.getElementById("posts-table");
+  (function () {
+    var thead = el("thead");
+    var trh = el("tr");
+    var headers = [
+      ["Дата", null], ["Пост", "col-title"], ["Охват", null], ["Показы", null],
+      ["Лайки", null], ["Сохранения", null], ["Репосты", null], ["ER (охват)", null]
+    ];
+    headers.forEach(function (h) {
+      var th = el("th", h[1], h[0]);
+      trh.appendChild(th);
+    });
+    thead.appendChild(trh);
+    postsTable.appendChild(thead);
+
+    var tbody = el("tbody");
+    posts.slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; })
+      .forEach(function (p) {
+        var tr = el("tr");
+        tr.appendChild(el("td", null, p.date_human || p.date));
+        var tdTitle = el("td", "col-title");
+        if (p.permalink) {
+          var a = el("a", null, p.title);
+          a.href = p.permalink;
+          a.target = "_blank";
+          a.rel = "noopener";
+          tdTitle.appendChild(a);
+        } else {
+          tdTitle.textContent = p.title;
+        }
+        tr.appendChild(tdTitle);
+        [fmt(p.reach), fmt(p.views), fmt(p.likes), fmt(p.saved), fmt(p.shares),
+         fmtPct(p.er, 1)].forEach(function (v) {
+          tr.appendChild(el("td", null, v));
+        });
+        tbody.appendChild(tr);
+      });
+    postsTable.appendChild(tbody);
+  })();
+
+  /* ---------- insights ---------- */
+  (function () {
+    var list = document.getElementById("insights-list");
+    var note = document.getElementById("insights-updated");
+    if (!INS || !INS.items || !INS.items.length) {
+      note.textContent = "Выводы появятся после первой недели наблюдений.";
+      list.parentElement.style.display = "none";
+      return;
+    }
+    note.textContent = "Обновляются раз в неделю · обновлено " + (INS.updated || "—");
+    INS.items.forEach(function (item) {
+      list.appendChild(el("li", null, item));
+    });
+  })();
+})();
+</script>
+</body>
+</html>
