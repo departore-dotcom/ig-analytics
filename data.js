@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "24.07.2026 00:00 МСК",
+  "generated_at": "25.07.2026 00:00 МСК",
   "followers": 10,
   "days": [
     {
@@ -35,43 +35,68 @@ window.IG_DATA = {
       "likes": 10,
       "comments": 0,
       "saved": 5
+    },
+    {
+      "day": "2026-07-24",
+      "followers": 10,
+      "media_count": 4,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 14,
+      "comments": 0,
+      "saved": 6
     }
   ],
   "posts": [
     {
+      "date": "2026-07-24",
+      "date_human": "24.07.2026",
+      "title": "Весь разбор — в карусели. Если склад полный, а касса пустая…",
+      "reach": 12,
+      "views": 23,
+      "likes": 4,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 8,
+      "er": 0.6667,
+      "permalink": "https://www.instagram.com/p/DbK0_H2Dslw/"
+    },
+    {
       "date": "2026-07-23",
       "date_human": "23.07.2026",
       "title": "Пожар на складах WB — удар не по «коробкам», а по деньгам с…",
-      "reach": 11,
-      "views": 34,
+      "reach": 17,
+      "views": 45,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 0,
-      "interactions": 7,
-      "er": 0.6364,
+      "interactions": 8,
+      "er": 0.4706,
       "permalink": "https://www.instagram.com/p/DbIbOX4jkBM/"
     },
     {
       "date": "2026-07-22",
       "date_human": "22.07.2026",
       "title": "Если твой товар был на сгоревшем складе — у нас есть подроб…",
-      "reach": 15,
-      "views": 38,
+      "reach": 19,
+      "views": 53,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 2,
       "interactions": 9,
-      "er": 0.6,
+      "er": 0.4737,
       "permalink": "https://www.instagram.com/p/DbGMkK2Du1L/"
     },
     {
       "date": "2026-07-21",
       "date_human": "21.07.2026",
       "title": "Убили 49 товаров из 50 — и клиент вырос в 4 раза.",
-      "reach": 312,
-      "views": 503,
+      "reach": 313,
+      "views": 506,
       "likes": 3,
       "comments": 0,
       "saved": 2,
