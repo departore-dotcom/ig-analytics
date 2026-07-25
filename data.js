@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "25.07.2026 00:00 МСК",
+  "generated_at": "26.07.2026 00:00 МСК",
   "followers": 10,
   "days": [
     {
@@ -46,63 +46,88 @@ window.IG_DATA = {
       "likes": 14,
       "comments": 0,
       "saved": 6
+    },
+    {
+      "day": "2026-07-25",
+      "followers": 10,
+      "media_count": 4,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 17,
+      "comments": 1,
+      "saved": 7
     }
   ],
   "posts": [
     {
+      "date": "2026-07-25",
+      "date_human": "25.07.2026",
+      "title": "Если твой товар был на сгоревшем складе — у нас есть подроб…",
+      "reach": 15,
+      "views": 38,
+      "likes": 2,
+      "comments": 1,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 6,
+      "er": 0.4,
+      "permalink": "https://www.instagram.com/reel/DbNexvuFad7/"
+    },
+    {
       "date": "2026-07-24",
       "date_human": "24.07.2026",
       "title": "Весь разбор — в карусели. Если склад полный, а касса пустая…",
-      "reach": 12,
-      "views": 23,
-      "likes": 4,
+      "reach": 19,
+      "views": 49,
+      "likes": 5,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 8,
-      "er": 0.6667,
+      "interactions": 10,
+      "er": 0.5263,
       "permalink": "https://www.instagram.com/p/DbK0_H2Dslw/"
     },
     {
       "date": "2026-07-23",
       "date_human": "23.07.2026",
       "title": "Пожар на складах WB — удар не по «коробкам», а по деньгам с…",
-      "reach": 17,
-      "views": 45,
+      "reach": 20,
+      "views": 58,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 0,
-      "interactions": 8,
-      "er": 0.4706,
+      "interactions": 9,
+      "er": 0.45,
       "permalink": "https://www.instagram.com/p/DbIbOX4jkBM/"
     },
     {
       "date": "2026-07-22",
       "date_human": "22.07.2026",
       "title": "Если твой товар был на сгоревшем складе — у нас есть подроб…",
-      "reach": 19,
-      "views": 53,
+      "reach": 20,
+      "views": 73,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 2,
       "interactions": 9,
-      "er": 0.4737,
+      "er": 0.45,
       "permalink": "https://www.instagram.com/p/DbGMkK2Du1L/"
     },
     {
       "date": "2026-07-21",
       "date_human": "21.07.2026",
       "title": "Убили 49 товаров из 50 — и клиент вырос в 4 раза.",
-      "reach": 313,
-      "views": 506,
+      "reach": 316,
+      "views": 519,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 9,
-      "er": 0.0288,
+      "interactions": 10,
+      "er": 0.0316,
       "permalink": "https://www.instagram.com/p/DbDuLm9jn2V/"
     }
   ]
