@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "11.08.2026 00:00 МСК",
+  "generated_at": "12.08.2026 00:00 МСК",
   "followers": 17,
   "days": [
     {
@@ -233,77 +233,102 @@ window.IG_DATA = {
       "likes": 72,
       "comments": 15,
       "saved": 98
+    },
+    {
+      "day": "2026-08-11",
+      "followers": 17,
+      "media_count": 26,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 72,
+      "comments": 15,
+      "saved": 100
     }
   ],
   "posts": [
     {
+      "date": "2026-08-11",
+      "date_human": "11.08.2026",
+      "title": "Пять чисел на единицу товара решают, зарабатываете вы на нё…",
+      "reach": 3,
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 1,
+      "er": 0.3333,
+      "permalink": "https://www.instagram.com/p/Db6UG45jmDC/"
+    },
+    {
       "date": "2026-08-10",
       "date_human": "10.08.2026",
       "title": "Ваш товар уже продаётся на AliExpress — и вы об этом, скоре…",
-      "reach": 6,
-      "views": 13,
-      "likes": 2,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 1.5,
-      "permalink": "https://www.instagram.com/p/Db3bQzmjgCg/"
-    },
-    {
-      "date": "2026-08-10",
-      "date_human": "10.08.2026",
-      "title": "Отчёт показывает прибыль, а на закупку денег нет — и это не…",
-      "reach": 9,
-      "views": 20,
-      "likes": 2,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 8,
-      "er": 0.8889,
-      "permalink": "https://www.instagram.com/p/Db2ytA1DhuT/"
-    },
-    {
-      "date": "2026-08-09",
-      "date_human": "09.08.2026",
-      "title": "Средний класс не беднеет постепенно. Его убирают как катего…",
       "reach": 10,
-      "views": 27,
+      "views": 21,
       "likes": 2,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
       "er": 1.1,
+      "permalink": "https://www.instagram.com/p/Db3bQzmjgCg/"
+    },
+    {
+      "date": "2026-08-10",
+      "date_human": "10.08.2026",
+      "title": "Отчёт показывает прибыль, а на закупку денег нет — и это не…",
+      "reach": 16,
+      "views": 30,
+      "likes": 2,
+      "comments": 0,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 10,
+      "er": 0.625,
+      "permalink": "https://www.instagram.com/p/Db2ytA1DhuT/"
+    },
+    {
+      "date": "2026-08-09",
+      "date_human": "09.08.2026",
+      "title": "Средний класс не беднеет постепенно. Его убирают как катего…",
+      "reach": 13,
+      "views": 31,
+      "likes": 2,
+      "comments": 0,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 11,
+      "er": 0.8462,
       "permalink": "https://www.instagram.com/p/Db00ZdZDl0r/"
     },
     {
       "date": "2026-08-09",
       "date_human": "09.08.2026",
       "title": "Компенсацию дают. Кредит возвращают. К 10 августа ведомства…",
-      "reach": 21,
-      "views": 42,
+      "reach": 25,
+      "views": 52,
       "likes": 2,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 10,
-      "er": 0.4762,
+      "er": 0.4,
       "permalink": "https://www.instagram.com/p/Db0EOH6Drqb/"
     },
     {
       "date": "2026-08-08",
       "date_human": "08.08.2026",
       "title": "Оборот клиента вырос с 4,4 до 18,6 млн ₽ в месяц за 11 меся…",
-      "reach": 801,
-      "views": 1196,
+      "reach": 806,
+      "views": 1201,
       "likes": 3,
       "comments": 0,
       "saved": 10,
       "shares": 7,
       "interactions": 22,
-      "er": 0.0275,
+      "er": 0.0273,
       "permalink": "https://www.instagram.com/p/DbyPmMSjocW/"
     },
     {
@@ -324,14 +349,14 @@ window.IG_DATA = {
       "date": "2026-08-07",
       "date_human": "07.08.2026",
       "title": "WB более чем втрое поднял скидку за скорость отгрузки по ФБ…",
-      "reach": 17,
-      "views": 35,
+      "reach": 18,
+      "views": 36,
       "likes": 2,
       "comments": 0,
       "saved": 4,
       "shares": 3,
       "interactions": 13,
-      "er": 0.7647,
+      "er": 0.7222,
       "permalink": "https://www.instagram.com/p/DbvqzR2jlkX/"
     },
     {
@@ -352,14 +377,14 @@ window.IG_DATA = {
       "date": "2026-08-06",
       "date_human": "06.08.2026",
       "title": "«На WB нет маржи» — эта фраза звучит в каждом чате селлеров…",
-      "reach": 19,
-      "views": 41,
+      "reach": 20,
+      "views": 42,
       "likes": 1,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 9,
-      "er": 0.4737,
+      "er": 0.45,
       "permalink": "https://www.instagram.com/p/DbtGAl0Dk-E/"
     },
     {
@@ -380,14 +405,14 @@ window.IG_DATA = {
       "date": "2026-08-05",
       "date_human": "05.08.2026",
       "title": "Правила рынка жилья уже переписаны — тихо и без пресс-релиз…",
-      "reach": 27,
+      "reach": 32,
       "views": 38,
       "likes": 3,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 14,
-      "er": 0.5185,
+      "er": 0.4375,
       "permalink": "https://www.instagram.com/p/DbqtJYMEQVW/"
     },
     {
@@ -540,8 +565,8 @@ window.IG_DATA = {
       "comments": 2,
       "saved": 3,
       "shares": 3,
-      "interactions": 11,
-      "er": 0.44,
+      "interactions": 12,
+      "er": 0.48,
       "permalink": "https://www.instagram.com/reel/DbNexvuFad7/"
     },
     {
@@ -571,20 +596,6 @@ window.IG_DATA = {
       "interactions": 15,
       "er": 0.4545,
       "permalink": "https://www.instagram.com/p/DbIbOX4jkBM/"
-    },
-    {
-      "date": "2026-07-22",
-      "date_human": "22.07.2026",
-      "title": "Если твой товар был на сгоревшем складе — у нас есть подроб…",
-      "reach": 30,
-      "views": 139,
-      "likes": 3,
-      "comments": 1,
-      "saved": 4,
-      "shares": 4,
-      "interactions": 15,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/p/DbGMkK2Du1L/"
     }
   ]
 };
