@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "18.08.2026 00:00 МСК",
+  "generated_at": "18.08.2026 06:32 МСК",
   "followers": 19,
   "days": [
     {
@@ -317,14 +317,14 @@ window.IG_DATA = {
       "date": "2026-08-17",
       "date_human": "17.08.2026",
       "title": "Вы каждый месяц докладываете в магазин свои деньги и говори…",
-      "reach": 4,
-      "views": 13,
+      "reach": 6,
+      "views": 19,
       "likes": 0,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 1,
-      "er": 0.25,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 5,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DcJbdJEDsMc/"
     },
     {
@@ -429,14 +429,14 @@ window.IG_DATA = {
       "date": "2026-08-14",
       "date_human": "14.08.2026",
       "title": "Bloomberg пишет: власти обсуждают, чтобы отдать склады «Поч…",
-      "reach": 23,
-      "views": 59,
+      "reach": 24,
+      "views": 64,
       "likes": 1,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 10,
-      "er": 0.4348,
+      "er": 0.4167,
       "permalink": "https://www.instagram.com/p/DcA8Totjt69/"
     },
     {
