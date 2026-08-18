@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "18.08.2026 06:32 МСК",
+  "generated_at": "18.08.2026 06:39 МСК",
   "followers": 19,
   "days": [
     {
