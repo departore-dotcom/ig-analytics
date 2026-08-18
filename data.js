@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "18.08.2026 06:39 МСК",
+  "generated_at": "19.08.2026 00:00 МСК",
   "followers": 19,
   "days": [
     {
@@ -310,49 +310,74 @@ window.IG_DATA = {
       "likes": 106,
       "comments": 16,
       "saved": 136
+    },
+    {
+      "day": "2026-08-18",
+      "followers": 19,
+      "media_count": 40,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 106,
+      "comments": 16,
+      "saved": 139
     }
   ],
   "posts": [
     {
+      "date": "2026-08-18",
+      "date_human": "18.08.2026",
+      "title": "Ваша прибыль на Wildberries уже считается по новым правилам…",
+      "reach": 7,
+      "views": 21,
+      "likes": 0,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 4,
+      "er": 0.5714,
+      "permalink": "https://www.instagram.com/p/DcLPgQ3DqLh/"
+    },
+    {
       "date": "2026-08-17",
       "date_human": "17.08.2026",
       "title": "Вы каждый месяц докладываете в магазин свои деньги и говори…",
-      "reach": 6,
-      "views": 19,
+      "reach": 7,
+      "views": 24,
       "likes": 0,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 5,
-      "er": 0.8333,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/p/DcJbdJEDsMc/"
     },
     {
       "date": "2026-08-17",
       "date_human": "17.08.2026",
       "title": "Вы читаете «мы ценим вашу приватность» в соглашении на шест…",
-      "reach": 13,
-      "views": 34,
+      "reach": 20,
+      "views": 46,
       "likes": 2,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 0.8462,
+      "er": 0.55,
       "permalink": "https://www.instagram.com/p/DcIqsqvjv6V/"
     },
     {
       "date": "2026-08-16",
       "date_human": "16.08.2026",
       "title": "Пока вы неделю собираете карточку, сосед по нише успевает п…",
-      "reach": 5,
-      "views": 21,
+      "reach": 6,
+      "views": 22,
       "likes": 1,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 1.0,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DcG19uCDpXT/"
     },
     {
@@ -373,28 +398,28 @@ window.IG_DATA = {
       "date": "2026-08-15",
       "date_human": "15.08.2026",
       "title": "С вас уже списывают за страховку, которую вы не подключали:…",
-      "reach": 14,
-      "views": 52,
+      "reach": 15,
+      "views": 53,
       "likes": 2,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 0.7857,
+      "er": 0.7333,
       "permalink": "https://www.instagram.com/p/DcERLa1jsHI/"
     },
     {
       "date": "2026-08-15",
       "date_human": "15.08.2026",
       "title": "Из пятидесяти позиций деньги приносила одна. Владелец не зн…",
-      "reach": 213,
-      "views": 267,
+      "reach": 215,
+      "views": 270,
       "likes": 9,
       "comments": 1,
       "saved": 4,
       "shares": 4,
       "interactions": 20,
-      "er": 0.0939,
+      "er": 0.093,
       "permalink": "https://www.instagram.com/reel/DcD8XGXCZkT/"
     },
     {
@@ -402,7 +427,7 @@ window.IG_DATA = {
       "date_human": "15.08.2026",
       "title": "Ваш покупатель не исчез. Он уже купил — у того, чей товар л…",
       "reach": 16,
-      "views": 49,
+      "views": 50,
       "likes": 2,
       "comments": 0,
       "saved": 3,
@@ -429,14 +454,14 @@ window.IG_DATA = {
       "date": "2026-08-14",
       "date_human": "14.08.2026",
       "title": "Bloomberg пишет: власти обсуждают, чтобы отдать склады «Поч…",
-      "reach": 24,
-      "views": 64,
+      "reach": 27,
+      "views": 69,
       "likes": 1,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 10,
-      "er": 0.4167,
+      "er": 0.3704,
       "permalink": "https://www.instagram.com/p/DcA8Totjt69/"
     },
     {
@@ -648,20 +673,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 0.8462,
       "permalink": "https://www.instagram.com/p/DbsZWHEjvQw/"
-    },
-    {
-      "date": "2026-08-05",
-      "date_human": "05.08.2026",
-      "title": "Правила рынка жилья уже переписаны — тихо и без пресс-релиз…",
-      "reach": 32,
-      "views": 40,
-      "likes": 3,
-      "comments": 0,
-      "saved": 4,
-      "shares": 4,
-      "interactions": 14,
-      "er": 0.4375,
-      "permalink": "https://www.instagram.com/p/DbqtJYMEQVW/"
     }
   ]
 };
