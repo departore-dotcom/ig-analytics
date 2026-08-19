@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "19.08.2026 00:00 МСК",
+  "generated_at": "20.08.2026 00:00 МСК",
   "followers": 19,
   "days": [
     {
@@ -321,21 +321,60 @@ window.IG_DATA = {
       "likes": 106,
       "comments": 16,
       "saved": 139
+    },
+    {
+      "day": "2026-08-19",
+      "followers": 19,
+      "media_count": 42,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 113,
+      "comments": 16,
+      "saved": 148
     }
   ],
   "posts": [
     {
+      "date": "2026-08-19",
+      "date_human": "19.08.2026",
+      "title": "Когда маржа тонкая, проще всего решить, что виноват маркетп…",
+      "reach": 138,
+      "views": 155,
+      "likes": 4,
+      "comments": 0,
+      "saved": 3,
+      "shares": 4,
+      "interactions": 14,
+      "er": 0.1014,
+      "permalink": "https://www.instagram.com/reel/DcOdVZHk8te/"
+    },
+    {
+      "date": "2026-08-19",
+      "date_human": "19.08.2026",
+      "title": "Комиссию площадка удержала раньше, чем деньги дошли до вас,…",
+      "reach": 9,
+      "views": 29,
+      "likes": 1,
+      "comments": 0,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 9,
+      "er": 1.0,
+      "permalink": "https://www.instagram.com/p/DcN6vyODrTk/"
+    },
+    {
       "date": "2026-08-18",
       "date_human": "18.08.2026",
       "title": "Ваша прибыль на Wildberries уже считается по новым правилам…",
-      "reach": 7,
-      "views": 21,
-      "likes": 0,
+      "reach": 9,
+      "views": 34,
+      "likes": 1,
       "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 4,
-      "er": 0.5714,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 10,
+      "er": 1.1111,
       "permalink": "https://www.instagram.com/p/DcLPgQ3DqLh/"
     },
     {
@@ -343,27 +382,27 @@ window.IG_DATA = {
       "date_human": "17.08.2026",
       "title": "Вы каждый месяц докладываете в магазин свои деньги и говори…",
       "reach": 7,
-      "views": 24,
-      "likes": 0,
+      "views": 28,
+      "likes": 1,
       "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 5,
-      "er": 0.7143,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 9,
+      "er": 1.2857,
       "permalink": "https://www.instagram.com/p/DcJbdJEDsMc/"
     },
     {
       "date": "2026-08-17",
       "date_human": "17.08.2026",
       "title": "Вы читаете «мы ценим вашу приватность» в соглашении на шест…",
-      "reach": 20,
-      "views": 46,
+      "reach": 21,
+      "views": 50,
       "likes": 2,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 0.55,
+      "er": 0.5238,
       "permalink": "https://www.instagram.com/p/DcIqsqvjv6V/"
     },
     {
@@ -371,7 +410,7 @@ window.IG_DATA = {
       "date_human": "16.08.2026",
       "title": "Пока вы неделю собираете карточку, сосед по нише успевает п…",
       "reach": 6,
-      "views": 22,
+      "views": 23,
       "likes": 1,
       "comments": 0,
       "saved": 1,
@@ -454,14 +493,14 @@ window.IG_DATA = {
       "date": "2026-08-14",
       "date_human": "14.08.2026",
       "title": "Bloomberg пишет: власти обсуждают, чтобы отдать склады «Поч…",
-      "reach": 27,
-      "views": 69,
+      "reach": 29,
+      "views": 74,
       "likes": 1,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 10,
-      "er": 0.3704,
+      "er": 0.3448,
       "permalink": "https://www.instagram.com/p/DcA8Totjt69/"
     },
     {
@@ -645,34 +684,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 0.4783,
       "permalink": "https://www.instagram.com/p/Dbu6vzLjtl_/"
-    },
-    {
-      "date": "2026-08-06",
-      "date_human": "06.08.2026",
-      "title": "«На WB нет маржи» — эта фраза звучит в каждом чате селлеров…",
-      "reach": 20,
-      "views": 44,
-      "likes": 2,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 0.55,
-      "permalink": "https://www.instagram.com/p/DbtGAl0Dk-E/"
-    },
-    {
-      "date": "2026-08-06",
-      "date_human": "06.08.2026",
-      "title": "Селлер убрал из ассортимента часть товаров — выручка стала…",
-      "reach": 13,
-      "views": 45,
-      "likes": 2,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 0.8462,
-      "permalink": "https://www.instagram.com/p/DbsZWHEjvQw/"
     }
   ]
 };
