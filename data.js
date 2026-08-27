@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "27.08.2026 00:00 МСК",
+  "generated_at": "28.08.2026 00:00 МСК",
   "followers": 19,
   "days": [
     {
@@ -409,35 +409,60 @@ window.IG_DATA = {
       "likes": 145,
       "comments": 4,
       "saved": 134
+    },
+    {
+      "day": "2026-08-27",
+      "followers": 19,
+      "media_count": 64,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 151,
+      "comments": 4,
+      "saved": 133
     }
   ],
   "posts": [
     {
+      "date": "2026-08-27",
+      "date_human": "27.08.2026",
+      "title": "Вечер закончился, а вы не помните, чем он был занят. Телефо…",
+      "reach": 3,
+      "views": 18,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.6667,
+      "permalink": "https://www.instagram.com/p/DcjKvHnDhkD/"
+    },
+    {
       "date": "2026-08-26",
       "date_human": "26.08.2026",
       "title": "Ваша выручка на Wildberries падает второй месяц, и вы списы…",
-      "reach": 4,
-      "views": 14,
-      "likes": 1,
+      "reach": 9,
+      "views": 27,
+      "likes": 3,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 2,
-      "er": 0.5,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 0.8889,
       "permalink": "https://www.instagram.com/p/Dcg2AjujldB/"
     },
     {
       "date": "2026-08-26",
       "date_human": "26.08.2026",
       "title": "Вы уже слышали, что на маркетплейсах больше не заработать:…",
-      "reach": 29,
-      "views": 50,
-      "likes": 5,
+      "reach": 69,
+      "views": 94,
+      "likes": 6,
       "comments": 0,
       "saved": 2,
       "shares": 3,
-      "interactions": 13,
-      "er": 0.4483,
+      "interactions": 14,
+      "er": 0.2029,
       "permalink": "https://www.instagram.com/reel/DcgRQOKEo6O/"
     },
     {
@@ -486,14 +511,14 @@ window.IG_DATA = {
       "date": "2026-08-24",
       "date_human": "24.08.2026",
       "title": "Поднять маржинальность можно не трогая цены — и это самый б…",
-      "reach": 32,
-      "views": 40,
+      "reach": 33,
+      "views": 41,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 3,
       "interactions": 11,
-      "er": 0.3438,
+      "er": 0.3333,
       "permalink": "https://www.instagram.com/reel/DcbHu7-FdgZ/"
     },
     {
@@ -570,14 +595,14 @@ window.IG_DATA = {
       "date": "2026-08-22",
       "date_human": "22.08.2026",
       "title": "Товар на месте, остатков хватает, а продаж нет — и причина…",
-      "reach": 169,
-      "views": 210,
+      "reach": 170,
+      "views": 211,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.0592,
+      "er": 0.0588,
       "permalink": "https://www.instagram.com/reel/DcV-Fa1AuwE/"
     },
     {
@@ -598,14 +623,14 @@ window.IG_DATA = {
       "date": "2026-08-22",
       "date_human": "22.08.2026",
       "title": "Ваш товар лежит на складе, который сегодня перестал принима…",
-      "reach": 123,
-      "views": 165,
+      "reach": 124,
+      "views": 166,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.0813,
+      "er": 0.0806,
       "permalink": "https://www.instagram.com/reel/DcVZNtACo8m/"
     },
     {
@@ -626,14 +651,14 @@ window.IG_DATA = {
       "date": "2026-08-21",
       "date_human": "21.08.2026",
       "title": "Склады восстановят — вопрос выживания площадки можно закрыв…",
-      "reach": 170,
-      "views": 204,
+      "reach": 171,
+      "views": 205,
       "likes": 8,
       "comments": 0,
       "saved": 2,
       "shares": 6,
       "interactions": 19,
-      "er": 0.1118,
+      "er": 0.1111,
       "permalink": "https://www.instagram.com/reel/DcTZSNIE980/"
     },
     {
@@ -747,20 +772,6 @@ window.IG_DATA = {
       "interactions": 10,
       "er": 0.7692,
       "permalink": "https://www.instagram.com/p/DcLPgQ3DqLh/"
-    },
-    {
-      "date": "2026-08-17",
-      "date_human": "17.08.2026",
-      "title": "Вы каждый месяц докладываете в магазин свои деньги и говори…",
-      "reach": 15,
-      "views": 40,
-      "likes": 1,
-      "comments": 1,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 10,
-      "er": 0.6667,
-      "permalink": "https://www.instagram.com/p/DcJbdJEDsMc/"
     }
   ]
 };
