@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "31.08.2026 00:00 МСК",
+  "generated_at": "01.09.2026 00:00 МСК",
   "followers": 19,
   "days": [
     {
@@ -453,9 +453,62 @@ window.IG_DATA = {
       "likes": 148,
       "comments": 4,
       "saved": 108
+    },
+    {
+      "day": "2026-08-31",
+      "followers": 19,
+      "media_count": 74,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 146,
+      "comments": 4,
+      "saved": 101
     }
   ],
   "posts": [
+    {
+      "date": "2026-08-31",
+      "date_human": "31.08.2026",
+      "title": "Вторая площадка у вас, скорее всего, не работает. Спрос там…",
+      "reach": 6,
+      "views": 18,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.3333,
+      "permalink": "https://www.instagram.com/p/Dctd5vsDl2m/"
+    },
+    {
+      "date": "2026-08-31",
+      "date_human": "31.08.2026",
+      "title": "Больше пяти лет мы с командой финансовых директоров помогае…",
+      "reach": 11,
+      "views": 20,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.2727,
+      "permalink": "https://www.instagram.com/reel/DctJTtwD-3q/"
+    },
+    {
+      "date": "2026-08-31",
+      "date_human": "31.08.2026",
+      "title": "Месяц кончился, а сколько вы на нём заработали — непонятно.…",
+      "reach": 7,
+      "views": 27,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.7143,
+      "permalink": "https://www.instagram.com/p/Dcst1cFDn5K/"
+    },
     {
       "date": "2026-08-30",
       "date_human": "30.08.2026",
@@ -474,14 +527,14 @@ window.IG_DATA = {
       "date": "2026-08-30",
       "date_human": "30.08.2026",
       "title": "Проверьте себя по трём пунктам — и станет понятно, действит…",
-      "reach": 6,
-      "views": 10,
+      "reach": 12,
+      "views": 15,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
-      "er": 0.3333,
+      "er": 0.1667,
       "permalink": "https://www.instagram.com/reel/DcqkbmanOJx/"
     },
     {
@@ -503,7 +556,7 @@ window.IG_DATA = {
       "date_human": "29.08.2026",
       "title": "Оборот от 6 миллионов в месяц, а финансовых проблем в бизне…",
       "reach": 39,
-      "views": 51,
+      "views": 52,
       "likes": 3,
       "comments": 0,
       "saved": 1,
@@ -516,14 +569,14 @@ window.IG_DATA = {
       "date": "2026-08-29",
       "date_human": "29.08.2026",
       "title": "Деньги за партию уходят поставщику раньше, чем кто-то посчи…",
-      "reach": 7,
-      "views": 19,
+      "reach": 8,
+      "views": 21,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DcnkP8qjqwr/"
     },
     {
@@ -670,28 +723,28 @@ window.IG_DATA = {
       "date": "2026-08-23",
       "date_human": "23.08.2026",
       "title": "Вы всё сделали правильно — образование, работа, накопления,…",
-      "reach": 10,
-      "views": 23,
+      "reach": 11,
+      "views": 24,
       "likes": 2,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 7,
-      "er": 0.7,
+      "er": 0.6364,
       "permalink": "https://www.instagram.com/p/DcY3jENDoRo/"
     },
     {
       "date": "2026-08-23",
       "date_human": "23.08.2026",
       "title": "Вы прямо сейчас решаете, переводить ли торговлю на свой скл…",
-      "reach": 137,
+      "reach": 138,
       "views": 161,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.073,
+      "er": 0.0725,
       "permalink": "https://www.instagram.com/reel/DcYi3haAFvN/"
     },
     {
@@ -763,48 +816,6 @@ window.IG_DATA = {
       "interactions": 10,
       "er": 0.08,
       "permalink": "https://www.instagram.com/reel/DcVZNtACo8m/"
-    },
-    {
-      "date": "2026-08-21",
-      "date_human": "21.08.2026",
-      "title": "Вы правите цены руками раз в неделю, когда доходят руки. У…",
-      "reach": 14,
-      "views": 35,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 8,
-      "er": 0.5714,
-      "permalink": "https://www.instagram.com/p/DcTwaGZjroZ/"
-    },
-    {
-      "date": "2026-08-21",
-      "date_human": "21.08.2026",
-      "title": "Склады восстановят — вопрос выживания площадки можно закрыв…",
-      "reach": 172,
-      "views": 207,
-      "likes": 8,
-      "comments": 0,
-      "saved": 2,
-      "shares": 6,
-      "interactions": 19,
-      "er": 0.1105,
-      "permalink": "https://www.instagram.com/reel/DcTZSNIE980/"
-    },
-    {
-      "date": "2026-08-21",
-      "date_human": "21.08.2026",
-      "title": "Остатки выбиты, оборотных денег не хватает, маржинальность…",
-      "reach": 129,
-      "views": 154,
-      "likes": 5,
-      "comments": 0,
-      "saved": 3,
-      "shares": 4,
-      "interactions": 15,
-      "er": 0.1163,
-      "permalink": "https://www.instagram.com/reel/DcS-Ay3iMou/"
     }
   ]
 };
