@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "02.09.2026 00:00 МСК",
+  "generated_at": "03.09.2026 00:00 МСК",
   "followers": 19,
   "days": [
     {
@@ -475,9 +475,62 @@ window.IG_DATA = {
       "likes": 148,
       "comments": 4,
       "saved": 94
+    },
+    {
+      "day": "2026-09-02",
+      "followers": 19,
+      "media_count": 80,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 148,
+      "comments": 4,
+      "saved": 86
     }
   ],
   "posts": [
+    {
+      "date": "2026-09-02",
+      "date_human": "02.09.2026",
+      "title": "Пересказ вместо книги, ролик вместо статьи, «коротко о глав…",
+      "reach": 2,
+      "views": 5,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 1.0,
+      "permalink": "https://www.instagram.com/p/Dcyng8Xjghf/"
+    },
+    {
+      "date": "2026-09-02",
+      "date_human": "02.09.2026",
+      "title": "Тебе нечем платить, а продажи при этом идут. Оборот от 6 ми…",
+      "reach": 3,
+      "views": 6,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 1,
+      "interactions": 4,
+      "er": 1.3333,
+      "permalink": "https://www.instagram.com/reel/DcyS0M0CKPV/"
+    },
+    {
+      "date": "2026-09-02",
+      "date_human": "02.09.2026",
+      "title": "Покупатель не пришёл за заказом — и вы оплатили обе дороги:…",
+      "reach": 7,
+      "views": 27,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.7143,
+      "permalink": "https://www.instagram.com/p/Dcx3b9Gjuux/"
+    },
     {
       "date": "2026-09-01",
       "date_human": "01.09.2026",
@@ -496,14 +549,14 @@ window.IG_DATA = {
       "date": "2026-09-01",
       "date_human": "01.09.2026",
       "title": "Вы не понимаете, сколько на самом деле зарабатываете. В фин…",
-      "reach": 8,
-      "views": 13,
-      "likes": 2,
+      "reach": 16,
+      "views": 25,
+      "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.625,
+      "interactions": 6,
+      "er": 0.375,
       "permalink": "https://www.instagram.com/reel/DcvuBtRCDYd/"
     },
     {
@@ -538,14 +591,14 @@ window.IG_DATA = {
       "date": "2026-08-31",
       "date_human": "31.08.2026",
       "title": "Больше пяти лет мы с командой финансовых директоров помогае…",
-      "reach": 22,
-      "views": 35,
+      "reach": 23,
+      "views": 36,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 2,
       "interactions": 7,
-      "er": 0.3182,
+      "er": 0.3043,
       "permalink": "https://www.instagram.com/reel/DctJTtwD-3q/"
     },
     {
@@ -622,14 +675,14 @@ window.IG_DATA = {
       "date": "2026-08-29",
       "date_human": "29.08.2026",
       "title": "Деньги за партию уходят поставщику раньше, чем кто-то посчи…",
-      "reach": 8,
+      "reach": 9,
       "views": 22,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.625,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/DcnkP8qjqwr/"
     },
     {
@@ -785,48 +838,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.6364,
       "permalink": "https://www.instagram.com/p/DcY3jENDoRo/"
-    },
-    {
-      "date": "2026-08-23",
-      "date_human": "23.08.2026",
-      "title": "Вы прямо сейчас решаете, переводить ли торговлю на свой скл…",
-      "reach": 138,
-      "views": 161,
-      "likes": 4,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 10,
-      "er": 0.0725,
-      "permalink": "https://www.instagram.com/reel/DcYi3haAFvN/"
-    },
-    {
-      "date": "2026-08-23",
-      "date_human": "23.08.2026",
-      "title": "Летом вопрос «а если площадка закроется» перестал звучать к…",
-      "reach": 9,
-      "views": 21,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
-      "permalink": "https://www.instagram.com/p/DcYHfNcDtdb/"
-    },
-    {
-      "date": "2026-08-22",
-      "date_human": "22.08.2026",
-      "title": "Весь ваш оборот держится на одном складе, и сегодня стало в…",
-      "reach": 10,
-      "views": 22,
-      "likes": 2,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 7,
-      "er": 0.7,
-      "permalink": "https://www.instagram.com/p/DcWSwRODg3q/"
     }
   ]
 };
