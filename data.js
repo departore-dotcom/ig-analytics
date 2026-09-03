@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "03.09.2026 00:00 МСК",
+  "generated_at": "04.09.2026 00:00 МСК",
   "followers": 19,
   "days": [
     {
@@ -486,35 +486,88 @@ window.IG_DATA = {
       "likes": 148,
       "comments": 4,
       "saved": 86
+    },
+    {
+      "day": "2026-09-03",
+      "followers": 19,
+      "media_count": 83,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 145,
+      "comments": 4,
+      "saved": 77
     }
   ],
   "posts": [
     {
-      "date": "2026-09-02",
-      "date_human": "02.09.2026",
-      "title": "Пересказ вместо книги, ролик вместо статьи, «коротко о глав…",
-      "reach": 2,
-      "views": 5,
+      "date": "2026-09-03",
+      "date_human": "03.09.2026",
+      "title": "Партию вы оплатили в июле, а платить за неё будете до следу…",
+      "reach": 3,
+      "views": 17,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/Dc1MQ2ijnvS/"
+    },
+    {
+      "date": "2026-09-03",
+      "date_human": "03.09.2026",
+      "title": "Ощущение, что с финансами всё в порядке, и реальный контрол…",
+      "reach": 5,
+      "views": 10,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
-      "er": 1.0,
+      "er": 0.4,
+      "permalink": "https://www.instagram.com/reel/Dc03qzwgjHH/"
+    },
+    {
+      "date": "2026-09-03",
+      "date_human": "03.09.2026",
+      "title": "Магазин прибыльный, а денег в кассе меньше, чем должно быть…",
+      "reach": 6,
+      "views": 23,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.3333,
+      "permalink": "https://www.instagram.com/p/Dc0cN6DDku5/"
+    },
+    {
+      "date": "2026-09-02",
+      "date_human": "02.09.2026",
+      "title": "Пересказ вместо книги, ролик вместо статьи, «коротко о глав…",
+      "reach": 5,
+      "views": 13,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.4,
       "permalink": "https://www.instagram.com/p/Dcyng8Xjghf/"
     },
     {
       "date": "2026-09-02",
       "date_human": "02.09.2026",
       "title": "Тебе нечем платить, а продажи при этом идут. Оборот от 6 ми…",
-      "reach": 3,
-      "views": 6,
+      "reach": 4,
+      "views": 7,
       "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 1,
       "interactions": 4,
-      "er": 1.3333,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/reel/DcyS0M0CKPV/"
     },
     {
@@ -522,7 +575,7 @@ window.IG_DATA = {
       "date_human": "02.09.2026",
       "title": "Покупатель не пришёл за заказом — и вы оплатили обе дороги:…",
       "reach": 7,
-      "views": 27,
+      "views": 31,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -796,48 +849,6 @@ window.IG_DATA = {
       "interactions": 5,
       "er": 0.5556,
       "permalink": "https://www.instagram.com/p/DcbcW4VDltN/"
-    },
-    {
-      "date": "2026-08-24",
-      "date_human": "24.08.2026",
-      "title": "Поднять маржинальность можно не трогая цены — и это самый б…",
-      "reach": 33,
-      "views": 41,
-      "likes": 4,
-      "comments": 0,
-      "saved": 2,
-      "shares": 3,
-      "interactions": 11,
-      "er": 0.3333,
-      "permalink": "https://www.instagram.com/reel/DcbHu7-FdgZ/"
-    },
-    {
-      "date": "2026-08-24",
-      "date_human": "24.08.2026",
-      "title": "Заказ уехал на вторые сутки, покупатель его отменил — и с 3…",
-      "reach": 12,
-      "views": 30,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 0.75,
-      "permalink": "https://www.instagram.com/p/DcasRuLjsl0/"
-    },
-    {
-      "date": "2026-08-23",
-      "date_human": "23.08.2026",
-      "title": "Вы всё сделали правильно — образование, работа, накопления,…",
-      "reach": 11,
-      "views": 24,
-      "likes": 2,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 7,
-      "er": 0.6364,
-      "permalink": "https://www.instagram.com/p/DcY3jENDoRo/"
     }
   ]
 };
