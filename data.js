@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "05.09.2026 00:00 МСК",
-  "followers": 19,
+  "generated_at": "06.09.2026 00:00 МСК",
+  "followers": 20,
   "days": [
     {
       "day": "2026-07-21",
@@ -508,6 +508,17 @@ window.IG_DATA = {
       "likes": 152,
       "comments": 4,
       "saved": 83
+    },
+    {
+      "day": "2026-09-05",
+      "followers": 20,
+      "media_count": 83,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 152,
+      "comments": 4,
+      "saved": 83
     }
   ],
   "posts": [
@@ -515,28 +526,28 @@ window.IG_DATA = {
       "date": "2026-09-03",
       "date_human": "03.09.2026",
       "title": "Партию вы оплатили в июле, а платить за неё будете до следу…",
-      "reach": 5,
-      "views": 20,
+      "reach": 6,
+      "views": 21,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 0,
       "interactions": 4,
-      "er": 0.8,
+      "er": 0.6667,
       "permalink": "https://www.instagram.com/p/Dc1MQ2ijnvS/"
     },
     {
       "date": "2026-09-03",
       "date_human": "03.09.2026",
       "title": "Ощущение, что с финансами всё в порядке, и реальный контрол…",
-      "reach": 6,
-      "views": 13,
+      "reach": 7,
+      "views": 15,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.8333,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/reel/Dc03qzwgjHH/"
     },
     {
@@ -557,14 +568,14 @@ window.IG_DATA = {
       "date": "2026-09-02",
       "date_human": "02.09.2026",
       "title": "Пересказ вместо книги, ролик вместо статьи, «коротко о глав…",
-      "reach": 7,
-      "views": 21,
+      "reach": 8,
+      "views": 23,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/Dcyng8Xjghf/"
     },
     {
@@ -585,14 +596,14 @@ window.IG_DATA = {
       "date": "2026-09-02",
       "date_human": "02.09.2026",
       "title": "Покупатель не пришёл за заказом — и вы оплатили обе дороги:…",
-      "reach": 8,
-      "views": 40,
+      "reach": 9,
+      "views": 42,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.625,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/Dcx3b9Gjuux/"
     },
     {
