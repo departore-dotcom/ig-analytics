@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "06.09.2026 00:00 МСК",
+  "generated_at": "07.09.2026 00:00 МСК",
   "followers": 20,
   "days": [
     {
@@ -519,6 +519,17 @@ window.IG_DATA = {
       "likes": 152,
       "comments": 4,
       "saved": 83
+    },
+    {
+      "day": "2026-09-06",
+      "followers": 20,
+      "media_count": 83,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 153,
+      "comments": 4,
+      "saved": 83
     }
   ],
   "posts": [
@@ -526,14 +537,14 @@ window.IG_DATA = {
       "date": "2026-09-03",
       "date_human": "03.09.2026",
       "title": "Партию вы оплатили в июле, а платить за неё будете до следу…",
-      "reach": 6,
-      "views": 21,
-      "likes": 2,
+      "reach": 8,
+      "views": 30,
+      "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 0,
-      "interactions": 4,
-      "er": 0.6667,
+      "interactions": 5,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/Dc1MQ2ijnvS/"
     },
     {
@@ -554,14 +565,14 @@ window.IG_DATA = {
       "date": "2026-09-03",
       "date_human": "03.09.2026",
       "title": "Магазин прибыльный, а денег в кассе меньше, чем должно быть…",
-      "reach": 7,
-      "views": 27,
+      "reach": 8,
+      "views": 29,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/Dc0cN6DDku5/"
     },
     {
