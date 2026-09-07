@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "07.09.2026 00:00 МСК",
+  "generated_at": "08.09.2026 00:00 МСК",
   "followers": 20,
   "days": [
     {
@@ -530,9 +530,48 @@ window.IG_DATA = {
       "likes": 153,
       "comments": 4,
       "saved": 83
+    },
+    {
+      "day": "2026-09-07",
+      "followers": 20,
+      "media_count": 85,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 142,
+      "comments": 3,
+      "saved": 76
     }
   ],
   "posts": [
+    {
+      "date": "2026-09-07",
+      "date_human": "07.09.2026",
+      "title": "Обороты у вас растут, продажи идут, залог есть — а в кредит…",
+      "reach": 4,
+      "views": 14,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/Dc_fe1dDgT7/"
+    },
+    {
+      "date": "2026-09-07",
+      "date_human": "07.09.2026",
+      "title": "Вы отдаёте площадке 43,5% в одежде, а продавец с китайским…",
+      "reach": 6,
+      "views": 18,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.3333,
+      "permalink": "https://www.instagram.com/p/Dc-x5njDu19/"
+    },
     {
       "date": "2026-09-03",
       "date_human": "03.09.2026",
@@ -635,42 +674,42 @@ window.IG_DATA = {
       "date": "2026-09-01",
       "date_human": "01.09.2026",
       "title": "Вы не понимаете, сколько на самом деле зарабатываете. В фин…",
-      "reach": 16,
+      "reach": 17,
       "views": 25,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 6,
-      "er": 0.375,
+      "er": 0.3529,
       "permalink": "https://www.instagram.com/reel/DcvuBtRCDYd/"
     },
     {
       "date": "2026-09-01",
       "date_human": "01.09.2026",
       "title": "Сегодня вас могли записать в список, о котором вы не знали,…",
-      "reach": 7,
-      "views": 28,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.7143,
-      "permalink": "https://www.instagram.com/p/DcvSo6fDki7/"
-    },
-    {
-      "date": "2026-08-31",
-      "date_human": "31.08.2026",
-      "title": "Вторая площадка у вас, скорее всего, не работает. Спрос там…",
       "reach": 8,
-      "views": 25,
+      "views": 29,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
       "er": 0.625,
+      "permalink": "https://www.instagram.com/p/DcvSo6fDki7/"
+    },
+    {
+      "date": "2026-08-31",
+      "date_human": "31.08.2026",
+      "title": "Вторая площадка у вас, скорее всего, не работает. Спрос там…",
+      "reach": 9,
+      "views": 26,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/Dctd5vsDl2m/"
     },
     {
@@ -854,34 +893,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 0.234,
       "permalink": "https://www.instagram.com/reel/DcdshDpDHWR/"
-    },
-    {
-      "date": "2026-08-25",
-      "date_human": "25.08.2026",
-      "title": "Ваш товар лежит на складе, а карточка, через которую его по…",
-      "reach": 7,
-      "views": 14,
-      "likes": 2,
-      "comments": 1,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 6,
-      "er": 0.8571,
-      "permalink": "https://www.instagram.com/p/DcdRRK8jlMR/"
-    },
-    {
-      "date": "2026-08-24",
-      "date_human": "24.08.2026",
-      "title": "Ваши дешёвые позиции с 28 августа станут дороже — для вас.…",
-      "reach": 9,
-      "views": 18,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
-      "permalink": "https://www.instagram.com/p/DcbcW4VDltN/"
     }
   ]
 };
