@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "10.09.2026 00:00 МСК",
+  "generated_at": "11.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -563,21 +563,60 @@ window.IG_DATA = {
       "likes": 144,
       "comments": 2,
       "saved": 72
+    },
+    {
+      "day": "2026-09-10",
+      "followers": 21,
+      "media_count": 91,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 145,
+      "comments": 2,
+      "saved": 69
     }
   ],
   "posts": [
     {
+      "date": "2026-09-10",
+      "date_human": "10.09.2026",
+      "title": "Деньги на счёте есть — значит, дела идут. Другого измерител…",
+      "reach": 6,
+      "views": 15,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.5,
+      "permalink": "https://www.instagram.com/p/DdHN4NQDNTh/"
+    },
+    {
+      "date": "2026-09-10",
+      "date_human": "10.09.2026",
+      "title": "Годовой отчёт показывает прибыль в два миллиона, а на счёте…",
+      "reach": 8,
+      "views": 17,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.375,
+      "permalink": "https://www.instagram.com/p/DdGdzj6DHvP/"
+    },
+    {
       "date": "2026-09-09",
       "date_human": "09.09.2026",
       "title": "В вашем управленческом отчёте, скорее всего, нет слова «убы…",
-      "reach": 4,
-      "views": 19,
-      "likes": 0,
+      "reach": 10,
+      "views": 37,
+      "likes": 1,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.3,
       "permalink": "https://www.instagram.com/p/DdEpEsGjMbq/"
     },
     {
@@ -598,42 +637,42 @@ window.IG_DATA = {
       "date": "2026-09-08",
       "date_human": "08.09.2026",
       "title": "Деньги на счёте есть, а в день платежа их нет. Убыток тут н…",
-      "reach": 5,
-      "views": 14,
+      "reach": 6,
+      "views": 15,
       "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 3,
-      "er": 0.6,
+      "er": 0.5,
       "permalink": "https://www.instagram.com/p/DdCERFjjlRj/"
     },
     {
       "date": "2026-09-08",
       "date_human": "08.09.2026",
       "title": "Фестиваль, где деньги внутри запрещены, закрыл 2024 год с у…",
-      "reach": 12,
-      "views": 35,
+      "reach": 13,
+      "views": 36,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 2,
       "interactions": 7,
-      "er": 0.5833,
+      "er": 0.5385,
       "permalink": "https://www.instagram.com/p/DdBiEFDDldu/"
     },
     {
       "date": "2026-09-07",
       "date_human": "07.09.2026",
       "title": "Обороты у вас растут, продажи идут, залог есть — а в кредит…",
-      "reach": 7,
-      "views": 21,
+      "reach": 8,
+      "views": 24,
       "likes": 1,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 3,
-      "er": 0.4286,
+      "er": 0.375,
       "permalink": "https://www.instagram.com/p/Dc_fe1dDgT7/"
     },
     {
@@ -654,14 +693,14 @@ window.IG_DATA = {
       "date": "2026-09-03",
       "date_human": "03.09.2026",
       "title": "Партию вы оплатили в июле, а платить за неё будете до следу…",
-      "reach": 8,
-      "views": 30,
+      "reach": 9,
+      "views": 31,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 0,
       "interactions": 5,
-      "er": 0.625,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/Dc1MQ2ijnvS/"
     },
     {
@@ -766,14 +805,14 @@ window.IG_DATA = {
       "date": "2026-09-01",
       "date_human": "01.09.2026",
       "title": "Сегодня вас могли записать в список, о котором вы не знали,…",
-      "reach": 9,
-      "views": 31,
+      "reach": 10,
+      "views": 32,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.5556,
+      "er": 0.5,
       "permalink": "https://www.instagram.com/p/DcvSo6fDki7/"
     },
     {
@@ -887,34 +926,6 @@ window.IG_DATA = {
       "interactions": 5,
       "er": 0.5,
       "permalink": "https://www.instagram.com/p/DcnkP8qjqwr/"
-    },
-    {
-      "date": "2026-08-28",
-      "date_human": "28.08.2026",
-      "title": "Отчёт по моделям показывает плюс, а свободных денег всё рав…",
-      "reach": 9,
-      "views": 16,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
-      "permalink": "https://www.instagram.com/p/Dclvh0aDm78/"
-    },
-    {
-      "date": "2026-08-28",
-      "date_human": "28.08.2026",
-      "title": "Склад забит прошлым сезоном, а свободных денег нет. Первое…",
-      "reach": 9,
-      "views": 23,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
-      "permalink": "https://www.instagram.com/p/Dck_d8pjsRq/"
     }
   ]
 };
