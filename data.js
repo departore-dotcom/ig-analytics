@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "11.09.2026 00:00 МСК",
+  "generated_at": "12.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -574,21 +574,60 @@ window.IG_DATA = {
       "likes": 145,
       "comments": 2,
       "saved": 69
+    },
+    {
+      "day": "2026-09-11",
+      "followers": 21,
+      "media_count": 93,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 141,
+      "comments": 1,
+      "saved": 65
     }
   ],
   "posts": [
     {
-      "date": "2026-09-10",
-      "date_human": "10.09.2026",
-      "title": "Деньги на счёте есть — значит, дела идут. Другого измерител…",
+      "date": "2026-09-11",
+      "date_human": "11.09.2026",
+      "title": "Себестоимость в вашей таблице почти наверняка занижена, и о…",
+      "reach": 5,
+      "views": 10,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.4,
+      "permalink": "https://www.instagram.com/p/DdJyquYjFqJ/"
+    },
+    {
+      "date": "2026-09-11",
+      "date_human": "11.09.2026",
+      "title": "Вы выбираете, что закупать, по проценту маржи — и почти все…",
       "reach": 6,
       "views": 15,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.5,
+      "interactions": 5,
+      "er": 0.8333,
+      "permalink": "https://www.instagram.com/p/DdJClVljNls/"
+    },
+    {
+      "date": "2026-09-10",
+      "date_human": "10.09.2026",
+      "title": "Деньги на счёте есть — значит, дела идут. Другого измерител…",
+      "reach": 7,
+      "views": 16,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/p/DdHN4NQDNTh/"
     },
     {
@@ -597,12 +636,12 @@ window.IG_DATA = {
       "title": "Годовой отчёт показывает прибыль в два миллиона, а на счёте…",
       "reach": 8,
       "views": 17,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.375,
+      "interactions": 5,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DdGdzj6DHvP/"
     },
     {
@@ -611,12 +650,12 @@ window.IG_DATA = {
       "title": "В вашем управленческом отчёте, скорее всего, нет слова «убы…",
       "reach": 10,
       "views": 37,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.3,
+      "interactions": 5,
+      "er": 0.5,
       "permalink": "https://www.instagram.com/p/DdEpEsGjMbq/"
     },
     {
@@ -679,14 +718,14 @@ window.IG_DATA = {
       "date": "2026-09-07",
       "date_human": "07.09.2026",
       "title": "Вы отдаёте площадке 43,5% в одежде, а продавец с китайским…",
-      "reach": 7,
-      "views": 20,
+      "reach": 8,
+      "views": 22,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/Dc-x5njDu19/"
     },
     {
@@ -898,34 +937,6 @@ window.IG_DATA = {
       "interactions": 5,
       "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DcoUUS3jjx1/"
-    },
-    {
-      "date": "2026-08-29",
-      "date_human": "29.08.2026",
-      "title": "Оборот от 6 миллионов в месяц, а финансовых проблем в бизне…",
-      "reach": 41,
-      "views": 55,
-      "likes": 3,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 6,
-      "er": 0.1463,
-      "permalink": "https://www.instagram.com/reel/DcoFaMEj4xA/"
-    },
-    {
-      "date": "2026-08-29",
-      "date_human": "29.08.2026",
-      "title": "Деньги за партию уходят поставщику раньше, чем кто-то посчи…",
-      "reach": 10,
-      "views": 23,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/p/DcnkP8qjqwr/"
     }
   ]
 };
