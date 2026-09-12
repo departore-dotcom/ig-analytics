@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "12.09.2026 00:00 МСК",
+  "generated_at": "13.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -585,21 +585,60 @@ window.IG_DATA = {
       "likes": 141,
       "comments": 1,
       "saved": 65
+    },
+    {
+      "day": "2026-09-12",
+      "followers": 21,
+      "media_count": 95,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 131,
+      "comments": 1,
+      "saved": 60
     }
   ],
   "posts": [
     {
+      "date": "2026-09-12",
+      "date_human": "12.09.2026",
+      "title": "Счёт перестал работать, операции остановлены, личный кабине…",
+      "reach": 2,
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/DdMXcx1jG1w/"
+    },
+    {
+      "date": "2026-09-12",
+      "date_human": "12.09.2026",
+      "title": "Самое дорогое, что есть на Burning Man, сжигают по расписан…",
+      "reach": 5,
+      "views": 14,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/DdLnYAPjEOU/"
+    },
+    {
       "date": "2026-09-11",
       "date_human": "11.09.2026",
       "title": "Себестоимость в вашей таблице почти наверняка занижена, и о…",
-      "reach": 5,
-      "views": 10,
+      "reach": 6,
+      "views": 18,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
-      "er": 0.4,
+      "er": 0.3333,
       "permalink": "https://www.instagram.com/p/DdJyquYjFqJ/"
     },
     {
@@ -607,7 +646,7 @@ window.IG_DATA = {
       "date_human": "11.09.2026",
       "title": "Вы выбираете, что закупать, по проценту маржи — и почти все…",
       "reach": 6,
-      "views": 15,
+      "views": 16,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -621,7 +660,7 @@ window.IG_DATA = {
       "date_human": "10.09.2026",
       "title": "Деньги на счёте есть — значит, дела идут. Другого измерител…",
       "reach": 7,
-      "views": 16,
+      "views": 17,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -635,7 +674,7 @@ window.IG_DATA = {
       "date_human": "10.09.2026",
       "title": "Годовой отчёт показывает прибыль в два миллиона, а на счёте…",
       "reach": 8,
-      "views": 17,
+      "views": 20,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -909,34 +948,6 @@ window.IG_DATA = {
       "interactions": 2,
       "er": 0.4,
       "permalink": "https://www.instagram.com/p/Dcq5HX8DiI0/"
-    },
-    {
-      "date": "2026-08-30",
-      "date_human": "30.08.2026",
-      "title": "Проверьте себя по трём пунктам — и станет понятно, действит…",
-      "reach": 14,
-      "views": 17,
-      "likes": 1,
-      "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 2,
-      "er": 0.1429,
-      "permalink": "https://www.instagram.com/reel/DcqkbmanOJx/"
-    },
-    {
-      "date": "2026-08-29",
-      "date_human": "29.08.2026",
-      "title": "Продажи идут, отчёт показывает выручку, а на счёте пусто —…",
-      "reach": 6,
-      "views": 16,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.8333,
-      "permalink": "https://www.instagram.com/p/DcoUUS3jjx1/"
     }
   ]
 };
