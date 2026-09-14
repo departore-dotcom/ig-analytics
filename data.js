@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "14.09.2026 00:00 МСК",
+  "generated_at": "15.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -607,6 +607,17 @@ window.IG_DATA = {
       "likes": 131,
       "comments": 1,
       "saved": 59
+    },
+    {
+      "day": "2026-09-14",
+      "followers": 21,
+      "media_count": 96,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 131,
+      "comments": 1,
+      "saved": 59
     }
   ],
   "posts": [
@@ -614,14 +625,14 @@ window.IG_DATA = {
       "date": "2026-09-13",
       "date_human": "13.09.2026",
       "title": "Чтобы получить на руки миллион, компания заплатит либо 1 14…",
-      "reach": 5,
-      "views": 19,
+      "reach": 6,
+      "views": 28,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 1.0,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DdOMXvADCBk/"
     },
     {
@@ -642,28 +653,28 @@ window.IG_DATA = {
       "date": "2026-09-12",
       "date_human": "12.09.2026",
       "title": "Самое дорогое, что есть на Burning Man, сжигают по расписан…",
-      "reach": 8,
-      "views": 23,
+      "reach": 9,
+      "views": 25,
       "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 1,
       "interactions": 4,
-      "er": 0.5,
+      "er": 0.4444,
       "permalink": "https://www.instagram.com/p/DdLnYAPjEOU/"
     },
     {
       "date": "2026-09-11",
       "date_human": "11.09.2026",
       "title": "Себестоимость в вашей таблице почти наверняка занижена, и о…",
-      "reach": 7,
+      "reach": 8,
       "views": 21,
       "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 3,
-      "er": 0.4286,
+      "er": 0.375,
       "permalink": "https://www.instagram.com/p/DdJyquYjFqJ/"
     },
     {
