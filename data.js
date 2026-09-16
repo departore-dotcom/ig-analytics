@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "16.09.2026 00:00 МСК",
+  "generated_at": "17.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -629,9 +629,34 @@ window.IG_DATA = {
       "likes": 131,
       "comments": 1,
       "saved": 59
+    },
+    {
+      "day": "2026-09-16",
+      "followers": 21,
+      "media_count": 97,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 127,
+      "comments": 1,
+      "saved": 56
     }
   ],
   "posts": [
+    {
+      "date": "2026-09-16",
+      "date_human": "16.09.2026",
+      "title": "Остаток на счёте — самая обманчивая цифра в бизнесе. Он выр…",
+      "reach": 4,
+      "views": 16,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.5,
+      "permalink": "https://www.instagram.com/p/DdWqoSCDF0u/"
+    },
     {
       "date": "2026-09-13",
       "date_human": "13.09.2026",
@@ -651,7 +676,7 @@ window.IG_DATA = {
       "date_human": "12.09.2026",
       "title": "Счёт перестал работать, операции остановлены, личный кабине…",
       "reach": 7,
-      "views": 20,
+      "views": 22,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -967,20 +992,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.2692,
       "permalink": "https://www.instagram.com/reel/DctJTtwD-3q/"
-    },
-    {
-      "date": "2026-08-31",
-      "date_human": "31.08.2026",
-      "title": "Месяц кончился, а сколько вы на нём заработали — непонятно.…",
-      "reach": 9,
-      "views": 31,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
-      "permalink": "https://www.instagram.com/p/Dcst1cFDn5K/"
     }
   ]
 };
