@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "17.09.2026 00:00 МСК",
+  "generated_at": "18.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -640,21 +640,60 @@ window.IG_DATA = {
       "likes": 127,
       "comments": 1,
       "saved": 56
+    },
+    {
+      "day": "2026-09-17",
+      "followers": 21,
+      "media_count": 99,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 118,
+      "comments": 1,
+      "saved": 52
     }
   ],
   "posts": [
     {
-      "date": "2026-09-16",
-      "date_human": "16.09.2026",
-      "title": "Остаток на счёте — самая обманчивая цифра в бизнесе. Он выр…",
+      "date": "2026-09-17",
+      "date_human": "17.09.2026",
+      "title": "Платёж по кредиту приходит каждый месяц, а выручки с той па…",
       "reach": 4,
-      "views": 16,
+      "views": 12,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
       "er": 0.5,
+      "permalink": "https://www.instagram.com/p/DdZPYwfldTi/"
+    },
+    {
+      "date": "2026-09-17",
+      "date_human": "17.09.2026",
+      "title": "Крупный товар выглядит выгодным ровно до того момента, пока…",
+      "reach": 5,
+      "views": 26,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.4,
+      "permalink": "https://www.instagram.com/p/DdYfXutFZ93/"
+    },
+    {
+      "date": "2026-09-16",
+      "date_human": "16.09.2026",
+      "title": "Остаток на счёте — самая обманчивая цифра в бизнесе. Он выр…",
+      "reach": 7,
+      "views": 26,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.2857,
       "permalink": "https://www.instagram.com/p/DdWqoSCDF0u/"
     },
     {
@@ -675,14 +714,14 @@ window.IG_DATA = {
       "date": "2026-09-12",
       "date_human": "12.09.2026",
       "title": "Счёт перестал работать, операции остановлены, личный кабине…",
-      "reach": 7,
-      "views": 22,
+      "reach": 8,
+      "views": 23,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DdMXcx1jG1w/"
     },
     {
@@ -815,14 +854,14 @@ window.IG_DATA = {
       "date": "2026-09-07",
       "date_human": "07.09.2026",
       "title": "Обороты у вас растут, продажи идут, залог есть — а в кредит…",
-      "reach": 9,
-      "views": 25,
+      "reach": 10,
+      "views": 29,
       "likes": 1,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 3,
-      "er": 0.3333,
+      "er": 0.3,
       "permalink": "https://www.instagram.com/p/Dc_fe1dDgT7/"
     },
     {
@@ -964,34 +1003,6 @@ window.IG_DATA = {
       "interactions": 5,
       "er": 0.5,
       "permalink": "https://www.instagram.com/p/DcvSo6fDki7/"
-    },
-    {
-      "date": "2026-08-31",
-      "date_human": "31.08.2026",
-      "title": "Вторая площадка у вас, скорее всего, не работает. Спрос там…",
-      "reach": 10,
-      "views": 27,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/p/Dctd5vsDl2m/"
-    },
-    {
-      "date": "2026-08-31",
-      "date_human": "31.08.2026",
-      "title": "Больше пяти лет мы с командой финансовых директоров помогае…",
-      "reach": 26,
-      "views": 39,
-      "likes": 3,
-      "comments": 0,
-      "saved": 1,
-      "shares": 2,
-      "interactions": 7,
-      "er": 0.2692,
-      "permalink": "https://www.instagram.com/reel/DctJTtwD-3q/"
     }
   ]
 };
