@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "18.09.2026 00:00 МСК",
-  "followers": 21,
+  "generated_at": "19.09.2026 00:00 МСК",
+  "followers": 20,
   "days": [
     {
       "day": "2026-07-21",
@@ -651,15 +651,54 @@ window.IG_DATA = {
       "likes": 118,
       "comments": 1,
       "saved": 52
+    },
+    {
+      "day": "2026-09-18",
+      "followers": 20,
+      "media_count": 101,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 112,
+      "comments": 1,
+      "saved": 49
     }
   ],
   "posts": [
+    {
+      "date": "2026-09-18",
+      "date_human": "18.09.2026",
+      "title": "Продажи идут весь месяц, а прибыль начинается где-то в посл…",
+      "reach": 2,
+      "views": 6,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/Ddb0NgkmS8y/"
+    },
+    {
+      "date": "2026-09-18",
+      "date_human": "18.09.2026",
+      "title": "Товар лежит на складе третий месяц, и каждые сутки это стои…",
+      "reach": 3,
+      "views": 15,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/DdbELTMlRYp/"
+    },
     {
       "date": "2026-09-17",
       "date_human": "17.09.2026",
       "title": "Платёж по кредиту приходит каждый месяц, а выручки с той па…",
       "reach": 4,
-      "views": 12,
+      "views": 17,
       "likes": 1,
       "comments": 0,
       "saved": 0,
@@ -687,7 +726,7 @@ window.IG_DATA = {
       "date_human": "16.09.2026",
       "title": "Остаток на счёте — самая обманчивая цифра в бизнесе. Он выр…",
       "reach": 7,
-      "views": 26,
+      "views": 28,
       "likes": 1,
       "comments": 0,
       "saved": 0,
@@ -975,34 +1014,6 @@ window.IG_DATA = {
       "interactions": 5,
       "er": 0.5556,
       "permalink": "https://www.instagram.com/p/DcwCtOkDmJK/"
-    },
-    {
-      "date": "2026-09-01",
-      "date_human": "01.09.2026",
-      "title": "Вы не понимаете, сколько на самом деле зарабатываете. В фин…",
-      "reach": 20,
-      "views": 29,
-      "likes": 3,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 6,
-      "er": 0.3,
-      "permalink": "https://www.instagram.com/reel/DcvuBtRCDYd/"
-    },
-    {
-      "date": "2026-09-01",
-      "date_human": "01.09.2026",
-      "title": "Сегодня вас могли записать в список, о котором вы не знали,…",
-      "reach": 10,
-      "views": 32,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/p/DcvSo6fDki7/"
     }
   ]
 };
