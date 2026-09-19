@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "19.09.2026 00:00 МСК",
-  "followers": 20,
+  "generated_at": "20.09.2026 00:00 МСК",
+  "followers": 21,
   "days": [
     {
       "day": "2026-07-21",
@@ -662,35 +662,74 @@ window.IG_DATA = {
       "likes": 112,
       "comments": 1,
       "saved": 49
+    },
+    {
+      "day": "2026-09-19",
+      "followers": 21,
+      "media_count": 103,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 109,
+      "comments": 1,
+      "saved": 45
     }
   ],
   "posts": [
     {
-      "date": "2026-09-18",
-      "date_human": "18.09.2026",
-      "title": "Продажи идут весь месяц, а прибыль начинается где-то в посл…",
+      "date": "2026-09-19",
+      "date_human": "19.09.2026",
+      "title": "Деньги следующей закупки уже лежат у вас на складе. По оста…",
       "reach": 2,
-      "views": 6,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 0,
       "er": 0.0,
+      "permalink": "https://www.instagram.com/p/DdeZBEiG-3z/"
+    },
+    {
+      "date": "2026-09-19",
+      "date_human": "19.09.2026",
+      "title": "За ваш сгоревший товар в налоговую уже подали сумму, а каку…",
+      "reach": 3,
+      "views": 9,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.6667,
+      "permalink": "https://www.instagram.com/p/Dddo8-bFmi_/"
+    },
+    {
+      "date": "2026-09-18",
+      "date_human": "18.09.2026",
+      "title": "Продажи идут весь месяц, а прибыль начинается где-то в посл…",
+      "reach": 5,
+      "views": 11,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.4,
       "permalink": "https://www.instagram.com/p/Ddb0NgkmS8y/"
     },
     {
       "date": "2026-09-18",
       "date_human": "18.09.2026",
       "title": "Товар лежит на складе третий месяц, и каждые сутки это стои…",
-      "reach": 3,
-      "views": 15,
-      "likes": 0,
+      "reach": 5,
+      "views": 21,
+      "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "interactions": 2,
+      "er": 0.4,
       "permalink": "https://www.instagram.com/p/DdbELTMlRYp/"
     },
     {
@@ -986,34 +1025,6 @@ window.IG_DATA = {
       "interactions": 8,
       "er": 1.0,
       "permalink": "https://www.instagram.com/reel/DcyS0M0CKPV/"
-    },
-    {
-      "date": "2026-09-02",
-      "date_human": "02.09.2026",
-      "title": "Покупатель не пришёл за заказом — и вы оплатили обе дороги:…",
-      "reach": 10,
-      "views": 44,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/p/Dcx3b9Gjuux/"
-    },
-    {
-      "date": "2026-09-01",
-      "date_human": "01.09.2026",
-      "title": "Вы продаёте больше, чем в прошлом году, а свободных денег н…",
-      "reach": 9,
-      "views": 22,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
-      "permalink": "https://www.instagram.com/p/DcwCtOkDmJK/"
     }
   ]
 };
