@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "21.09.2026 00:00 МСК",
+  "generated_at": "22.09.2026 00:00 МСК",
   "followers": 21,
   "days": [
     {
@@ -684,21 +684,60 @@ window.IG_DATA = {
       "likes": 127,
       "comments": 1,
       "saved": 62
+    },
+    {
+      "day": "2026-09-21",
+      "followers": 21,
+      "media_count": 105,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 124,
+      "comments": 1,
+      "saved": 61
     }
   ],
   "posts": [
     {
+      "date": "2026-09-21",
+      "date_human": "21.09.2026",
+      "title": "Скидку принято считать потерей выручки, и в этом вся ошибка…",
+      "reach": 3,
+      "views": 14,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/DdjirxoiOvW/"
+    },
+    {
+      "date": "2026-09-21",
+      "date_human": "21.09.2026",
+      "title": "Столица Панема не производит ничего. Еду, уголь, ткань и эл…",
+      "reach": 16,
+      "views": 41,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 9,
+      "er": 0.5625,
+      "permalink": "https://www.instagram.com/p/DdiyjDjjlZy/"
+    },
+    {
       "date": "2026-09-19",
       "date_human": "19.09.2026",
       "title": "Деньги следующей закупки уже лежат у вас на складе. По оста…",
-      "reach": 6,
-      "views": 17,
+      "reach": 7,
+      "views": 19,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.8333,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/p/DdeZBEiG-3z/"
     },
     {
@@ -747,14 +786,14 @@ window.IG_DATA = {
       "date": "2026-09-17",
       "date_human": "17.09.2026",
       "title": "Платёж по кредиту приходит каждый месяц, а выручки с той па…",
-      "reach": 4,
-      "views": 22,
+      "reach": 5,
+      "views": 25,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 1.25,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/DdZPYwfldTi/"
     },
     {
@@ -1008,34 +1047,6 @@ window.IG_DATA = {
       "interactions": 5,
       "er": 0.5556,
       "permalink": "https://www.instagram.com/p/Dc0cN6DDku5/"
-    },
-    {
-      "date": "2026-09-02",
-      "date_human": "02.09.2026",
-      "title": "Пересказ вместо книги, ролик вместо статьи, «коротко о глав…",
-      "reach": 8,
-      "views": 23,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.625,
-      "permalink": "https://www.instagram.com/p/Dcyng8Xjghf/"
-    },
-    {
-      "date": "2026-09-02",
-      "date_human": "02.09.2026",
-      "title": "Тебе нечем платить, а продажи при этом идут. Оборот от 6 ми…",
-      "reach": 8,
-      "views": 12,
-      "likes": 4,
-      "comments": 0,
-      "saved": 1,
-      "shares": 2,
-      "interactions": 8,
-      "er": 1.0,
-      "permalink": "https://www.instagram.com/reel/DcyS0M0CKPV/"
     }
   ]
 };
