@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "24.09.2026 00:00 МСК",
+  "generated_at": "25.09.2026 00:00 МСК",
   "followers": 22,
   "days": [
     {
@@ -717,35 +717,74 @@ window.IG_DATA = {
       "likes": 129,
       "comments": 1,
       "saved": 68
+    },
+    {
+      "day": "2026-09-24",
+      "followers": 22,
+      "media_count": 111,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 130,
+      "comments": 0,
+      "saved": 68
     }
   ],
   "posts": [
     {
-      "date": "2026-09-23",
-      "date_human": "23.09.2026",
-      "title": "Поставщик даёт месяц на оплату, и это выглядит как услуга:…",
-      "reach": 3,
-      "views": 9,
-      "likes": 0,
+      "date": "2026-09-24",
+      "date_human": "24.09.2026",
+      "title": "Процент выкупа смотрят в кабинете и почти никогда не перево…",
+      "reach": 2,
+      "views": 15,
+      "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "interactions": 2,
+      "er": 1.0,
+      "permalink": "https://www.instagram.com/p/DdrQ_W0HZh0/"
+    },
+    {
+      "date": "2026-09-24",
+      "date_human": "24.09.2026",
+      "title": "В Хогвартсе не берут денег за обучение — это подтвердила са…",
+      "reach": 16,
+      "views": 43,
+      "likes": 3,
+      "comments": 0,
+      "saved": 1,
+      "shares": 0,
+      "interactions": 6,
+      "er": 0.375,
+      "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
+    },
+    {
+      "date": "2026-09-23",
+      "date_human": "23.09.2026",
+      "title": "Поставщик даёт месяц на оплату, и это выглядит как услуга:…",
+      "reach": 6,
+      "views": 16,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DdosLZwlJv-/"
     },
     {
       "date": "2026-09-23",
       "date_human": "23.09.2026",
       "title": "Отчёт за месяц приходит числа десятого — когда закупка уже…",
-      "reach": 4,
-      "views": 18,
-      "likes": 0,
+      "reach": 7,
+      "views": 22,
+      "likes": 2,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/p/Ddn8JQoDWDo/"
     },
     {
@@ -767,7 +806,7 @@ window.IG_DATA = {
       "date_human": "22.09.2026",
       "title": "Модель продаётся — так показывает отчёт по артикулу, и нову…",
       "reach": 7,
-      "views": 16,
+      "views": 18,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -781,7 +820,7 @@ window.IG_DATA = {
       "date_human": "21.09.2026",
       "title": "Скидку принято считать потерей выручки, и в этом вся ошибка…",
       "reach": 6,
-      "views": 21,
+      "views": 24,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -1041,34 +1080,6 @@ window.IG_DATA = {
       "interactions": 8,
       "er": 1.1429,
       "permalink": "https://www.instagram.com/p/DdCERFjjlRj/"
-    },
-    {
-      "date": "2026-09-08",
-      "date_human": "08.09.2026",
-      "title": "Фестиваль, где деньги внутри запрещены, закрыл 2024 год с у…",
-      "reach": 14,
-      "views": 45,
-      "likes": 3,
-      "comments": 0,
-      "saved": 1,
-      "shares": 2,
-      "interactions": 7,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/p/DdBiEFDDldu/"
-    },
-    {
-      "date": "2026-09-07",
-      "date_human": "07.09.2026",
-      "title": "Обороты у вас растут, продажи идут, залог есть — а в кредит…",
-      "reach": 10,
-      "views": 31,
-      "likes": 1,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 3,
-      "er": 0.3,
-      "permalink": "https://www.instagram.com/p/Dc_fe1dDgT7/"
     }
   ]
 };
