@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "26.09.2026 00:00 МСК",
-  "followers": 22,
+  "generated_at": "27.09.2026 00:00 МСК",
+  "followers": 23,
   "days": [
     {
       "day": "2026-07-21",
@@ -739,21 +739,46 @@ window.IG_DATA = {
       "likes": 124,
       "comments": 0,
       "saved": 65
+    },
+    {
+      "day": "2026-09-26",
+      "followers": 23,
+      "media_count": 114,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 124,
+      "comments": 0,
+      "saved": 64
     }
   ],
   "posts": [
     {
-      "date": "2026-09-25",
-      "date_human": "25.09.2026",
-      "title": "Первого октября вступает в силу закон о платформенной эконо…",
-      "reach": 2,
-      "views": 10,
+      "date": "2026-09-26",
+      "date_human": "26.09.2026",
+      "title": "Оборот вырос вдвое, а денег на следующую партию стало меньш…",
+      "reach": 3,
+      "views": 11,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "interactions": 1,
+      "er": 0.3333,
+      "permalink": "https://www.instagram.com/p/Ddwak4IFRrv/"
+    },
+    {
+      "date": "2026-09-25",
+      "date_human": "25.09.2026",
+      "title": "Первого октября вступает в силу закон о платформенной эконо…",
+      "reach": 3,
+      "views": 15,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 0.6667,
       "permalink": "https://www.instagram.com/p/Ddt13WqCDea/"
     },
     {
@@ -762,12 +787,12 @@ window.IG_DATA = {
       "title": "Евгений Замятин придумал мир стеклянных стен в 1920 году, з…",
       "reach": 8,
       "views": 17,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 1,
-      "er": 0.125,
+      "interactions": 3,
+      "er": 0.375,
       "permalink": "https://www.instagram.com/p/DdtFuHijz3Q/"
     },
     {
@@ -788,28 +813,28 @@ window.IG_DATA = {
       "date": "2026-09-24",
       "date_human": "24.09.2026",
       "title": "В Хогвартсе не берут денег за обучение — это подтвердила са…",
-      "reach": 21,
-      "views": 59,
+      "reach": 22,
+      "views": 61,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 9,
-      "er": 0.4286,
+      "er": 0.4091,
       "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
     },
     {
       "date": "2026-09-23",
       "date_human": "23.09.2026",
       "title": "Поставщик даёт месяц на оплату, и это выглядит как услуга:…",
-      "reach": 8,
-      "views": 24,
+      "reach": 9,
+      "views": 25,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.625,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/DdosLZwlJv-/"
     },
     {
@@ -1077,20 +1102,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.7,
       "permalink": "https://www.instagram.com/p/DdGdzj6DHvP/"
-    },
-    {
-      "date": "2026-09-09",
-      "date_human": "09.09.2026",
-      "title": "В вашем управленческом отчёте, скорее всего, нет слова «убы…",
-      "reach": 12,
-      "views": 44,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.5833,
-      "permalink": "https://www.instagram.com/p/DdEpEsGjMbq/"
     }
   ]
 };
