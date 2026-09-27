@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "27.09.2026 00:00 МСК",
+  "generated_at": "28.09.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -750,49 +750,74 @@ window.IG_DATA = {
       "likes": 124,
       "comments": 0,
       "saved": 64
+    },
+    {
+      "day": "2026-09-27",
+      "followers": 23,
+      "media_count": 115,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 128,
+      "comments": 0,
+      "saved": 67
     }
   ],
   "posts": [
     {
+      "date": "2026-09-27",
+      "date_human": "27.09.2026",
+      "title": "Чистка ассортимента по последней выгрузке убирает из продаж…",
+      "reach": 4,
+      "views": 16,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
+      "permalink": "https://www.instagram.com/p/Ddy_XzCnX6G/"
+    },
+    {
       "date": "2026-09-26",
       "date_human": "26.09.2026",
       "title": "Оборот вырос вдвое, а денег на следующую партию стало меньш…",
-      "reach": 3,
-      "views": 11,
-      "likes": 0,
+      "reach": 4,
+      "views": 19,
+      "likes": 2,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 1,
-      "er": 0.3333,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
       "permalink": "https://www.instagram.com/p/Ddwak4IFRrv/"
     },
     {
       "date": "2026-09-25",
       "date_human": "25.09.2026",
       "title": "Первого октября вступает в силу закон о платформенной эконо…",
-      "reach": 3,
-      "views": 15,
-      "likes": 1,
+      "reach": 4,
+      "views": 17,
+      "likes": 2,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 2,
-      "er": 0.6667,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
       "permalink": "https://www.instagram.com/p/Ddt13WqCDea/"
     },
     {
       "date": "2026-09-25",
       "date_human": "25.09.2026",
       "title": "Евгений Замятин придумал мир стеклянных стен в 1920 году, з…",
-      "reach": 8,
-      "views": 17,
-      "likes": 2,
+      "reach": 10,
+      "views": 22,
+      "likes": 3,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 3,
-      "er": 0.375,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 6,
+      "er": 0.6,
       "permalink": "https://www.instagram.com/p/DdtFuHijz3Q/"
     },
     {
@@ -813,14 +838,14 @@ window.IG_DATA = {
       "date": "2026-09-24",
       "date_human": "24.09.2026",
       "title": "В Хогвартсе не берут денег за обучение — это подтвердила са…",
-      "reach": 22,
-      "views": 61,
+      "reach": 24,
+      "views": 63,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 9,
-      "er": 0.4091,
+      "er": 0.375,
       "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
     },
     {
@@ -883,14 +908,14 @@ window.IG_DATA = {
       "date": "2026-09-21",
       "date_human": "21.09.2026",
       "title": "Скидку принято считать потерей выручки, и в этом вся ошибка…",
-      "reach": 7,
-      "views": 25,
+      "reach": 8,
+      "views": 26,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DdjirxoiOvW/"
     },
     {
@@ -911,14 +936,14 @@ window.IG_DATA = {
       "date": "2026-09-19",
       "date_human": "19.09.2026",
       "title": "Деньги следующей закупки уже лежат у вас на складе. По оста…",
-      "reach": 8,
-      "views": 21,
+      "reach": 9,
+      "views": 22,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 1.0,
+      "er": 0.8889,
       "permalink": "https://www.instagram.com/p/DdeZBEiG-3z/"
     },
     {
@@ -1088,20 +1113,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.7778,
       "permalink": "https://www.instagram.com/p/DdHN4NQDNTh/"
-    },
-    {
-      "date": "2026-09-10",
-      "date_human": "10.09.2026",
-      "title": "Годовой отчёт показывает прибыль в два миллиона, а на счёте…",
-      "reach": 10,
-      "views": 27,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.7,
-      "permalink": "https://www.instagram.com/p/DdGdzj6DHvP/"
     }
   ]
 };
