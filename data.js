@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "29.09.2026 00:00 МСК",
-  "followers": 23,
+  "generated_at": "30.09.2026 00:00 МСК",
+  "followers": 24,
   "days": [
     {
       "day": "2026-07-21",
@@ -772,9 +772,48 @@ window.IG_DATA = {
       "likes": 128,
       "comments": 0,
       "saved": 66
+    },
+    {
+      "day": "2026-09-29",
+      "followers": 24,
+      "media_count": 118,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 123,
+      "comments": 0,
+      "saved": 64
     }
   ],
   "posts": [
+    {
+      "date": "2026-09-29",
+      "date_human": "29.09.2026",
+      "title": "Дешёвая позиция ездит туда-сюда месяцами, и каждый круг сто…",
+      "reach": 2,
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/Dd4I-bFD1UZ/"
+    },
+    {
+      "date": "2026-09-29",
+      "date_human": "29.09.2026",
+      "title": "Комиссия в кабинете стала ниже, а на счёт приходит меньше —…",
+      "reach": 2,
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/Dd3Y_sSCCCC/"
+    },
     {
       "date": "2026-09-28",
       "date_human": "28.09.2026",
@@ -822,7 +861,7 @@ window.IG_DATA = {
       "date_human": "25.09.2026",
       "title": "Первого октября вступает в силу закон о платформенной эконо…",
       "reach": 4,
-      "views": 17,
+      "views": 18,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -849,28 +888,28 @@ window.IG_DATA = {
       "date": "2026-09-24",
       "date_human": "24.09.2026",
       "title": "Процент выкупа смотрят в кабинете и почти никогда не перево…",
-      "reach": 5,
-      "views": 24,
+      "reach": 6,
+      "views": 25,
       "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 3,
-      "er": 0.6,
+      "er": 0.5,
       "permalink": "https://www.instagram.com/p/DdrQ_W0HZh0/"
     },
     {
       "date": "2026-09-24",
       "date_human": "24.09.2026",
       "title": "В Хогвартсе не берут денег за обучение — это подтвердила са…",
-      "reach": 26,
-      "views": 67,
+      "reach": 29,
+      "views": 73,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 9,
-      "er": 0.3462,
+      "er": 0.3103,
       "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
     },
     {
@@ -1096,34 +1135,6 @@ window.IG_DATA = {
       "interactions": 9,
       "er": 0.9,
       "permalink": "https://www.instagram.com/p/DdLnYAPjEOU/"
-    },
-    {
-      "date": "2026-09-11",
-      "date_human": "11.09.2026",
-      "title": "Себестоимость в вашей таблице почти наверняка занижена, и о…",
-      "reach": 9,
-      "views": 29,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 8,
-      "er": 0.8889,
-      "permalink": "https://www.instagram.com/p/DdJyquYjFqJ/"
-    },
-    {
-      "date": "2026-09-11",
-      "date_human": "11.09.2026",
-      "title": "Вы выбираете, что закупать, по проценту маржи — и почти все…",
-      "reach": 7,
-      "views": 24,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 8,
-      "er": 1.1429,
-      "permalink": "https://www.instagram.com/p/DdJClVljNls/"
     }
   ]
 };
