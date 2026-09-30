@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "30.09.2026 00:00 МСК",
+  "generated_at": "01.10.2026 00:00 МСК",
   "followers": 24,
   "days": [
     {
@@ -783,6 +783,17 @@ window.IG_DATA = {
       "likes": 123,
       "comments": 0,
       "saved": 64
+    },
+    {
+      "day": "2026-09-30",
+      "followers": 24,
+      "media_count": 118,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 125,
+      "comments": 0,
+      "saved": 66
     }
   ],
   "posts": [
@@ -790,28 +801,28 @@ window.IG_DATA = {
       "date": "2026-09-29",
       "date_human": "29.09.2026",
       "title": "Дешёвая позиция ездит туда-сюда месяцами, и каждый круг сто…",
-      "reach": 2,
-      "views": 8,
-      "likes": 0,
+      "reach": 3,
+      "views": 12,
+      "likes": 1,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/Dd4I-bFD1UZ/"
     },
     {
       "date": "2026-09-29",
       "date_human": "29.09.2026",
       "title": "Комиссия в кабинете стала ниже, а на счёт приходит меньше —…",
-      "reach": 2,
-      "views": 9,
-      "likes": 0,
+      "reach": 3,
+      "views": 12,
+      "likes": 1,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/Dd3Y_sSCCCC/"
     },
     {
@@ -902,14 +913,14 @@ window.IG_DATA = {
       "date": "2026-09-24",
       "date_human": "24.09.2026",
       "title": "В Хогвартсе не берут денег за обучение — это подтвердила са…",
-      "reach": 29,
-      "views": 73,
+      "reach": 30,
+      "views": 74,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 9,
-      "er": 0.3103,
+      "er": 0.3,
       "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
     },
     {
