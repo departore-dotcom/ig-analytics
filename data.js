@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "01.10.2026 00:00 МСК",
-  "followers": 24,
+  "generated_at": "02.10.2026 00:00 МСК",
+  "followers": 23,
   "days": [
     {
       "day": "2026-07-21",
@@ -794,77 +794,102 @@ window.IG_DATA = {
       "likes": 125,
       "comments": 0,
       "saved": 66
+    },
+    {
+      "day": "2026-10-01",
+      "followers": 23,
+      "media_count": 119,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 130,
+      "comments": 0,
+      "saved": 67
     }
   ],
   "posts": [
     {
-      "date": "2026-09-29",
-      "date_human": "29.09.2026",
-      "title": "Дешёвая позиция ездит туда-сюда месяцами, и каждый круг сто…",
+      "date": "2026-10-01",
+      "date_human": "01.10.2026",
+      "title": "Комиссия 43,5% забирает почти половину витрины, и в российс…",
       "reach": 3,
-      "views": 12,
-      "likes": 1,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 3,
-      "er": 1.0,
-      "permalink": "https://www.instagram.com/p/Dd4I-bFD1UZ/"
-    },
-    {
-      "date": "2026-09-29",
-      "date_human": "29.09.2026",
-      "title": "Комиссия в кабинете стала ниже, а на счёт приходит меньше —…",
-      "reach": 3,
-      "views": 12,
-      "likes": 1,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 3,
-      "er": 1.0,
-      "permalink": "https://www.instagram.com/p/Dd3Y_sSCCCC/"
-    },
-    {
-      "date": "2026-09-28",
-      "date_human": "28.09.2026",
-      "title": "Чистка склада выглядит как одно действие: выгрузили остатки…",
-      "reach": 4,
-      "views": 14,
+      "views": 13,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
-      "er": 0.5,
+      "er": 0.6667,
+      "permalink": "https://www.instagram.com/p/Dd9SmP-jxHN/"
+    },
+    {
+      "date": "2026-10-01",
+      "date_human": "01.10.2026",
+      "title": "Производство выросло вдвое, а жить люди стали ровно так же…",
+      "reach": 2,
+      "views": 13,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 1.0,
+      "permalink": "https://www.instagram.com/p/Dd9IujHDXGh/"
+    },
+    {
+      "date": "2026-09-29",
+      "date_human": "29.09.2026",
+      "title": "Дешёвая позиция ездит туда-сюда месяцами, и каждый круг сто…",
+      "reach": 5,
+      "views": 17,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 1.6,
+      "permalink": "https://www.instagram.com/p/Dd4I-bFD1UZ/"
+    },
+    {
+      "date": "2026-09-28",
+      "date_human": "28.09.2026",
+      "title": "Чистка склада выглядит как одно действие: выгрузили остатки…",
+      "reach": 5,
+      "views": 15,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/Dd1kKq_CdfV/"
     },
     {
       "date": "2026-09-27",
       "date_human": "27.09.2026",
       "title": "Чистка ассортимента по последней выгрузке убирает из продаж…",
-      "reach": 6,
-      "views": 21,
-      "likes": 2,
+      "reach": 7,
+      "views": 22,
+      "likes": 3,
       "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.8333,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 9,
+      "er": 1.2857,
       "permalink": "https://www.instagram.com/p/Ddy_XzCnX6G/"
     },
     {
       "date": "2026-09-26",
       "date_human": "26.09.2026",
       "title": "Оборот вырос вдвое, а денег на следующую партию стало меньш…",
-      "reach": 5,
-      "views": 22,
-      "likes": 3,
+      "reach": 6,
+      "views": 23,
+      "likes": 4,
       "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 6,
-      "er": 1.2,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 10,
+      "er": 1.6667,
       "permalink": "https://www.instagram.com/p/Ddwak4IFRrv/"
     },
     {
@@ -877,8 +902,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 1.25,
+      "interactions": 6,
+      "er": 1.5,
       "permalink": "https://www.instagram.com/p/Ddt13WqCDea/"
     },
     {
@@ -891,22 +916,22 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 0.5,
+      "interactions": 7,
+      "er": 0.5833,
       "permalink": "https://www.instagram.com/p/DdtFuHijz3Q/"
     },
     {
       "date": "2026-09-24",
       "date_human": "24.09.2026",
       "title": "Процент выкупа смотрят в кабинете и почти никогда не перево…",
-      "reach": 6,
-      "views": 25,
+      "reach": 7,
+      "views": 26,
       "likes": 2,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 3,
-      "er": 0.5,
+      "interactions": 4,
+      "er": 0.5714,
       "permalink": "https://www.instagram.com/p/DdrQ_W0HZh0/"
     },
     {
@@ -919,8 +944,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 1,
-      "interactions": 9,
-      "er": 0.3,
+      "interactions": 10,
+      "er": 0.3333,
       "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
     },
     {
@@ -933,8 +958,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
+      "interactions": 6,
+      "er": 0.6667,
       "permalink": "https://www.instagram.com/p/DdosLZwlJv-/"
     },
     {
@@ -947,8 +972,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.625,
+      "interactions": 6,
+      "er": 0.75,
       "permalink": "https://www.instagram.com/p/Ddn8JQoDWDo/"
     },
     {
@@ -961,8 +986,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.5556,
+      "interactions": 6,
+      "er": 0.6667,
       "permalink": "https://www.instagram.com/p/DdmHgAhCL3J/"
     },
     {
@@ -975,8 +1000,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.7143,
+      "interactions": 6,
+      "er": 0.8571,
       "permalink": "https://www.instagram.com/p/DdlXak1igRY/"
     },
     {
@@ -989,8 +1014,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.625,
+      "interactions": 6,
+      "er": 0.75,
       "permalink": "https://www.instagram.com/p/DdjirxoiOvW/"
     },
     {
@@ -1003,8 +1028,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 3,
       "shares": 3,
-      "interactions": 12,
-      "er": 0.4,
+      "interactions": 13,
+      "er": 0.4333,
       "permalink": "https://www.instagram.com/p/DdiyjDjjlZy/"
     },
     {
@@ -1017,8 +1042,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 0.8,
+      "interactions": 9,
+      "er": 0.9,
       "permalink": "https://www.instagram.com/p/DdeZBEiG-3z/"
     },
     {
@@ -1031,8 +1056,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.6,
+      "interactions": 9,
+      "er": 1.8,
       "permalink": "https://www.instagram.com/p/Dddo8-bFmi_/"
     },
     {
@@ -1045,8 +1070,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.1429,
+      "interactions": 9,
+      "er": 1.2857,
       "permalink": "https://www.instagram.com/p/Ddb0NgkmS8y/"
     },
     {
@@ -1059,8 +1084,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.1429,
+      "interactions": 9,
+      "er": 1.2857,
       "permalink": "https://www.instagram.com/p/DdbELTMlRYp/"
     },
     {
@@ -1073,8 +1098,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.3333,
+      "interactions": 9,
+      "er": 1.5,
       "permalink": "https://www.instagram.com/p/DdZPYwfldTi/"
     },
     {
@@ -1087,8 +1112,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.3333,
+      "interactions": 9,
+      "er": 1.5,
       "permalink": "https://www.instagram.com/p/DdYfXutFZ93/"
     },
     {
@@ -1101,8 +1126,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.0,
+      "interactions": 9,
+      "er": 1.125,
       "permalink": "https://www.instagram.com/p/DdWqoSCDF0u/"
     },
     {
@@ -1115,8 +1140,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 9,
-      "er": 1.0,
+      "interactions": 10,
+      "er": 1.1111,
       "permalink": "https://www.instagram.com/p/DdOMXvADCBk/"
     },
     {
@@ -1129,23 +1154,9 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 9,
-      "er": 1.125,
+      "interactions": 10,
+      "er": 1.25,
       "permalink": "https://www.instagram.com/p/DdMXcx1jG1w/"
-    },
-    {
-      "date": "2026-09-12",
-      "date_human": "12.09.2026",
-      "title": "Самое дорогое, что есть на Burning Man, сжигают по расписан…",
-      "reach": 10,
-      "views": 33,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 3,
-      "interactions": 9,
-      "er": 0.9,
-      "permalink": "https://www.instagram.com/p/DdLnYAPjEOU/"
     }
   ]
 };
