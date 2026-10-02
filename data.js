@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "02.10.2026 00:00 МСК",
+  "generated_at": "03.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -805,35 +805,74 @@ window.IG_DATA = {
       "likes": 130,
       "comments": 0,
       "saved": 67
+    },
+    {
+      "day": "2026-10-02",
+      "followers": 23,
+      "media_count": 121,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 133,
+      "comments": 0,
+      "saved": 71
     }
   ],
   "posts": [
     {
-      "date": "2026-10-01",
-      "date_human": "01.10.2026",
-      "title": "Комиссия 43,5% забирает почти половину витрины, и в российс…",
+      "date": "2026-10-02",
+      "date_human": "02.10.2026",
+      "title": "Обороты растут, а денег на закупку каждый раз не хватает —…",
       "reach": 3,
-      "views": 13,
+      "views": 17,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
       "er": 0.6667,
+      "permalink": "https://www.instagram.com/p/Dd_3b01CNRx/"
+    },
+    {
+      "date": "2026-10-02",
+      "date_human": "02.10.2026",
+      "title": "Своя ферма выглядит как побег из города, а считается как об…",
+      "reach": 4,
+      "views": 16,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
+      "permalink": "https://www.instagram.com/p/Dd_HaiFiBA8/"
+    },
+    {
+      "date": "2026-10-01",
+      "date_human": "01.10.2026",
+      "title": "Комиссия 43,5% забирает почти половину витрины, и в российс…",
+      "reach": 6,
+      "views": 21,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 9,
+      "er": 1.5,
       "permalink": "https://www.instagram.com/p/Dd9SmP-jxHN/"
     },
     {
       "date": "2026-10-01",
       "date_human": "01.10.2026",
       "title": "Производство выросло вдвое, а жить люди стали ровно так же…",
-      "reach": 2,
-      "views": 13,
-      "likes": 1,
+      "reach": 4,
+      "views": 22,
+      "likes": 2,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 2,
-      "er": 1.0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 6,
+      "er": 1.5,
       "permalink": "https://www.instagram.com/p/Dd9IujHDXGh/"
     },
     {
@@ -1129,34 +1168,6 @@ window.IG_DATA = {
       "interactions": 9,
       "er": 1.125,
       "permalink": "https://www.instagram.com/p/DdWqoSCDF0u/"
-    },
-    {
-      "date": "2026-09-13",
-      "date_human": "13.09.2026",
-      "title": "Чтобы получить на руки миллион, компания заплатит либо 1 14…",
-      "reach": 9,
-      "views": 40,
-      "likes": 4,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 10,
-      "er": 1.1111,
-      "permalink": "https://www.instagram.com/p/DdOMXvADCBk/"
-    },
-    {
-      "date": "2026-09-12",
-      "date_human": "12.09.2026",
-      "title": "Счёт перестал работать, операции остановлены, личный кабине…",
-      "reach": 8,
-      "views": 29,
-      "likes": 4,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 10,
-      "er": 1.25,
-      "permalink": "https://www.instagram.com/p/DdMXcx1jG1w/"
     }
   ]
 };
