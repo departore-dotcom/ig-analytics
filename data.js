@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "04.10.2026 00:00 МСК",
+  "generated_at": "05.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -827,15 +827,54 @@ window.IG_DATA = {
       "likes": 136,
       "comments": 0,
       "saved": 74
+    },
+    {
+      "day": "2026-10-04",
+      "followers": 23,
+      "media_count": 125,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 134,
+      "comments": 0,
+      "saved": 74
     }
   ],
   "posts": [
+    {
+      "date": "2026-10-04",
+      "date_human": "04.10.2026",
+      "title": "Когда чистят матрицу, первым снимают товар с тонкой маржой:…",
+      "reach": 5,
+      "views": 17,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.6,
+      "permalink": "https://www.instagram.com/p/DeFA78SjDBR/"
+    },
+    {
+      "date": "2026-10-04",
+      "date_human": "04.10.2026",
+      "title": "Сериал про бумажную контору сняли ровно на пике спроса на б…",
+      "reach": 5,
+      "views": 15,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.6,
+      "permalink": "https://www.instagram.com/p/DeEQ4a7kt6v/"
+    },
     {
       "date": "2026-10-03",
       "date_human": "03.10.2026",
       "title": "Бюджет кончился в понедельник, а лучшая неделя случилась сл…",
       "reach": 5,
-      "views": 21,
+      "views": 25,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -848,14 +887,14 @@ window.IG_DATA = {
       "date": "2026-10-03",
       "date_human": "03.10.2026",
       "title": "Jurassic Park не продал ни одного билета: авария случилась…",
-      "reach": 8,
-      "views": 18,
+      "reach": 11,
+      "views": 21,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 7,
-      "er": 0.875,
+      "er": 0.6364,
       "permalink": "https://www.instagram.com/p/DeBsGG2m-9V/"
     },
     {
@@ -876,14 +915,14 @@ window.IG_DATA = {
       "date": "2026-10-02",
       "date_human": "02.10.2026",
       "title": "Своя ферма выглядит как побег из города, а считается как об…",
-      "reach": 5,
-      "views": 17,
+      "reach": 6,
+      "views": 18,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 1.0,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/Dd_HaiFiBA8/"
     },
     {
@@ -1151,34 +1190,6 @@ window.IG_DATA = {
       "interactions": 9,
       "er": 1.2857,
       "permalink": "https://www.instagram.com/p/Ddb0NgkmS8y/"
-    },
-    {
-      "date": "2026-09-18",
-      "date_human": "18.09.2026",
-      "title": "Товар лежит на складе третий месяц, и каждые сутки это стои…",
-      "reach": 7,
-      "views": 32,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 1.2857,
-      "permalink": "https://www.instagram.com/p/DdbELTMlRYp/"
-    },
-    {
-      "date": "2026-09-17",
-      "date_human": "17.09.2026",
-      "title": "Платёж по кредиту приходит каждый месяц, а выручки с той па…",
-      "reach": 6,
-      "views": 29,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 1.5,
-      "permalink": "https://www.instagram.com/p/DdZPYwfldTi/"
     }
   ]
 };
