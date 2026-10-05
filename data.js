@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "05.10.2026 00:00 МСК",
+  "generated_at": "06.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -838,15 +838,54 @@ window.IG_DATA = {
       "likes": 134,
       "comments": 0,
       "saved": 74
+    },
+    {
+      "day": "2026-10-05",
+      "followers": 23,
+      "media_count": 127,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 135,
+      "comments": 0,
+      "saved": 78
     }
   ],
   "posts": [
+    {
+      "date": "2026-10-05",
+      "date_human": "05.10.2026",
+      "title": "Чистка матрицы по последней выгрузке убирает из продажи тов…",
+      "reach": 4,
+      "views": 11,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.75,
+      "permalink": "https://www.instagram.com/p/DeHlzmliIeu/"
+    },
+    {
+      "date": "2026-10-05",
+      "date_human": "05.10.2026",
+      "title": "Пять занятий, между которыми ничего не покупают и не продаю…",
+      "reach": 7,
+      "views": 23,
+      "likes": 2,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 6,
+      "er": 0.8571,
+      "permalink": "https://www.instagram.com/p/DeG1qdtjBiW/"
+    },
     {
       "date": "2026-10-04",
       "date_human": "04.10.2026",
       "title": "Когда чистят матрицу, первым снимают товар с тонкой маржой:…",
       "reach": 5,
-      "views": 17,
+      "views": 20,
       "likes": 1,
       "comments": 0,
       "saved": 1,
@@ -873,28 +912,28 @@ window.IG_DATA = {
       "date": "2026-10-03",
       "date_human": "03.10.2026",
       "title": "Бюджет кончился в понедельник, а лучшая неделя случилась сл…",
-      "reach": 5,
-      "views": 25,
-      "likes": 2,
+      "reach": 6,
+      "views": 31,
+      "likes": 3,
       "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 1.0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 1.3333,
       "permalink": "https://www.instagram.com/p/DeCcJU4jEvH/"
     },
     {
       "date": "2026-10-03",
       "date_human": "03.10.2026",
       "title": "Jurassic Park не продал ни одного билета: авария случилась…",
-      "reach": 11,
-      "views": 21,
-      "likes": 3,
+      "reach": 12,
+      "views": 23,
+      "likes": 4,
       "comments": 0,
-      "saved": 2,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.6364,
+      "saved": 3,
+      "shares": 2,
+      "interactions": 10,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DeBsGG2m-9V/"
     },
     {
@@ -915,14 +954,14 @@ window.IG_DATA = {
       "date": "2026-10-02",
       "date_human": "02.10.2026",
       "title": "Своя ферма выглядит как побег из города, а считается как об…",
-      "reach": 6,
-      "views": 18,
-      "likes": 2,
+      "reach": 7,
+      "views": 21,
+      "likes": 3,
       "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.8333,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 1.1429,
       "permalink": "https://www.instagram.com/p/Dd_HaiFiBA8/"
     },
     {
@@ -1162,34 +1201,6 @@ window.IG_DATA = {
       "interactions": 9,
       "er": 0.9,
       "permalink": "https://www.instagram.com/p/DdeZBEiG-3z/"
-    },
-    {
-      "date": "2026-09-19",
-      "date_human": "19.09.2026",
-      "title": "За ваш сгоревший товар в налоговую уже подали сумму, а каку…",
-      "reach": 5,
-      "views": 21,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 1.8,
-      "permalink": "https://www.instagram.com/p/Dddo8-bFmi_/"
-    },
-    {
-      "date": "2026-09-18",
-      "date_human": "18.09.2026",
-      "title": "Продажи идут весь месяц, а прибыль начинается где-то в посл…",
-      "reach": 7,
-      "views": 23,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 1.2857,
-      "permalink": "https://www.instagram.com/p/Ddb0NgkmS8y/"
     }
   ]
 };
