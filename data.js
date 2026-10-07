@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "07.10.2026 00:00 МСК",
+  "generated_at": "08.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -860,49 +860,74 @@ window.IG_DATA = {
       "likes": 134,
       "comments": 0,
       "saved": 78
+    },
+    {
+      "day": "2026-10-07",
+      "followers": 23,
+      "media_count": 129,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 138,
+      "comments": 0,
+      "saved": 79
     }
   ],
   "posts": [
+    {
+      "date": "2026-10-07",
+      "date_human": "07.10.2026",
+      "title": "Любой план выглядит убедительно, пока его не разделить на о…",
+      "reach": 11,
+      "views": 40,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 1,
+      "interactions": 9,
+      "er": 0.8182,
+      "permalink": "https://www.instagram.com/p/DeMDTyBDapf/"
+    },
     {
       "date": "2026-10-06",
       "date_human": "06.10.2026",
       "title": "Английское родовое поместье выглядит как состояние, а работ…",
       "reach": 5,
-      "views": 28,
-      "likes": 1,
+      "views": 31,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.6,
+      "interactions": 6,
+      "er": 1.2,
       "permalink": "https://www.instagram.com/p/DeJad-5jJ8z/"
     },
     {
       "date": "2026-10-05",
       "date_human": "05.10.2026",
       "title": "Чистка матрицы по последней выгрузке убирает из продажи тов…",
-      "reach": 5,
-      "views": 14,
-      "likes": 1,
+      "reach": 6,
+      "views": 17,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.6,
+      "interactions": 6,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/DeHlzmliIeu/"
     },
     {
       "date": "2026-10-05",
       "date_human": "05.10.2026",
       "title": "Пять занятий, между которыми ничего не покупают и не продаю…",
-      "reach": 7,
-      "views": 25,
-      "likes": 2,
+      "reach": 8,
+      "views": 27,
+      "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 6,
-      "er": 0.8571,
+      "interactions": 9,
+      "er": 1.125,
       "permalink": "https://www.instagram.com/p/DeG1qdtjBiW/"
     },
     {
@@ -911,12 +936,12 @@ window.IG_DATA = {
       "title": "Когда чистят матрицу, первым снимают товар с тонкой маржой:…",
       "reach": 5,
       "views": 21,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.6,
+      "interactions": 5,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/DeFA78SjDBR/"
     },
     {
@@ -925,40 +950,40 @@ window.IG_DATA = {
       "title": "Сериал про бумажную контору сняли ровно на пике спроса на б…",
       "reach": 5,
       "views": 15,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 3,
-      "er": 0.6,
+      "interactions": 5,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/DeEQ4a7kt6v/"
     },
     {
       "date": "2026-10-03",
       "date_human": "03.10.2026",
       "title": "Бюджет кончился в понедельник, а лучшая неделя случилась сл…",
-      "reach": 7,
-      "views": 31,
+      "reach": 8,
+      "views": 34,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.1429,
+      "interactions": 9,
+      "er": 1.125,
       "permalink": "https://www.instagram.com/p/DeCcJU4jEvH/"
     },
     {
       "date": "2026-10-03",
       "date_human": "03.10.2026",
       "title": "Jurassic Park не продал ни одного билета: авария случилась…",
-      "reach": 16,
-      "views": 31,
+      "reach": 18,
+      "views": 37,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 2,
-      "interactions": 10,
-      "er": 0.625,
+      "interactions": 11,
+      "er": 0.6111,
       "permalink": "https://www.instagram.com/p/DeBsGG2m-9V/"
     },
     {
@@ -971,8 +996,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.8333,
+      "interactions": 6,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/Dd_3b01CNRx/"
     },
     {
@@ -985,8 +1010,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.1429,
+      "interactions": 9,
+      "er": 1.2857,
       "permalink": "https://www.instagram.com/p/Dd_HaiFiBA8/"
     },
     {
@@ -999,8 +1024,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 9,
-      "er": 1.5,
+      "interactions": 10,
+      "er": 1.6667,
       "permalink": "https://www.instagram.com/p/Dd9SmP-jxHN/"
     },
     {
@@ -1013,8 +1038,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 9,
-      "er": 1.8,
+      "interactions": 10,
+      "er": 2.0,
       "permalink": "https://www.instagram.com/p/Dd9IujHDXGh/"
     },
     {
@@ -1027,8 +1052,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.1429,
+      "interactions": 9,
+      "er": 1.2857,
       "permalink": "https://www.instagram.com/p/Dd4I-bFD1UZ/"
     },
     {
@@ -1041,8 +1066,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 0,
       "shares": 1,
-      "interactions": 5,
-      "er": 0.7143,
+      "interactions": 6,
+      "er": 0.8571,
       "permalink": "https://www.instagram.com/p/Dd1kKq_CdfV/"
     },
     {
@@ -1055,8 +1080,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 9,
-      "er": 1.2857,
+      "interactions": 10,
+      "er": 1.4286,
       "permalink": "https://www.instagram.com/p/Ddy_XzCnX6G/"
     },
     {
@@ -1069,8 +1094,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 10,
-      "er": 1.6667,
+      "interactions": 11,
+      "er": 1.8333,
       "permalink": "https://www.instagram.com/p/Ddwak4IFRrv/"
     },
     {
@@ -1083,8 +1108,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 1.2,
+      "interactions": 7,
+      "er": 1.4,
       "permalink": "https://www.instagram.com/p/Ddt13WqCDea/"
     },
     {
@@ -1097,8 +1122,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 7,
-      "er": 0.5385,
+      "interactions": 8,
+      "er": 0.6154,
       "permalink": "https://www.instagram.com/p/DdtFuHijz3Q/"
     },
     {
@@ -1111,8 +1136,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 4,
-      "er": 0.5,
+      "interactions": 5,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DdrQ_W0HZh0/"
     },
     {
@@ -1125,8 +1150,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 2,
       "shares": 1,
-      "interactions": 10,
-      "er": 0.3333,
+      "interactions": 11,
+      "er": 0.3667,
       "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
     },
     {
@@ -1139,8 +1164,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 0.6667,
+      "interactions": 7,
+      "er": 0.7778,
       "permalink": "https://www.instagram.com/p/DdosLZwlJv-/"
     },
     {
@@ -1153,8 +1178,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 0.75,
+      "interactions": 7,
+      "er": 0.875,
       "permalink": "https://www.instagram.com/p/Ddn8JQoDWDo/"
     },
     {
@@ -1167,8 +1192,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 0.5455,
+      "interactions": 7,
+      "er": 0.6364,
       "permalink": "https://www.instagram.com/p/DdmHgAhCL3J/"
     },
     {
@@ -1181,8 +1206,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 0.75,
+      "interactions": 7,
+      "er": 0.875,
       "permalink": "https://www.instagram.com/p/DdlXak1igRY/"
     },
     {
@@ -1195,23 +1220,9 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 0.75,
+      "interactions": 7,
+      "er": 0.875,
       "permalink": "https://www.instagram.com/p/DdjirxoiOvW/"
-    },
-    {
-      "date": "2026-09-21",
-      "date_human": "21.09.2026",
-      "title": "Столица Панема не производит ничего. Еду, уголь, ткань и эл…",
-      "reach": 30,
-      "views": 64,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 13,
-      "er": 0.4333,
-      "permalink": "https://www.instagram.com/p/DdiyjDjjlZy/"
     }
   ]
 };
