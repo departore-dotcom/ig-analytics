@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "08.10.2026 00:00 МСК",
+  "generated_at": "09.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -871,6 +871,17 @@ window.IG_DATA = {
       "likes": 138,
       "comments": 0,
       "saved": 79
+    },
+    {
+      "day": "2026-10-08",
+      "followers": 23,
+      "media_count": 129,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 139,
+      "comments": 0,
+      "saved": 79
     }
   ],
   "posts": [
@@ -878,14 +889,14 @@ window.IG_DATA = {
       "date": "2026-10-07",
       "date_human": "07.10.2026",
       "title": "Любой план выглядит убедительно, пока его не разделить на о…",
-      "reach": 11,
-      "views": 40,
+      "reach": 14,
+      "views": 43,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 9,
-      "er": 0.8182,
+      "er": 0.6429,
       "permalink": "https://www.instagram.com/p/DeMDTyBDapf/"
     },
     {
@@ -894,12 +905,12 @@ window.IG_DATA = {
       "title": "Английское родовое поместье выглядит как состояние, а работ…",
       "reach": 5,
       "views": 31,
-      "likes": 2,
+      "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 1,
-      "interactions": 6,
-      "er": 1.2,
+      "interactions": 7,
+      "er": 1.4,
       "permalink": "https://www.instagram.com/p/DeJad-5jJ8z/"
     },
     {
