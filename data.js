@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "09.10.2026 00:00 МСК",
+  "generated_at": "10.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -882,6 +882,17 @@ window.IG_DATA = {
       "likes": 139,
       "comments": 0,
       "saved": 79
+    },
+    {
+      "day": "2026-10-09",
+      "followers": 23,
+      "media_count": 129,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 139,
+      "comments": 0,
+      "saved": 79
     }
   ],
   "posts": [
@@ -889,42 +900,42 @@ window.IG_DATA = {
       "date": "2026-10-07",
       "date_human": "07.10.2026",
       "title": "Любой план выглядит убедительно, пока его не разделить на о…",
-      "reach": 14,
-      "views": 43,
+      "reach": 16,
+      "views": 45,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 9,
-      "er": 0.6429,
+      "er": 0.5625,
       "permalink": "https://www.instagram.com/p/DeMDTyBDapf/"
     },
     {
       "date": "2026-10-06",
       "date_human": "06.10.2026",
       "title": "Английское родовое поместье выглядит как состояние, а работ…",
-      "reach": 5,
-      "views": 31,
+      "reach": 6,
+      "views": 33,
       "likes": 3,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 7,
-      "er": 1.4,
+      "er": 1.1667,
       "permalink": "https://www.instagram.com/p/DeJad-5jJ8z/"
     },
     {
       "date": "2026-10-05",
       "date_human": "05.10.2026",
       "title": "Чистка матрицы по последней выгрузке убирает из продажи тов…",
-      "reach": 6,
-      "views": 17,
+      "reach": 7,
+      "views": 19,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 6,
-      "er": 1.0,
+      "er": 0.8571,
       "permalink": "https://www.instagram.com/p/DeHlzmliIeu/"
     },
     {
