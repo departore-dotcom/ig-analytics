@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "11.10.2026 00:00 МСК",
+  "generated_at": "12.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -904,9 +904,34 @@ window.IG_DATA = {
       "likes": 145,
       "comments": 0,
       "saved": 84
+    },
+    {
+      "day": "2026-10-11",
+      "followers": 23,
+      "media_count": 130,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 143,
+      "comments": 0,
+      "saved": 83
     }
   ],
   "posts": [
+    {
+      "date": "2026-10-11",
+      "date_human": "11.10.2026",
+      "title": "Вы работаете больше, чем работали ваши родители, а дом и за…",
+      "reach": 2,
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 0,
+      "er": 0.0,
+      "permalink": "https://www.instagram.com/p/DeXCf51DLXh/"
+    },
     {
       "date": "2026-10-07",
       "date_human": "07.10.2026",
@@ -1242,20 +1267,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.875,
       "permalink": "https://www.instagram.com/p/DdlXak1igRY/"
-    },
-    {
-      "date": "2026-09-21",
-      "date_human": "21.09.2026",
-      "title": "Скидку принято считать потерей выручки, и в этом вся ошибка…",
-      "reach": 8,
-      "views": 26,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.875,
-      "permalink": "https://www.instagram.com/p/DdjirxoiOvW/"
     }
   ]
 };
