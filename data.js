@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "12.10.2026 00:00 МСК",
+  "generated_at": "13.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -915,21 +915,60 @@ window.IG_DATA = {
       "likes": 143,
       "comments": 0,
       "saved": 83
+    },
+    {
+      "day": "2026-10-12",
+      "followers": 23,
+      "media_count": 132,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 147,
+      "comments": 0,
+      "saved": 85
     }
   ],
   "posts": [
     {
-      "date": "2026-10-11",
-      "date_human": "11.10.2026",
-      "title": "Вы работаете больше, чем работали ваши родители, а дом и за…",
-      "reach": 2,
-      "views": 4,
-      "likes": 0,
+      "date": "2026-10-12",
+      "date_human": "12.10.2026",
+      "title": "Вы открываете выгрузку, ставите фильтр «себестоимость от 50…",
+      "reach": 3,
+      "views": 9,
+      "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "interactions": 0,
-      "er": 0.0,
+      "interactions": 2,
+      "er": 0.6667,
+      "permalink": "https://www.instagram.com/p/DeZnXq1CARc/"
+    },
+    {
+      "date": "2026-10-12",
+      "date_human": "12.10.2026",
+      "title": "Криминальная империя в «Гангстерленде» Гая Ричи держит Лонд…",
+      "reach": 11,
+      "views": 32,
+      "likes": 4,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 10,
+      "er": 0.9091,
+      "permalink": "https://www.instagram.com/p/DeY3OaUDGSG/"
+    },
+    {
+      "date": "2026-10-11",
+      "date_human": "11.10.2026",
+      "title": "Вы работаете больше, чем работали ваши родители, а дом и за…",
+      "reach": 5,
+      "views": 13,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 1.6,
       "permalink": "https://www.instagram.com/p/DeXCf51DLXh/"
     },
     {
@@ -937,7 +976,7 @@ window.IG_DATA = {
       "date_human": "07.10.2026",
       "title": "Любой план выглядит убедительно, пока его не разделить на о…",
       "reach": 18,
-      "views": 48,
+      "views": 49,
       "likes": 4,
       "comments": 0,
       "saved": 3,
@@ -950,14 +989,14 @@ window.IG_DATA = {
       "date": "2026-10-06",
       "date_human": "06.10.2026",
       "title": "Английское родовое поместье выглядит как состояние, а работ…",
-      "reach": 7,
-      "views": 39,
+      "reach": 8,
+      "views": 40,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 1.4286,
+      "er": 1.25,
       "permalink": "https://www.instagram.com/p/DeJad-5jJ8z/"
     },
     {
@@ -1239,34 +1278,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.875,
       "permalink": "https://www.instagram.com/p/Ddn8JQoDWDo/"
-    },
-    {
-      "date": "2026-09-22",
-      "date_human": "22.09.2026",
-      "title": "Девять из десяти ваших рублей приходят с одной площадки — т…",
-      "reach": 11,
-      "views": 33,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.6364,
-      "permalink": "https://www.instagram.com/p/DdmHgAhCL3J/"
-    },
-    {
-      "date": "2026-09-22",
-      "date_human": "22.09.2026",
-      "title": "Модель продаётся — так показывает отчёт по артикулу, и нову…",
-      "reach": 8,
-      "views": 20,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.875,
-      "permalink": "https://www.instagram.com/p/DdlXak1igRY/"
     }
   ]
 };
