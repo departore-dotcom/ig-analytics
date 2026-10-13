@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "13.10.2026 00:00 МСК",
+  "generated_at": "14.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -926,35 +926,60 @@ window.IG_DATA = {
       "likes": 147,
       "comments": 0,
       "saved": 85
+    },
+    {
+      "day": "2026-10-13",
+      "followers": 23,
+      "media_count": 133,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 150,
+      "comments": 0,
+      "saved": 87
     }
   ],
   "posts": [
     {
+      "date": "2026-10-13",
+      "date_human": "13.10.2026",
+      "title": "Ущерб от выдуманной битвы посчитала фирма, которая оценивае…",
+      "reach": 9,
+      "views": 26,
+      "likes": 4,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 10,
+      "er": 1.1111,
+      "permalink": "https://www.instagram.com/p/DebcB8QlZfh/"
+    },
+    {
       "date": "2026-10-12",
       "date_human": "12.10.2026",
       "title": "Вы открываете выгрузку, ставите фильтр «себестоимость от 50…",
-      "reach": 3,
-      "views": 9,
-      "likes": 1,
+      "reach": 5,
+      "views": 12,
+      "likes": 3,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 2,
-      "er": 0.6667,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 6,
+      "er": 1.2,
       "permalink": "https://www.instagram.com/p/DeZnXq1CARc/"
     },
     {
       "date": "2026-10-12",
       "date_human": "12.10.2026",
       "title": "Криминальная империя в «Гангстерленде» Гая Ричи держит Лонд…",
-      "reach": 11,
-      "views": 32,
+      "reach": 16,
+      "views": 37,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.9091,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DeY3OaUDGSG/"
     },
     {
@@ -975,14 +1000,14 @@ window.IG_DATA = {
       "date": "2026-10-07",
       "date_human": "07.10.2026",
       "title": "Любой план выглядит убедительно, пока его не разделить на о…",
-      "reach": 18,
-      "views": 49,
+      "reach": 19,
+      "views": 50,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 2,
       "interactions": 12,
-      "er": 0.6667,
+      "er": 0.6316,
       "permalink": "https://www.instagram.com/p/DeMDTyBDapf/"
     },
     {
@@ -1264,20 +1289,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 0.7778,
       "permalink": "https://www.instagram.com/p/DdosLZwlJv-/"
-    },
-    {
-      "date": "2026-09-23",
-      "date_human": "23.09.2026",
-      "title": "Отчёт за месяц приходит числа десятого — когда закупка уже…",
-      "reach": 8,
-      "views": 24,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.875,
-      "permalink": "https://www.instagram.com/p/Ddn8JQoDWDo/"
     }
   ]
 };
