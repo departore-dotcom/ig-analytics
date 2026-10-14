@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "14.10.2026 00:00 МСК",
+  "generated_at": "15.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -937,21 +937,74 @@ window.IG_DATA = {
       "likes": 150,
       "comments": 0,
       "saved": 87
+    },
+    {
+      "day": "2026-10-14",
+      "followers": 23,
+      "media_count": 136,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 150,
+      "comments": 0,
+      "saved": 86
     }
   ],
   "posts": [
     {
+      "date": "2026-10-14",
+      "date_human": "14.10.2026",
+      "title": "Богатейший персонаж в истории мультфильмов хранит состояние…",
+      "reach": 2,
+      "views": 10,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 1.0,
+      "permalink": "https://www.instagram.com/p/DeexdNOERiw/"
+    },
+    {
+      "date": "2026-10-14",
+      "date_human": "14.10.2026",
+      "title": "Товар лежит на складе Wildberries третий месяц, продаж по н…",
+      "reach": 2,
+      "views": 15,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 2,
+      "er": 1.0,
+      "permalink": "https://www.instagram.com/p/Deew5D1G7gK/"
+    },
+    {
+      "date": "2026-10-14",
+      "date_human": "14.10.2026",
+      "title": "Вы не назовёте с ходу, сколько компания заработала в прошло…",
+      "reach": 14,
+      "views": 24,
+      "likes": 5,
+      "comments": 0,
+      "saved": 2,
+      "shares": 1,
+      "interactions": 10,
+      "er": 0.7143,
+      "permalink": "https://www.instagram.com/reel/DeeUbC3D6as/"
+    },
+    {
       "date": "2026-10-13",
       "date_human": "13.10.2026",
       "title": "Ущерб от выдуманной битвы посчитала фирма, которая оценивае…",
-      "reach": 9,
-      "views": 26,
+      "reach": 14,
+      "views": 38,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 1.1111,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/p/DebcB8QlZfh/"
     },
     {
@@ -972,14 +1025,14 @@ window.IG_DATA = {
       "date": "2026-10-12",
       "date_human": "12.10.2026",
       "title": "Криминальная империя в «Гангстерленде» Гая Ричи держит Лонд…",
-      "reach": 16,
-      "views": 37,
+      "reach": 17,
+      "views": 38,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.625,
+      "er": 0.5882,
       "permalink": "https://www.instagram.com/p/DeY3OaUDGSG/"
     },
     {
@@ -1247,48 +1300,6 @@ window.IG_DATA = {
       "interactions": 8,
       "er": 0.6154,
       "permalink": "https://www.instagram.com/p/DdtFuHijz3Q/"
-    },
-    {
-      "date": "2026-09-24",
-      "date_human": "24.09.2026",
-      "title": "Процент выкупа смотрят в кабинете и почти никогда не перево…",
-      "reach": 8,
-      "views": 27,
-      "likes": 2,
-      "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 5,
-      "er": 0.625,
-      "permalink": "https://www.instagram.com/p/DdrQ_W0HZh0/"
-    },
-    {
-      "date": "2026-09-24",
-      "date_human": "24.09.2026",
-      "title": "В Хогвартсе не берут денег за обучение — это подтвердила са…",
-      "reach": 30,
-      "views": 74,
-      "likes": 4,
-      "comments": 0,
-      "saved": 2,
-      "shares": 1,
-      "interactions": 11,
-      "er": 0.3667,
-      "permalink": "https://www.instagram.com/p/Ddqg7eXjvoC/"
-    },
-    {
-      "date": "2026-09-23",
-      "date_human": "23.09.2026",
-      "title": "Поставщик даёт месяц на оплату, и это выглядит как услуга:…",
-      "reach": 9,
-      "views": 25,
-      "likes": 2,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 7,
-      "er": 0.7778,
-      "permalink": "https://www.instagram.com/p/DdosLZwlJv-/"
     }
   ]
 };
