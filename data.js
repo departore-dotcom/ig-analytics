@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "15.10.2026 00:00 МСК",
+  "generated_at": "16.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -948,63 +948,88 @@ window.IG_DATA = {
       "likes": 150,
       "comments": 0,
       "saved": 86
+    },
+    {
+      "day": "2026-10-15",
+      "followers": 23,
+      "media_count": 137,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 151,
+      "comments": 0,
+      "saved": 86
     }
   ],
   "posts": [
     {
-      "date": "2026-10-14",
-      "date_human": "14.10.2026",
-      "title": "Богатейший персонаж в истории мультфильмов хранит состояние…",
+      "date": "2026-10-15",
+      "date_human": "15.10.2026",
+      "title": "Позиция встала: показов мало, заказов почти нет, и первая м…",
       "reach": 2,
-      "views": 10,
+      "views": 12,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "interactions": 2,
       "er": 1.0,
+      "permalink": "https://www.instagram.com/p/DehVw51iilX/"
+    },
+    {
+      "date": "2026-10-14",
+      "date_human": "14.10.2026",
+      "title": "Богатейший персонаж в истории мультфильмов хранит состояние…",
+      "reach": 5,
+      "views": 17,
+      "likes": 3,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 6,
+      "er": 1.2,
       "permalink": "https://www.instagram.com/p/DeexdNOERiw/"
     },
     {
       "date": "2026-10-14",
       "date_human": "14.10.2026",
       "title": "Товар лежит на складе Wildberries третий месяц, продаж по н…",
-      "reach": 2,
-      "views": 15,
-      "likes": 1,
+      "reach": 4,
+      "views": 17,
+      "likes": 2,
       "comments": 0,
-      "saved": 0,
-      "shares": 0,
-      "interactions": 2,
-      "er": 1.0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
       "permalink": "https://www.instagram.com/p/Deew5D1G7gK/"
     },
     {
       "date": "2026-10-14",
       "date_human": "14.10.2026",
       "title": "Вы не назовёте с ходу, сколько компания заработала в прошло…",
-      "reach": 14,
-      "views": 24,
+      "reach": 20,
+      "views": 33,
       "likes": 5,
       "comments": 0,
       "saved": 2,
       "shares": 1,
       "interactions": 10,
-      "er": 0.7143,
+      "er": 0.5,
       "permalink": "https://www.instagram.com/reel/DeeUbC3D6as/"
     },
     {
       "date": "2026-10-13",
       "date_human": "13.10.2026",
       "title": "Ущерб от выдуманной битвы посчитала фирма, которая оценивае…",
-      "reach": 14,
-      "views": 38,
+      "reach": 18,
+      "views": 46,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.7143,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/DebcB8QlZfh/"
     },
     {
@@ -1025,14 +1050,14 @@ window.IG_DATA = {
       "date": "2026-10-12",
       "date_human": "12.10.2026",
       "title": "Криминальная империя в «Гангстерленде» Гая Ричи держит Лонд…",
-      "reach": 17,
-      "views": 38,
+      "reach": 20,
+      "views": 41,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.5882,
+      "er": 0.5,
       "permalink": "https://www.instagram.com/p/DeY3OaUDGSG/"
     },
     {
@@ -1286,20 +1311,6 @@ window.IG_DATA = {
       "interactions": 7,
       "er": 1.4,
       "permalink": "https://www.instagram.com/p/Ddt13WqCDea/"
-    },
-    {
-      "date": "2026-09-25",
-      "date_human": "25.09.2026",
-      "title": "Евгений Замятин придумал мир стеклянных стен в 1920 году, з…",
-      "reach": 13,
-      "views": 26,
-      "likes": 3,
-      "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 8,
-      "er": 0.6154,
-      "permalink": "https://www.instagram.com/p/DdtFuHijz3Q/"
     }
   ]
 };
