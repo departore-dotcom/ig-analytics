@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "17.10.2026 00:00 МСК",
+  "generated_at": "18.10.2026 00:00 МСК",
   "followers": 23,
   "days": [
     {
@@ -970,21 +970,60 @@ window.IG_DATA = {
       "likes": 157,
       "comments": 0,
       "saved": 91
+    },
+    {
+      "day": "2026-10-17",
+      "followers": 23,
+      "media_count": 141,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 155,
+      "comments": 0,
+      "saved": 89
     }
   ],
   "posts": [
     {
+      "date": "2026-10-17",
+      "date_human": "17.10.2026",
+      "title": "Месяц закрылся с прибылью, а платить поставщику нечем — и в…",
+      "reach": 4,
+      "views": 13,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
+      "permalink": "https://www.instagram.com/p/DemfXu3ChD4/"
+    },
+    {
+      "date": "2026-10-17",
+      "date_human": "17.10.2026",
+      "title": "Торговая сеть продала товаров на двести семьдесят миллиардо…",
+      "reach": 4,
+      "views": 7,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 1.25,
+      "permalink": "https://www.instagram.com/p/DelvSN4is9U/"
+    },
+    {
       "date": "2026-10-16",
       "date_human": "16.10.2026",
       "title": "Вы открываете отчёт за месяц, а там сто цифр, и ни одна не…",
-      "reach": 11,
-      "views": 23,
+      "reach": 17,
+      "views": 35,
       "likes": 5,
       "comments": 0,
       "saved": 3,
       "shares": 2,
       "interactions": 12,
-      "er": 1.0909,
+      "er": 0.7059,
       "permalink": "https://www.instagram.com/reel/DekC88wNa_J/"
     },
     {
@@ -1033,14 +1072,14 @@ window.IG_DATA = {
       "date": "2026-10-14",
       "date_human": "14.10.2026",
       "title": "Товар лежит на складе Wildberries третий месяц, продаж по н…",
-      "reach": 5,
-      "views": 18,
+      "reach": 6,
+      "views": 19,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 1.0,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/Deew5D1G7gK/"
     },
     {
@@ -1061,14 +1100,14 @@ window.IG_DATA = {
       "date": "2026-10-13",
       "date_human": "13.10.2026",
       "title": "Ущерб от выдуманной битвы посчитала фирма, которая оценивае…",
-      "reach": 18,
-      "views": 46,
+      "reach": 19,
+      "views": 48,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.5556,
+      "er": 0.5263,
       "permalink": "https://www.instagram.com/p/DebcB8QlZfh/"
     },
     {
@@ -1103,14 +1142,14 @@ window.IG_DATA = {
       "date": "2026-10-11",
       "date_human": "11.10.2026",
       "title": "Вы работаете больше, чем работали ваши родители, а дом и за…",
-      "reach": 5,
-      "views": 13,
+      "reach": 6,
+      "views": 14,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 1.6,
+      "er": 1.3333,
       "permalink": "https://www.instagram.com/p/DeXCf51DLXh/"
     },
     {
@@ -1294,34 +1333,6 @@ window.IG_DATA = {
       "interactions": 9,
       "er": 1.2857,
       "permalink": "https://www.instagram.com/p/Dd4I-bFD1UZ/"
-    },
-    {
-      "date": "2026-09-28",
-      "date_human": "28.09.2026",
-      "title": "Чистка склада выглядит как одно действие: выгрузили остатки…",
-      "reach": 7,
-      "views": 18,
-      "likes": 2,
-      "comments": 0,
-      "saved": 0,
-      "shares": 1,
-      "interactions": 6,
-      "er": 0.8571,
-      "permalink": "https://www.instagram.com/p/Dd1kKq_CdfV/"
-    },
-    {
-      "date": "2026-09-27",
-      "date_human": "27.09.2026",
-      "title": "Чистка ассортимента по последней выгрузке убирает из продаж…",
-      "reach": 7,
-      "views": 22,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 10,
-      "er": 1.4286,
-      "permalink": "https://www.instagram.com/p/Ddy_XzCnX6G/"
     }
   ]
 };
