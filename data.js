@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "23.10.2026 00:00 МСК",
+  "generated_at": "24.10.2026 00:00 МСК",
   "followers": 24,
   "days": [
     {
@@ -1036,15 +1036,40 @@ window.IG_DATA = {
       "likes": 158,
       "comments": 0,
       "saved": 90
+    },
+    {
+      "day": "2026-10-23",
+      "followers": 24,
+      "media_count": 148,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 161,
+      "comments": 0,
+      "saved": 90
     }
   ],
   "posts": [
+    {
+      "date": "2026-10-23",
+      "date_human": "23.10.2026",
+      "title": "Машины в «Матрице» держат миллиарды людей ради энергии. Бер…",
+      "reach": 6,
+      "views": 25,
+      "likes": 4,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 9,
+      "er": 1.5,
+      "permalink": "https://www.instagram.com/p/De1L-ZxFcuY/"
+    },
     {
       "date": "2026-10-22",
       "date_human": "22.10.2026",
       "title": "«У меня всё посчитано в таблице». «Прибыль есть, просто она…",
       "reach": 6,
-      "views": 15,
+      "views": 16,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -1058,13 +1083,13 @@ window.IG_DATA = {
       "date_human": "22.10.2026",
       "title": "Apple знают по айфонам, но половину прибыли ей приносят уже…",
       "reach": 8,
-      "views": 26,
-      "likes": 3,
+      "views": 28,
+      "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
-      "interactions": 8,
-      "er": 1.0,
+      "interactions": 9,
+      "er": 1.125,
       "permalink": "https://www.instagram.com/p/DeynL3PmhrZ/"
     },
     {
@@ -1155,14 +1180,14 @@ window.IG_DATA = {
       "date": "2026-10-16",
       "date_human": "16.10.2026",
       "title": "Вы открываете отчёт за месяц, а там сто цифр, и ни одна не…",
-      "reach": 32,
+      "reach": 33,
       "views": 51,
       "likes": 5,
       "comments": 0,
       "saved": 3,
       "shares": 2,
       "interactions": 12,
-      "er": 0.375,
+      "er": 0.3636,
       "permalink": "https://www.instagram.com/reel/DekC88wNa_J/"
     },
     {
@@ -1227,12 +1252,12 @@ window.IG_DATA = {
       "title": "Вы не назовёте с ходу, сколько компания заработала в прошло…",
       "reach": 29,
       "views": 48,
-      "likes": 6,
+      "likes": 7,
       "comments": 0,
       "saved": 3,
       "shares": 2,
-      "interactions": 13,
-      "er": 0.4483,
+      "interactions": 14,
+      "er": 0.4828,
       "permalink": "https://www.instagram.com/reel/DeeUbC3D6as/"
     },
     {
@@ -1267,14 +1292,14 @@ window.IG_DATA = {
       "date": "2026-10-12",
       "date_human": "12.10.2026",
       "title": "Криминальная империя в «Гангстерленде» Гая Ричи держит Лонд…",
-      "reach": 24,
+      "reach": 26,
       "views": 45,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 10,
-      "er": 0.4167,
+      "er": 0.3846,
       "permalink": "https://www.instagram.com/p/DeY3OaUDGSG/"
     },
     {
@@ -1374,20 +1399,6 @@ window.IG_DATA = {
       "interactions": 8,
       "er": 1.3333,
       "permalink": "https://www.instagram.com/p/DeEQ4a7kt6v/"
-    },
-    {
-      "date": "2026-10-03",
-      "date_human": "03.10.2026",
-      "title": "Бюджет кончился в понедельник, а лучшая неделя случилась сл…",
-      "reach": 8,
-      "views": 34,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 9,
-      "er": 1.125,
-      "permalink": "https://www.instagram.com/p/DeCcJU4jEvH/"
     }
   ]
 };
