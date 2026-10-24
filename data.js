@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "24.10.2026 00:00 МСК",
+  "generated_at": "25.10.2026 00:00 МСК",
   "followers": 24,
   "days": [
     {
@@ -1047,35 +1047,60 @@ window.IG_DATA = {
       "likes": 161,
       "comments": 0,
       "saved": 90
+    },
+    {
+      "day": "2026-10-24",
+      "followers": 24,
+      "media_count": 149,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 159,
+      "comments": 0,
+      "saved": 88
     }
   ],
   "posts": [
     {
+      "date": "2026-10-24",
+      "date_human": "24.10.2026",
+      "title": "«У меня есть бухгалтер, зачем мне учёт». «На счёте есть ден…",
+      "reach": 5,
+      "views": 19,
+      "likes": 1,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "interactions": 1,
+      "er": 0.2,
+      "permalink": "https://www.instagram.com/p/De4hNNpimQk/"
+    },
+    {
       "date": "2026-10-23",
       "date_human": "23.10.2026",
       "title": "Машины в «Матрице» держат миллиарды людей ради энергии. Бер…",
-      "reach": 6,
-      "views": 25,
+      "reach": 9,
+      "views": 31,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 9,
-      "er": 1.5,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/De1L-ZxFcuY/"
     },
     {
       "date": "2026-10-22",
       "date_human": "22.10.2026",
       "title": "«У меня всё посчитано в таблице». «Прибыль есть, просто она…",
-      "reach": 6,
-      "views": 16,
+      "reach": 7,
+      "views": 18,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.8333,
+      "er": 0.7143,
       "permalink": "https://www.instagram.com/p/DezXRgdAF_b/"
     },
     {
@@ -1256,8 +1281,8 @@ window.IG_DATA = {
       "comments": 0,
       "saved": 3,
       "shares": 2,
-      "interactions": 14,
-      "er": 0.4828,
+      "interactions": 15,
+      "er": 0.5172,
       "permalink": "https://www.instagram.com/reel/DeeUbC3D6as/"
     },
     {
@@ -1385,20 +1410,6 @@ window.IG_DATA = {
       "interactions": 8,
       "er": 1.3333,
       "permalink": "https://www.instagram.com/p/DeFA78SjDBR/"
-    },
-    {
-      "date": "2026-10-04",
-      "date_human": "04.10.2026",
-      "title": "Сериал про бумажную контору сняли ровно на пике спроса на б…",
-      "reach": 6,
-      "views": 16,
-      "likes": 3,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 8,
-      "er": 1.3333,
-      "permalink": "https://www.instagram.com/p/DeEQ4a7kt6v/"
     }
   ]
 };
