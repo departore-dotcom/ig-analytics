@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "02.11.2026 00:00 МСК",
-  "followers": 26,
+  "generated_at": "03.11.2026 00:00 МСК",
+  "followers": 27,
   "days": [
     {
       "day": "2026-07-21",
@@ -1146,21 +1146,74 @@ window.IG_DATA = {
       "likes": 212,
       "comments": 2,
       "saved": 140
+    },
+    {
+      "day": "2026-11-02",
+      "followers": 27,
+      "media_count": 168,
+      "reach_day": null,
+      "reach_followers": null,
+      "reach_nonfollowers": null,
+      "likes": 218,
+      "comments": 2,
+      "saved": 146
     }
   ],
   "posts": [
     {
+      "date": "2026-11-02",
+      "date_human": "02.11.2026",
+      "title": "Товар за полторы тысячи теперь стоит три с половиной. За дв…",
+      "reach": 87,
+      "views": 121,
+      "likes": 4,
+      "comments": 0,
+      "saved": 3,
+      "shares": 4,
+      "interactions": 12,
+      "er": 0.1379,
+      "permalink": "https://www.instagram.com/reel/DfPpFqQy2FZ/"
+    },
+    {
+      "date": "2026-11-02",
+      "date_human": "02.11.2026",
+      "title": "Лимит по упрощёнке понизили — и под НДС попали 95% крупных…",
+      "reach": 118,
+      "views": 135,
+      "likes": 4,
+      "comments": 0,
+      "saved": 3,
+      "shares": 4,
+      "interactions": 12,
+      "er": 0.1017,
+      "permalink": "https://www.instagram.com/reel/DfPHRlvylYe/"
+    },
+    {
+      "date": "2026-11-02",
+      "date_human": "02.11.2026",
+      "title": "Деньги со счёта ушли, а расхода в отчёте нет — и прибыль по…",
+      "reach": 8,
+      "views": 22,
+      "likes": 4,
+      "comments": 0,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 11,
+      "er": 1.375,
+      "permalink": "https://www.instagram.com/p/DfO77PYlRoJ/"
+    },
+    {
       "date": "2026-11-01",
       "date_human": "01.11.2026",
       "title": "Комиссия выросла с 10–15% до 45%, и это уже не та экономика…",
-      "reach": 20,
-      "views": 40,
-      "likes": 5,
+      "reach": 36,
+      "views": 54,
+      "likes": 6,
       "comments": 0,
       "saved": 4,
       "shares": 3,
-      "interactions": 14,
-      "er": 0.7,
+      "interactions": 15,
+      "er": 0.4167,
       "permalink": "https://www.instagram.com/reel/DfNSxDExc4T/"
     },
     {
@@ -1181,14 +1234,14 @@ window.IG_DATA = {
       "date": "2026-10-31",
       "date_human": "31.10.2026",
       "title": "Ноль на складе выставляет счёт дважды, и второй приходит, к…",
-      "reach": 9,
-      "views": 22,
+      "reach": 10,
+      "views": 25,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 0.8889,
+      "er": 0.8,
       "permalink": "https://www.instagram.com/p/DfKiaEBHNyK/"
     },
     {
@@ -1223,14 +1276,14 @@ window.IG_DATA = {
       "date": "2026-10-30",
       "date_human": "30.10.2026",
       "title": "Склад — это замороженные деньги, и вопрос к нему один: скол…",
-      "reach": 8,
-      "views": 33,
+      "reach": 9,
+      "views": 35,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 1.375,
+      "er": 1.2222,
       "permalink": "https://www.instagram.com/p/DfH9mpBIa5j/"
     },
     {
@@ -1363,8 +1416,8 @@ window.IG_DATA = {
       "date": "2026-10-26",
       "date_human": "26.10.2026",
       "title": "Одна пустынная планета снабжает всю обитаемую вселенную, и…",
-      "reach": 1140,
-      "views": 1570,
+      "reach": 1141,
+      "views": 1571,
       "likes": 8,
       "comments": 2,
       "saved": 5,
@@ -1456,48 +1509,6 @@ window.IG_DATA = {
       "interactions": 12,
       "er": 1.2,
       "permalink": "https://www.instagram.com/p/Deq4zFYFYUS/"
-    },
-    {
-      "date": "2026-10-18",
-      "date_human": "18.10.2026",
-      "title": "Вы отбираете из выгрузки часть товаров, считаете по ним ост…",
-      "reach": 9,
-      "views": 32,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 1.2222,
-      "permalink": "https://www.instagram.com/p/DepEDbnFXlj/"
-    },
-    {
-      "date": "2026-10-18",
-      "date_human": "18.10.2026",
-      "title": "Самый дорогой объект в истории кино посчитали всерьёз — и ц…",
-      "reach": 9,
-      "views": 24,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 1.2222,
-      "permalink": "https://www.instagram.com/p/DeoUE8mCoVf/"
-    },
-    {
-      "date": "2026-10-17",
-      "date_human": "17.10.2026",
-      "title": "Месяц закрылся с прибылью, а платить поставщику нечем — и в…",
-      "reach": 9,
-      "views": 24,
-      "likes": 6,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 13,
-      "er": 1.4444,
-      "permalink": "https://www.instagram.com/p/DemfXu3ChD4/"
     }
   ]
 };
