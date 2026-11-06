@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "06.11.2026 00:00 МСК",
+  "generated_at": "07.11.2026 00:00 МСК",
   "followers": 27,
   "days": [
     {
@@ -1190,9 +1190,34 @@ window.IG_DATA = {
       "likes": 223,
       "comments": 2,
       "saved": 150
+    },
+    {
+      "day": "2026-11-06",
+      "followers": 27,
+      "media_count": 175,
+      "reach_day": 47,
+      "reach_followers": 8,
+      "reach_nonfollowers": 39,
+      "likes": 221,
+      "comments": 2,
+      "saved": 149
     }
   ],
   "posts": [
+    {
+      "date": "2026-11-06",
+      "date_human": "06.11.2026",
+      "title": "У большинства небольших компаний есть точка отказа, о котор…",
+      "reach": 5,
+      "views": 21,
+      "likes": 1,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 3,
+      "er": 0.6,
+      "permalink": "https://www.instagram.com/p/DfZPHc-FcaW/"
+    },
     {
       "date": "2026-11-05",
       "date_human": "05.11.2026",
@@ -1211,28 +1236,28 @@ window.IG_DATA = {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "McDonald's заработал на аренде больше, чем на всех своих ре…",
-      "reach": 10,
-      "views": 38,
+      "reach": 11,
+      "views": 40,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 1.1,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/DfUGsNJioS1/"
     },
     {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "Сервис аналитики подключили, цифры на экране есть — а поним…",
-      "reach": 22,
-      "views": 39,
+      "reach": 25,
+      "views": 42,
       "likes": 5,
       "comments": 0,
       "saved": 4,
-      "shares": 3,
-      "interactions": 14,
-      "er": 0.6364,
+      "shares": 4,
+      "interactions": 15,
+      "er": 0.6,
       "permalink": "https://www.instagram.com/reel/DfT7yaLSDbp/"
     },
     {
@@ -1528,20 +1553,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 0.5,
       "permalink": "https://www.instagram.com/reel/De9Xm-Rgmr0/"
-    },
-    {
-      "date": "2026-10-26",
-      "date_human": "26.10.2026",
-      "title": "Одна пустынная планета снабжает всю обитаемую вселенную, и…",
-      "reach": 1141,
-      "views": 1571,
-      "likes": 8,
-      "comments": 2,
-      "saved": 5,
-      "shares": 4,
-      "interactions": 20,
-      "er": 0.0175,
-      "permalink": "https://www.instagram.com/p/De86b7kCq8K/"
     }
   ]
 };
