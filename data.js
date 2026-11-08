@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "08.11.2026 00:00 МСК",
+  "generated_at": "09.11.2026 00:00 МСК",
   "followers": 27,
   "days": [
     {
@@ -1212,63 +1212,88 @@ window.IG_DATA = {
       "likes": 224,
       "comments": 2,
       "saved": 153
+    },
+    {
+      "day": "2026-11-08",
+      "followers": 27,
+      "media_count": 176,
+      "reach_day": 64,
+      "reach_followers": 8,
+      "reach_nonfollowers": 56,
+      "likes": 224,
+      "comments": 2,
+      "saved": 154
     }
   ],
   "posts": [
     {
+      "date": "2026-11-08",
+      "date_human": "08.11.2026",
+      "title": "На счёте пять миллионов, и кажется, что часть можно забрать…",
+      "reach": 7,
+      "views": 31,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 2,
+      "interactions": 5,
+      "er": 0.7143,
+      "permalink": "https://www.instagram.com/p/DfeZRpSlQ6_/"
+    },
+    {
       "date": "2026-11-06",
       "date_human": "06.11.2026",
       "title": "У большинства небольших компаний есть точка отказа, о котор…",
-      "reach": 9,
-      "views": 41,
+      "reach": 10,
+      "views": 42,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 0.8889,
+      "er": 0.8,
       "permalink": "https://www.instagram.com/p/DfZPHc-FcaW/"
     },
     {
       "date": "2026-11-05",
       "date_human": "05.11.2026",
       "title": "Покупая бутылку Coca-Cola, вы платите сразу двум компаниям,…",
-      "reach": 6,
-      "views": 33,
-      "likes": 2,
+      "reach": 9,
+      "views": 36,
+      "likes": 3,
       "comments": 0,
-      "saved": 0,
-      "shares": 1,
-      "interactions": 4,
-      "er": 0.6667,
+      "saved": 1,
+      "shares": 2,
+      "interactions": 7,
+      "er": 0.7778,
       "permalink": "https://www.instagram.com/p/DfWqUaalXQ5/"
     },
     {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "McDonald's заработал на аренде больше, чем на всех своих ре…",
-      "reach": 13,
-      "views": 45,
+      "reach": 14,
+      "views": 46,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 3,
       "interactions": 14,
-      "er": 1.0769,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/DfUGsNJioS1/"
     },
     {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "Сервис аналитики подключили, цифры на экране есть — а поним…",
-      "reach": 30,
-      "views": 52,
+      "reach": 33,
+      "views": 54,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 15,
-      "er": 0.5,
+      "er": 0.4545,
       "permalink": "https://www.instagram.com/reel/DfT7yaLSDbp/"
     },
     {
@@ -1290,7 +1315,7 @@ window.IG_DATA = {
       "date_human": "03.11.2026",
       "title": "Товар встал на границе, а процент по кредиту за него капает…",
       "reach": 8,
-      "views": 16,
+      "views": 17,
       "likes": 4,
       "comments": 0,
       "saved": 3,
@@ -1550,20 +1575,6 @@ window.IG_DATA = {
       "interactions": 12,
       "er": 1.2,
       "permalink": "https://www.instagram.com/p/De9qgQgipIr/"
-    },
-    {
-      "date": "2026-10-26",
-      "date_human": "26.10.2026",
-      "title": "Не знаете, как увеличить маржинальную прибыль в своём кабин…",
-      "reach": 22,
-      "views": 36,
-      "likes": 5,
-      "comments": 0,
-      "saved": 2,
-      "shares": 2,
-      "interactions": 11,
-      "er": 0.5,
-      "permalink": "https://www.instagram.com/reel/De9Xm-Rgmr0/"
     }
   ]
 };
