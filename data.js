@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "09.11.2026 00:00 МСК",
-  "followers": 27,
+  "generated_at": "10.11.2026 00:00 МСК",
+  "followers": 28,
   "days": [
     {
       "day": "2026-07-21",
@@ -1223,21 +1223,46 @@ window.IG_DATA = {
       "likes": 224,
       "comments": 2,
       "saved": 154
+    },
+    {
+      "day": "2026-11-09",
+      "followers": 28,
+      "media_count": 177,
+      "reach_day": 61,
+      "reach_followers": 9,
+      "reach_nonfollowers": 52,
+      "likes": 224,
+      "comments": 2,
+      "saved": 155
     }
   ],
   "posts": [
     {
+      "date": "2026-11-09",
+      "date_human": "09.11.2026",
+      "title": "Отчёт показывал прибыль, кабинет работал, продажи шли. А вн…",
+      "reach": 6,
+      "views": 21,
+      "likes": 2,
+      "comments": 0,
+      "saved": 1,
+      "shares": 1,
+      "interactions": 5,
+      "er": 0.8333,
+      "permalink": "https://www.instagram.com/p/Dfg9fwAl_gb/"
+    },
+    {
       "date": "2026-11-08",
       "date_human": "08.11.2026",
       "title": "На счёте пять миллионов, и кажется, что часть можно забрать…",
-      "reach": 7,
-      "views": 31,
+      "reach": 8,
+      "views": 34,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 2,
       "interactions": 5,
-      "er": 0.7143,
+      "er": 0.625,
       "permalink": "https://www.instagram.com/p/DfeZRpSlQ6_/"
     },
     {
@@ -1286,42 +1311,42 @@ window.IG_DATA = {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "Сервис аналитики подключили, цифры на экране есть — а поним…",
-      "reach": 33,
-      "views": 54,
+      "reach": 36,
+      "views": 57,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 15,
-      "er": 0.4545,
+      "er": 0.4167,
       "permalink": "https://www.instagram.com/reel/DfT7yaLSDbp/"
     },
     {
       "date": "2026-11-03",
       "date_human": "03.11.2026",
       "title": "Внешний трафик у селлеров заметно подорожал. После запрета…",
-      "reach": 9,
-      "views": 16,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 1.2222,
-      "permalink": "https://www.instagram.com/reel/DfSicu-y45R/"
-    },
-    {
-      "date": "2026-11-03",
-      "date_human": "03.11.2026",
-      "title": "Товар встал на границе, а процент по кредиту за него капает…",
-      "reach": 8,
+      "reach": 10,
       "views": 17,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 1.375,
+      "er": 1.1,
+      "permalink": "https://www.instagram.com/reel/DfSicu-y45R/"
+    },
+    {
+      "date": "2026-11-03",
+      "date_human": "03.11.2026",
+      "title": "Товар встал на границе, а процент по кредиту за него капает…",
+      "reach": 9,
+      "views": 18,
+      "likes": 5,
+      "comments": 0,
+      "saved": 3,
+      "shares": 3,
+      "interactions": 12,
+      "er": 1.3333,
       "permalink": "https://www.instagram.com/reel/DfSIsRtSiD6/"
     },
     {
@@ -1342,14 +1367,14 @@ window.IG_DATA = {
       "date": "2026-11-02",
       "date_human": "02.11.2026",
       "title": "Товар за полторы тысячи теперь стоит три с половиной. За дв…",
-      "reach": 116,
-      "views": 137,
+      "reach": 118,
+      "views": 139,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 4,
       "interactions": 12,
-      "er": 0.1034,
+      "er": 0.1017,
       "permalink": "https://www.instagram.com/reel/DfPpFqQy2FZ/"
     },
     {
@@ -1553,7 +1578,7 @@ window.IG_DATA = {
       "date_human": "28.10.2026",
       "title": "Наценка в двадцать раз — и ни один участник этих денег не в…",
       "reach": 9,
-      "views": 28,
+      "views": 29,
       "likes": 4,
       "comments": 0,
       "saved": 3,
@@ -1561,20 +1586,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 1.2222,
       "permalink": "https://www.instagram.com/p/DfCECesiiyo/"
-    },
-    {
-      "date": "2026-10-26",
-      "date_human": "26.10.2026",
-      "title": "Модель месяц держалась в топе и вдруг просела — причину ищу…",
-      "reach": 10,
-      "views": 33,
-      "likes": 5,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 12,
-      "er": 1.2,
-      "permalink": "https://www.instagram.com/p/De9qgQgipIr/"
     }
   ]
 };
