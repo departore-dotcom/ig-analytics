@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "10.11.2026 00:00 МСК",
+  "generated_at": "11.11.2026 00:00 МСК",
   "followers": 28,
   "days": [
     {
@@ -1234,35 +1234,60 @@ window.IG_DATA = {
       "likes": 224,
       "comments": 2,
       "saved": 155
+    },
+    {
+      "day": "2026-11-10",
+      "followers": 28,
+      "media_count": 178,
+      "reach_day": 71,
+      "reach_followers": 8,
+      "reach_nonfollowers": 63,
+      "likes": 224,
+      "comments": 2,
+      "saved": 156
     }
   ],
   "posts": [
     {
+      "date": "2026-11-10",
+      "date_human": "10.11.2026",
+      "title": "Оборот пятьдесят миллионов, а на счёте семь с половиной. И…",
+      "reach": 7,
+      "views": 28,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 1.1429,
+      "permalink": "https://www.instagram.com/p/DfjiUObGnbN/"
+    },
+    {
       "date": "2026-11-09",
       "date_human": "09.11.2026",
       "title": "Отчёт показывал прибыль, кабинет работал, продажи шли. А вн…",
-      "reach": 6,
-      "views": 21,
-      "likes": 2,
+      "reach": 8,
+      "views": 24,
+      "likes": 3,
       "comments": 0,
-      "saved": 1,
-      "shares": 1,
-      "interactions": 5,
-      "er": 0.8333,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 1.0,
       "permalink": "https://www.instagram.com/p/Dfg9fwAl_gb/"
     },
     {
       "date": "2026-11-08",
       "date_human": "08.11.2026",
       "title": "На счёте пять миллионов, и кажется, что часть можно забрать…",
-      "reach": 8,
-      "views": 34,
+      "reach": 9,
+      "views": 35,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 2,
       "interactions": 5,
-      "er": 0.625,
+      "er": 0.5556,
       "permalink": "https://www.instagram.com/p/DfeZRpSlQ6_/"
     },
     {
@@ -1297,28 +1322,28 @@ window.IG_DATA = {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "McDonald's заработал на аренде больше, чем на всех своих ре…",
-      "reach": 14,
-      "views": 46,
+      "reach": 15,
+      "views": 47,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 3,
       "interactions": 14,
-      "er": 1.0,
+      "er": 0.9333,
       "permalink": "https://www.instagram.com/p/DfUGsNJioS1/"
     },
     {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "Сервис аналитики подключили, цифры на экране есть — а поним…",
-      "reach": 36,
-      "views": 57,
+      "reach": 37,
+      "views": 58,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 15,
-      "er": 0.4167,
+      "er": 0.4054,
       "permalink": "https://www.instagram.com/reel/DfT7yaLSDbp/"
     },
     {
@@ -1367,14 +1392,14 @@ window.IG_DATA = {
       "date": "2026-11-02",
       "date_human": "02.11.2026",
       "title": "Товар за полторы тысячи теперь стоит три с половиной. За дв…",
-      "reach": 118,
-      "views": 139,
+      "reach": 119,
+      "views": 140,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 4,
       "interactions": 12,
-      "er": 0.1017,
+      "er": 0.1008,
       "permalink": "https://www.instagram.com/reel/DfPpFqQy2FZ/"
     },
     {
@@ -1572,20 +1597,6 @@ window.IG_DATA = {
       "interactions": 17,
       "er": 0.1429,
       "permalink": "https://www.instagram.com/reel/DfC00YMN_fE/"
-    },
-    {
-      "date": "2026-10-28",
-      "date_human": "28.10.2026",
-      "title": "Наценка в двадцать раз — и ни один участник этих денег не в…",
-      "reach": 9,
-      "views": 29,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 1.2222,
-      "permalink": "https://www.instagram.com/p/DfCECesiiyo/"
     }
   ]
 };
