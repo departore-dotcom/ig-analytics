@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "11.11.2026 00:00 МСК",
-  "followers": 28,
+  "generated_at": "12.11.2026 00:00 МСК",
+  "followers": 29,
   "days": [
     {
       "day": "2026-07-21",
@@ -1245,9 +1245,34 @@ window.IG_DATA = {
       "likes": 224,
       "comments": 2,
       "saved": 156
+    },
+    {
+      "day": "2026-11-11",
+      "followers": 29,
+      "media_count": 179,
+      "reach_day": 70,
+      "reach_followers": 9,
+      "reach_nonfollowers": 61,
+      "likes": 223,
+      "comments": 2,
+      "saved": 155
     }
   ],
   "posts": [
+    {
+      "date": "2026-11-11",
+      "date_human": "11.11.2026",
+      "title": "Посмотрите на список списаний первого числа: сколько в нём…",
+      "reach": 8,
+      "views": 24,
+      "likes": 4,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 9,
+      "er": 1.125,
+      "permalink": "https://www.instagram.com/p/DfmHJNYCJg9/"
+    },
     {
       "date": "2026-11-10",
       "date_human": "10.11.2026",
@@ -1266,14 +1291,14 @@ window.IG_DATA = {
       "date": "2026-11-09",
       "date_human": "09.11.2026",
       "title": "Отчёт показывал прибыль, кабинет работал, продажи шли. А вн…",
-      "reach": 8,
-      "views": 24,
+      "reach": 9,
+      "views": 25,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 1.0,
+      "er": 0.8889,
       "permalink": "https://www.instagram.com/p/Dfg9fwAl_gb/"
     },
     {
@@ -1294,14 +1319,14 @@ window.IG_DATA = {
       "date": "2026-11-06",
       "date_human": "06.11.2026",
       "title": "У большинства небольших компаний есть точка отказа, о котор…",
-      "reach": 10,
-      "views": 42,
+      "reach": 11,
+      "views": 44,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 0.8,
+      "er": 0.7273,
       "permalink": "https://www.instagram.com/p/DfZPHc-FcaW/"
     },
     {
@@ -1322,14 +1347,14 @@ window.IG_DATA = {
       "date": "2026-11-04",
       "date_human": "04.11.2026",
       "title": "McDonald's заработал на аренде больше, чем на всех своих ре…",
-      "reach": 15,
-      "views": 47,
+      "reach": 16,
+      "views": 48,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 3,
       "interactions": 14,
-      "er": 0.9333,
+      "er": 0.875,
       "permalink": "https://www.instagram.com/p/DfUGsNJioS1/"
     },
     {
@@ -1366,12 +1391,12 @@ window.IG_DATA = {
       "title": "Товар встал на границе, а процент по кредиту за него капает…",
       "reach": 9,
       "views": 18,
-      "likes": 5,
+      "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 3,
-      "interactions": 12,
-      "er": 1.3333,
+      "interactions": 11,
+      "er": 1.2222,
       "permalink": "https://www.instagram.com/reel/DfSIsRtSiD6/"
     },
     {
@@ -1583,20 +1608,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 1.2222,
       "permalink": "https://www.instagram.com/p/DfC_oSoiuUx/"
-    },
-    {
-      "date": "2026-10-28",
-      "date_human": "28.10.2026",
-      "title": "Управленческий учёт обычно начинают с таблицы и бросают чер…",
-      "reach": 119,
-      "views": 141,
-      "likes": 5,
-      "comments": 0,
-      "saved": 7,
-      "shares": 4,
-      "interactions": 17,
-      "er": 0.1429,
-      "permalink": "https://www.instagram.com/reel/DfC00YMN_fE/"
     }
   ]
 };
