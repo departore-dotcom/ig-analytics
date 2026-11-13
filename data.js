@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "13.11.2026 00:00 МСК",
+  "generated_at": "14.11.2026 00:00 МСК",
   "followers": 30,
   "days": [
     {
@@ -1267,35 +1267,74 @@ window.IG_DATA = {
       "likes": 225,
       "comments": 2,
       "saved": 156
+    },
+    {
+      "day": "2026-11-13",
+      "followers": 30,
+      "media_count": 182,
+      "reach_day": 201,
+      "reach_followers": 13,
+      "reach_nonfollowers": 188,
+      "likes": 226,
+      "comments": 2,
+      "saved": 150
     }
   ],
   "posts": [
     {
-      "date": "2026-11-12",
-      "date_human": "12.11.2026",
-      "title": "Вы уходили из найма за свободой. Получили работодателя, кот…",
-      "reach": 6,
-      "views": 26,
+      "date": "2026-11-13",
+      "date_human": "13.11.2026",
+      "title": "Финансовая отчётность от клиентов — ожидание и реальность 🤔…",
+      "reach": 140,
+      "views": 194,
+      "likes": 6,
+      "comments": 0,
+      "saved": 4,
+      "shares": 3,
+      "interactions": 15,
+      "er": 0.1071,
+      "permalink": "https://www.instagram.com/reel/Dfr9QfjSlIt/"
+    },
+    {
+      "date": "2026-11-13",
+      "date_human": "13.11.2026",
+      "title": "Amazon почти не зарабатывает на торговле — у крупнейшего ма…",
+      "reach": 7,
+      "views": 25,
       "likes": 2,
       "comments": 0,
       "saved": 1,
       "shares": 1,
       "interactions": 5,
-      "er": 0.8333,
+      "er": 0.7143,
+      "permalink": "https://www.instagram.com/p/DfrQr2YmxiL/"
+    },
+    {
+      "date": "2026-11-12",
+      "date_human": "12.11.2026",
+      "title": "Вы уходили из найма за свободой. Получили работодателя, кот…",
+      "reach": 9,
+      "views": 43,
+      "likes": 3,
+      "comments": 0,
+      "saved": 2,
+      "shares": 2,
+      "interactions": 8,
+      "er": 0.8889,
       "permalink": "https://www.instagram.com/p/Dfor3hWDxzb/"
     },
     {
       "date": "2026-11-11",
       "date_human": "11.11.2026",
       "title": "Посмотрите на список списаний первого числа: сколько в нём…",
-      "reach": 10,
+      "reach": 11,
       "views": 30,
       "likes": 4,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 9,
-      "er": 0.9,
+      "er": 0.8182,
       "permalink": "https://www.instagram.com/p/DfmHJNYCJg9/"
     },
     {
@@ -1316,14 +1355,14 @@ window.IG_DATA = {
       "date": "2026-11-09",
       "date_human": "09.11.2026",
       "title": "Отчёт показывал прибыль, кабинет работал, продажи шли. А вн…",
-      "reach": 10,
-      "views": 32,
+      "reach": 11,
+      "views": 35,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 2,
       "interactions": 8,
-      "er": 0.8,
+      "er": 0.7273,
       "permalink": "https://www.instagram.com/p/Dfg9fwAl_gb/"
     },
     {
@@ -1331,7 +1370,7 @@ window.IG_DATA = {
       "date_human": "08.11.2026",
       "title": "На счёте пять миллионов, и кажется, что часть можно забрать…",
       "reach": 10,
-      "views": 37,
+      "views": 41,
       "likes": 2,
       "comments": 0,
       "saved": 1,
@@ -1428,14 +1467,14 @@ window.IG_DATA = {
       "date": "2026-11-03",
       "date_human": "03.11.2026",
       "title": "Отчётов в кабинете десятки, а в четверг всё равно непонятно…",
-      "reach": 12,
+      "reach": 13,
       "views": 48,
       "likes": 5,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 12,
-      "er": 1.0,
+      "er": 0.9231,
       "permalink": "https://www.instagram.com/p/DfRgu2Mm3Ej/"
     },
     {
@@ -1554,14 +1593,14 @@ window.IG_DATA = {
       "date": "2026-10-30",
       "date_human": "30.10.2026",
       "title": "Склад — это замороженные деньги, и вопрос к нему один: скол…",
-      "reach": 11,
+      "reach": 12,
       "views": 40,
       "likes": 4,
       "comments": 0,
       "saved": 3,
       "shares": 3,
       "interactions": 11,
-      "er": 1.0,
+      "er": 0.9167,
       "permalink": "https://www.instagram.com/p/DfH9mpBIa5j/"
     },
     {
@@ -1591,34 +1630,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 1.375,
       "permalink": "https://www.instagram.com/p/DfFY6VUiriQ/"
-    },
-    {
-      "date": "2026-10-29",
-      "date_human": "29.10.2026",
-      "title": "Управленческий учёт обычно начинают с таблицы и бросают чер…",
-      "reach": 130,
-      "views": 165,
-      "likes": 8,
-      "comments": 0,
-      "saved": 7,
-      "shares": 3,
-      "interactions": 19,
-      "er": 0.1462,
-      "permalink": "https://www.instagram.com/reel/DfE50-dSMqx/"
-    },
-    {
-      "date": "2026-10-29",
-      "date_human": "29.10.2026",
-      "title": "Одна и та же площадка берёт с вас 43,5% в одежде, а с китай…",
-      "reach": 10,
-      "views": 33,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 1.1,
-      "permalink": "https://www.instagram.com/p/DfEo1FcirYB/"
     }
   ]
 };
