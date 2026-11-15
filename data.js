@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "15.11.2026 00:00 МСК",
+  "generated_at": "16.11.2026 00:00 МСК",
   "followers": 29,
   "days": [
     {
@@ -1289,6 +1289,17 @@ window.IG_DATA = {
       "likes": 241,
       "comments": 2,
       "saved": 161
+    },
+    {
+      "day": "2026-11-15",
+      "followers": 29,
+      "media_count": 185,
+      "reach_day": 306,
+      "reach_followers": 11,
+      "reach_nonfollowers": 293,
+      "likes": 241,
+      "comments": 2,
+      "saved": 161
     }
   ],
   "posts": [
@@ -1296,56 +1307,56 @@ window.IG_DATA = {
       "date": "2026-11-14",
       "date_human": "14.11.2026",
       "title": "Вкладываешь деньги в товар, крутишься годами, а капитал поч…",
-      "reach": 11,
-      "views": 26,
+      "reach": 15,
+      "views": 29,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 5,
       "interactions": 16,
-      "er": 1.4545,
+      "er": 1.0667,
       "permalink": "https://www.instagram.com/reel/DfuXwJDyIHH/"
     },
     {
       "date": "2026-11-14",
       "date_human": "14.11.2026",
       "title": "Бухгалтер присылает отчёт: прибыль за месяц 800 тысяч. Откр…",
-      "reach": 162,
-      "views": 192,
+      "reach": 179,
+      "views": 206,
       "likes": 6,
       "comments": 0,
       "saved": 3,
       "shares": 5,
       "interactions": 16,
-      "er": 0.0988,
+      "er": 0.0894,
       "permalink": "https://www.instagram.com/reel/Dft_qp3S0QS/"
     },
     {
       "date": "2026-11-14",
       "date_human": "14.11.2026",
       "title": "Товар встал на границе, а процент по кредиту за него капает…",
-      "reach": 25,
-      "views": 38,
+      "reach": 35,
+      "views": 52,
       "likes": 8,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 18,
-      "er": 0.72,
+      "er": 0.5143,
       "permalink": "https://www.instagram.com/reel/Dftno8FS2c3/"
     },
     {
       "date": "2026-11-13",
       "date_human": "13.11.2026",
       "title": "Финансовая отчётность от клиентов — ожидание и реальность 🤔…",
-      "reach": 153,
-      "views": 224,
+      "reach": 157,
+      "views": 230,
       "likes": 6,
       "comments": 0,
       "saved": 4,
       "shares": 3,
       "interactions": 15,
-      "er": 0.098,
+      "er": 0.0955,
       "permalink": "https://www.instagram.com/reel/Dfr9QfjSlIt/"
     },
     {
@@ -1394,14 +1405,14 @@ window.IG_DATA = {
       "date": "2026-11-10",
       "date_human": "10.11.2026",
       "title": "Оборот пятьдесят миллионов, а на счёте семь с половиной. И…",
-      "reach": 10,
+      "reach": 11,
       "views": 37,
       "likes": 5,
       "comments": 0,
       "saved": 3,
       "shares": 4,
       "interactions": 13,
-      "er": 1.3,
+      "er": 1.1818,
       "permalink": "https://www.instagram.com/p/DfjiUObGnbN/"
     },
     {
