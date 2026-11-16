@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "16.11.2026 00:00 МСК",
-  "followers": 29,
+  "generated_at": "17.11.2026 00:00 МСК",
+  "followers": 28,
   "days": [
     {
       "day": "2026-07-21",
@@ -1300,15 +1300,40 @@ window.IG_DATA = {
       "likes": 241,
       "comments": 2,
       "saved": 161
+    },
+    {
+      "day": "2026-11-16",
+      "followers": 28,
+      "media_count": 186,
+      "reach_day": 246,
+      "reach_followers": 8,
+      "reach_nonfollowers": 238,
+      "likes": 243,
+      "comments": 2,
+      "saved": 164
     }
   ],
   "posts": [
+    {
+      "date": "2026-11-16",
+      "date_human": "16.11.2026",
+      "title": "Порядок в деньгах бизнеса — это четыре шага, и за 4–6 месяц…",
+      "reach": 146,
+      "views": 172,
+      "likes": 6,
+      "comments": 0,
+      "saved": 5,
+      "shares": 7,
+      "interactions": 19,
+      "er": 0.1301,
+      "permalink": "https://www.instagram.com/reel/Dfy_za4RP2r/"
+    },
     {
       "date": "2026-11-14",
       "date_human": "14.11.2026",
       "title": "Вкладываешь деньги в товар, крутишься годами, а капитал поч…",
       "reach": 15,
-      "views": 29,
+      "views": 30,
       "likes": 5,
       "comments": 0,
       "saved": 4,
@@ -1322,7 +1347,7 @@ window.IG_DATA = {
       "date_human": "14.11.2026",
       "title": "Бухгалтер присылает отчёт: прибыль за месяц 800 тысяч. Откр…",
       "reach": 179,
-      "views": 206,
+      "views": 207,
       "likes": 6,
       "comments": 0,
       "saved": 3,
@@ -1335,14 +1360,14 @@ window.IG_DATA = {
       "date": "2026-11-14",
       "date_human": "14.11.2026",
       "title": "Товар встал на границе, а процент по кредиту за него капает…",
-      "reach": 35,
-      "views": 52,
+      "reach": 39,
+      "views": 57,
       "likes": 8,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 18,
-      "er": 0.5143,
+      "er": 0.4615,
       "permalink": "https://www.instagram.com/reel/Dftno8FS2c3/"
     },
     {
@@ -1391,28 +1416,28 @@ window.IG_DATA = {
       "date": "2026-11-11",
       "date_human": "11.11.2026",
       "title": "Посмотрите на список списаний первого числа: сколько в нём…",
-      "reach": 13,
-      "views": 33,
+      "reach": 14,
+      "views": 36,
       "likes": 5,
       "comments": 0,
       "saved": 3,
       "shares": 4,
       "interactions": 13,
-      "er": 1.0,
+      "er": 0.9286,
       "permalink": "https://www.instagram.com/p/DfmHJNYCJg9/"
     },
     {
       "date": "2026-11-10",
       "date_human": "10.11.2026",
       "title": "Оборот пятьдесят миллионов, а на счёте семь с половиной. И…",
-      "reach": 11,
-      "views": 37,
+      "reach": 12,
+      "views": 38,
       "likes": 5,
       "comments": 0,
       "saved": 3,
       "shares": 4,
       "interactions": 13,
-      "er": 1.1818,
+      "er": 1.0833,
       "permalink": "https://www.instagram.com/p/DfjiUObGnbN/"
     },
     {
@@ -1433,14 +1458,14 @@ window.IG_DATA = {
       "date": "2026-11-08",
       "date_human": "08.11.2026",
       "title": "На счёте пять миллионов, и кажется, что часть можно забрать…",
-      "reach": 11,
-      "views": 45,
+      "reach": 12,
+      "views": 47,
       "likes": 3,
       "comments": 0,
       "saved": 2,
       "shares": 4,
       "interactions": 10,
-      "er": 0.9091,
+      "er": 0.8333,
       "permalink": "https://www.instagram.com/p/DfeZRpSlQ6_/"
     },
     {
@@ -1638,20 +1663,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 1.1,
       "permalink": "https://www.instagram.com/reel/DfKRyuJSAIS/"
-    },
-    {
-      "date": "2026-10-31",
-      "date_human": "31.10.2026",
-      "title": "Деньги на счёте есть, а прибыли нет. Из-за этой путаницы се…",
-      "reach": 9,
-      "views": 18,
-      "likes": 5,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 12,
-      "er": 1.3333,
-      "permalink": "https://www.instagram.com/reel/DfJnZv3S4xW/"
     }
   ]
 };
