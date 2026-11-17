@@ -1,6 +1,6 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "17.11.2026 00:00 МСК",
+  "generated_at": "18.11.2026 00:00 МСК",
   "followers": 28,
   "days": [
     {
@@ -1311,21 +1311,46 @@ window.IG_DATA = {
       "likes": 243,
       "comments": 2,
       "saved": 164
+    },
+    {
+      "day": "2026-11-17",
+      "followers": 28,
+      "media_count": 187,
+      "reach_day": 216,
+      "reach_followers": 8,
+      "reach_nonfollowers": 208,
+      "likes": 243,
+      "comments": 2,
+      "saved": 165
     }
   ],
   "posts": [
     {
+      "date": "2026-11-17",
+      "date_human": "17.11.2026",
+      "title": "Сеть из трёх ресторанов: выручка упала на 7–10%, чистая при…",
+      "reach": 10,
+      "views": 32,
+      "likes": 4,
+      "comments": 0,
+      "saved": 3,
+      "shares": 7,
+      "interactions": 15,
+      "er": 1.5,
+      "permalink": "https://www.instagram.com/p/Df1j3Z4Gx1F/"
+    },
+    {
       "date": "2026-11-16",
       "date_human": "16.11.2026",
       "title": "Порядок в деньгах бизнеса — это четыре шага, и за 4–6 месяц…",
-      "reach": 146,
-      "views": 172,
+      "reach": 149,
+      "views": 181,
       "likes": 6,
       "comments": 0,
       "saved": 5,
       "shares": 7,
       "interactions": 19,
-      "er": 0.1301,
+      "er": 0.1275,
       "permalink": "https://www.instagram.com/reel/Dfy_za4RP2r/"
     },
     {
@@ -1347,7 +1372,7 @@ window.IG_DATA = {
       "date_human": "14.11.2026",
       "title": "Бухгалтер присылает отчёт: прибыль за месяц 800 тысяч. Откр…",
       "reach": 179,
-      "views": 207,
+      "views": 209,
       "likes": 6,
       "comments": 0,
       "saved": 3,
@@ -1360,14 +1385,14 @@ window.IG_DATA = {
       "date": "2026-11-14",
       "date_human": "14.11.2026",
       "title": "Товар встал на границе, а процент по кредиту за него капает…",
-      "reach": 39,
+      "reach": 41,
       "views": 57,
       "likes": 8,
       "comments": 0,
       "saved": 4,
       "shares": 4,
       "interactions": 18,
-      "er": 0.4615,
+      "er": 0.439,
       "permalink": "https://www.instagram.com/reel/Dftno8FS2c3/"
     },
     {
@@ -1389,7 +1414,7 @@ window.IG_DATA = {
       "date_human": "13.11.2026",
       "title": "Amazon почти не зарабатывает на торговле — у крупнейшего ма…",
       "reach": 11,
-      "views": 37,
+      "views": 38,
       "likes": 4,
       "comments": 0,
       "saved": 2,
@@ -1403,7 +1428,7 @@ window.IG_DATA = {
       "date_human": "12.11.2026",
       "title": "Вы уходили из найма за свободой. Получили работодателя, кот…",
       "reach": 12,
-      "views": 58,
+      "views": 59,
       "likes": 5,
       "comments": 0,
       "saved": 3,
@@ -1417,7 +1442,7 @@ window.IG_DATA = {
       "date_human": "11.11.2026",
       "title": "Посмотрите на список списаний первого числа: сколько в нём…",
       "reach": 14,
-      "views": 36,
+      "views": 37,
       "likes": 5,
       "comments": 0,
       "saved": 3,
@@ -1431,7 +1456,7 @@ window.IG_DATA = {
       "date_human": "10.11.2026",
       "title": "Оборот пятьдесят миллионов, а на счёте семь с половиной. И…",
       "reach": 12,
-      "views": 38,
+      "views": 39,
       "likes": 5,
       "comments": 0,
       "saved": 3,
@@ -1445,7 +1470,7 @@ window.IG_DATA = {
       "date_human": "09.11.2026",
       "title": "Отчёт показывал прибыль, кабинет работал, продажи шли. А вн…",
       "reach": 13,
-      "views": 39,
+      "views": 40,
       "likes": 4,
       "comments": 0,
       "saved": 3,
@@ -1459,7 +1484,7 @@ window.IG_DATA = {
       "date_human": "08.11.2026",
       "title": "На счёте пять миллионов, и кажется, что часть можно забрать…",
       "reach": 12,
-      "views": 47,
+      "views": 48,
       "likes": 3,
       "comments": 0,
       "saved": 2,
@@ -1649,20 +1674,6 @@ window.IG_DATA = {
       "interactions": 11,
       "er": 1.0,
       "permalink": "https://www.instagram.com/p/DfKiaEBHNyK/"
-    },
-    {
-      "date": "2026-10-31",
-      "date_human": "31.10.2026",
-      "title": "Товар продали, а денег нет — и съела их логистика. У габари…",
-      "reach": 10,
-      "views": 18,
-      "likes": 4,
-      "comments": 0,
-      "saved": 3,
-      "shares": 3,
-      "interactions": 11,
-      "er": 1.1,
-      "permalink": "https://www.instagram.com/reel/DfKRyuJSAIS/"
     }
   ]
 };
