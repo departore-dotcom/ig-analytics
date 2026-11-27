@@ -1,7 +1,7 @@
 window.IG_DATA = {
   "account": "@teslenko_mv",
-  "generated_at": "27.11.2026 00:00 МСК",
-  "followers": 28,
+  "generated_at": "28.11.2026 00:00 МСК",
+  "followers": 29,
   "days": [
     {
       "day": "2026-07-21",
@@ -1421,49 +1421,74 @@ window.IG_DATA = {
       "likes": 253,
       "comments": 4,
       "saved": 206
+    },
+    {
+      "day": "2026-11-27",
+      "followers": 29,
+      "media_count": 210,
+      "reach_day": 1152,
+      "reach_followers": 6,
+      "reach_nonfollowers": 1143,
+      "likes": 258,
+      "comments": 4,
+      "saved": 208
     }
   ],
   "posts": [
     {
+      "date": "2026-11-27",
+      "date_human": "27.11.2026",
+      "title": "Один плохой месяц в бизнесе случается у всех: сорвался конт…",
+      "reach": 9,
+      "views": 25,
+      "likes": 5,
+      "comments": 0,
+      "saved": 5,
+      "shares": 7,
+      "interactions": 19,
+      "er": 2.1111,
+      "permalink": "https://www.instagram.com/reel/DgPv1CgyHl6/"
+    },
+    {
       "date": "2026-11-26",
       "date_human": "26.11.2026",
       "title": "«Сумерки»: семья Калленов богата больше трёхсот лет, хотя р…",
-      "reach": 500,
-      "views": 576,
-      "likes": 6,
+      "reach": 1110,
+      "views": 1229,
+      "likes": 10,
       "comments": 0,
       "saved": 5,
-      "shares": 9,
-      "interactions": 22,
-      "er": 0.044,
+      "shares": 10,
+      "interactions": 27,
+      "er": 0.0243,
       "permalink": "https://www.instagram.com/reel/DgNLh-oSFYw/"
     },
     {
       "date": "2026-11-25",
       "date_human": "25.11.2026",
       "title": "Когда ты один принимаешь решения в бизнесе, сомнения приход…",
-      "reach": 127,
-      "views": 175,
+      "reach": 129,
+      "views": 179,
       "likes": 5,
       "comments": 0,
       "saved": 4,
       "shares": 7,
       "interactions": 17,
-      "er": 0.1339,
+      "er": 0.1318,
       "permalink": "https://www.instagram.com/reel/DgKmO3-yeu5/"
     },
     {
       "date": "2026-11-24",
       "date_human": "24.11.2026",
       "title": "Почему сильные решения принимает тот, кто видит всю схему ц…",
-      "reach": 203,
-      "views": 251,
+      "reach": 204,
+      "views": 257,
       "likes": 7,
       "comments": 0,
       "saved": 5,
       "shares": 7,
       "interactions": 20,
-      "er": 0.0985,
+      "er": 0.098,
       "permalink": "https://www.instagram.com/reel/DgIBcfgyImJ/"
     },
     {
@@ -1471,7 +1496,7 @@ window.IG_DATA = {
       "date_human": "24.11.2026",
       "title": "Берёшь новый кредит, чтобы закрыть старый, и кажется, что э…",
       "reach": 8,
-      "views": 21,
+      "views": 26,
       "likes": 4,
       "comments": 0,
       "saved": 4,
@@ -1485,7 +1510,7 @@ window.IG_DATA = {
       "date_human": "23.11.2026",
       "title": "«Король Лев»: территория прайда превратилась в пустыню без…",
       "reach": 7,
-      "views": 17,
+      "views": 18,
       "likes": 5,
       "comments": 0,
       "saved": 4,
@@ -1513,7 +1538,7 @@ window.IG_DATA = {
       "date_human": "22.11.2026",
       "title": "Сколько стоит решение, которое откладывают «до лучших времё…",
       "reach": 153,
-      "views": 189,
+      "views": 190,
       "likes": 5,
       "comments": 1,
       "saved": 8,
@@ -1554,14 +1579,14 @@ window.IG_DATA = {
       "date": "2026-11-21",
       "date_human": "21.11.2026",
       "title": "«Игра престолов»: самый богатый дом Вестероса живёт на деви…",
-      "reach": 16,
-      "views": 31,
+      "reach": 18,
+      "views": 33,
       "likes": 6,
       "comments": 0,
       "saved": 5,
       "shares": 7,
       "interactions": 20,
-      "er": 1.25,
+      "er": 1.1111,
       "permalink": "https://www.instagram.com/reel/DgATik3SDUR/"
     },
     {
@@ -1759,20 +1784,6 @@ window.IG_DATA = {
       "interactions": 20,
       "er": 0.1307,
       "permalink": "https://www.instagram.com/reel/Dfy_za4RP2r/"
-    },
-    {
-      "date": "2026-11-14",
-      "date_human": "14.11.2026",
-      "title": "Вкладываешь деньги в товар, крутишься годами, а капитал поч…",
-      "reach": 22,
-      "views": 46,
-      "likes": 6,
-      "comments": 0,
-      "saved": 5,
-      "shares": 5,
-      "interactions": 18,
-      "er": 0.8182,
-      "permalink": "https://www.instagram.com/reel/DfuXwJDyIHH/"
     }
   ]
 };
